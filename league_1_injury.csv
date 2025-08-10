@@ -1,0 +1,2149 @@
+player_name,season,injury,from_date,to_date,days_out,matches_missed
+Gianluigi Donnarumma,24/25,Facial injury,"Dec 19, 2024","Jan 3, 2025",16 days,1
+Gianluigi Donnarumma,21/22,Corona virus,"Jan 10, 2022","Jan 14, 2022",5 days,-
+Gianluigi Donnarumma,21/22,Fitness,"Jul 14, 2021","Aug 16, 2021",34 days,3
+Gianluigi Donnarumma,20/21,Corona virus,"Oct 26, 2020","Oct 30, 2020",5 days,2
+Gianluigi Donnarumma,19/20,Ankle sprain,"Feb 22, 2020","Mar 9, 2020",17 days,2
+Gianluigi Donnarumma,19/20,Contracture,"Jan 12, 2020","Jan 18, 2020",7 days,1
+Gianluigi Donnarumma,19/20,stomach problems,"Oct 5, 2019","Oct 6, 2019",2 days,1
+Gianluigi Donnarumma,18/19,Hamstring muscle injury,"May 26, 2019","Jun 30, 2019",36 days,3
+Gianluigi Donnarumma,18/19,strain,"Apr 3, 2019","Apr 16, 2019",14 days,2
+Gianluigi Donnarumma,17/18,Adductor pain,"Dec 27, 2017","Dec 29, 2017",3 days,1
+Gianluigi Donnarumma,15/16,Head injury,"Mar 13, 2016","Mar 14, 2016",2 days,1
+Matvey Safonov,24/25,Virus,"Aug 31, 2024","Sep 3, 2024",4 days,1
+Matvey Safonov,23/24,Head injury,"Nov 26, 2023","Nov 30, 2023",5 days,1
+Matvey Safonov,22/23,Shoulder injury,"Nov 13, 2022","Dec 26, 2022",44 days,3
+Matvey Safonov,20/21,Tendon rupture,"Dec 8, 2020","Mar 17, 2021",100 days,9
+Matvey Safonov,20/21,Quarantine,"Nov 16, 2020","Nov 30, 2020",15 days,3
+Matvey Safonov,18/19,unknown injury,"Oct 6, 2018","Oct 18, 2018",13 days,2
+Arnau Tenas,21/22,Muscle injury,"Apr 8, 2022","Apr 13, 2022",6 days,1
+Arnau Tenas,21/22,Foot injury,"Sep 25, 2021","Oct 28, 2021",34 days,6
+Willian Pacho,21/22,Fitness,"Feb 5, 2022","Feb 7, 2022",3 days,1
+Willian Pacho,21/22,Shoulder injury,"Oct 4, 2021","Feb 4, 2022",124 days,11
+Marquinhos,24/25,Adductor injury,"Jan 5, 2025","Jan 26, 2025",22 days,6
+Marquinhos,23/24,Achilles tendon contusion,"Feb 18, 2024","Apr 4, 2024",47 days,10
+Marquinhos,23/24,Hamstring injury,"Nov 23, 2023","Dec 3, 2023",11 days,3
+Marquinhos,23/24,Adductor pain,"Oct 28, 2023","Nov 1, 2023",5 days,1
+Marquinhos,22/23,Dead leg,"Feb 15, 2023","Feb 22, 2023",8 days,1
+Marquinhos,22/23,Rest,"Nov 12, 2022","Nov 14, 2022",3 days,1
+Marquinhos,21/22,Fitness,"Jul 12, 2021","Aug 16, 2021",36 days,3
+Marquinhos,20/21,Adductor pain,"Apr 8, 2021","Apr 25, 2021",18 days,5
+Marquinhos,20/21,Adductor pain,"Jan 23, 2021","Feb 5, 2021",14 days,2
+Marquinhos,20/21,Hip problems,"Dec 10, 2020","Dec 17, 2020",8 days,2
+Marquinhos,20/21,Adductor pain,"Nov 25, 2020","Dec 1, 2020",7 days,1
+Marquinhos,20/21,Adductor pain,"Oct 14, 2020","Oct 18, 2020",5 days,1
+Marquinhos,20/21,Corona virus,"Sep 2, 2020","Sep 16, 2020",15 days,3
+Marquinhos,19/20,Hamstring strain,"Jan 23, 2020","Feb 13, 2020",22 days,6
+Marquinhos,19/20,Groin problems,"Jan 13, 2020","Jan 20, 2020",8 days,2
+Lucas Beraldo,22/23,Injury to the ankle,"Jun 29, 2023","Jul 19, 2023",21 days,5
+Presnel Kimpembe,22/23,Achilles tendon rupture,"Feb 26, 2023","Nov 25, 2024",639 days,84
+Presnel Kimpembe,22/23,Achilles tendon problems,"Nov 14, 2022","Feb 9, 2023",88 days,10
+Presnel Kimpembe,22/23,Achilles tendon problems,"Nov 1, 2022","Nov 7, 2022",7 days,2
+Presnel Kimpembe,22/23,Hamstring injury,"Sep 12, 2022","Oct 24, 2022",43 days,8
+Presnel Kimpembe,22/23,Calf injury,"Aug 30, 2022","Sep 1, 2022",3 days,1
+Presnel Kimpembe,21/22,Thigh problems,"Nov 4, 2021","Nov 15, 2021",12 days,1
+Presnel Kimpembe,20/21,Rest,"Jan 21, 2021","Jan 25, 2021",5 days,1
+Presnel Kimpembe,20/21,Muscle injury,"Dec 21, 2020","Jan 14, 2021",25 days,4
+Presnel Kimpembe,20/21,Hairline crack in foot,"Nov 5, 2020","Nov 9, 2020",5 days,1
+Presnel Kimpembe,19/20,Thigh problems,"Feb 10, 2020","Feb 17, 2020",8 days,2
+Presnel Kimpembe,19/20,Hamstring injury,"Dec 5, 2019","Jan 13, 2020",40 days,8
+Presnel Kimpembe,19/20,Fitness,"Aug 12, 2019","Aug 22, 2019",11 days,1
+Presnel Kimpembe,18/19,Pubalgia,"May 23, 2019","Aug 12, 2019",82 days,6
+Presnel Kimpembe,18/19,Hamstring injury,"May 20, 2019","Jul 1, 2019",43 days,4
+Presnel Kimpembe,15/16,Ankle injury,"Oct 15, 2015","Nov 2, 2015",19 days,4
+Nuno Mendes,22/23,Hamstring injury,"May 1, 2023","Feb 12, 2024",288 days,44
+Nuno Mendes,22/23,Muscle injury,"Nov 29, 2022","Jan 16, 2023",49 days,8
+Nuno Mendes,22/23,Muscle injury,"Nov 21, 2022","Nov 25, 2022",5 days,1
+Nuno Mendes,22/23,Hamstring injury,"Oct 3, 2022","Oct 23, 2022",21 days,5
+Nuno Mendes,21/22,Ankle injury,"Aug 2, 2021","Aug 19, 2021",18 days,2
+Nuno Mendes,20/21,minor knock,"Jun 17, 2021","Jun 21, 2021",5 days,1
+Nuno Mendes,20/21,Rest,"Feb 1, 2021","Feb 8, 2021",8 days,2
+Nuno Mendes,20/21,Corona virus,"Jan 11, 2021","Jan 25, 2021",15 days,4
+Nuno Mendes,20/21,Foot bruise,"Nov 30, 2020","Dec 10, 2020",11 days,1
+Nuno Mendes,20/21,Foot bruise,"Nov 16, 2020","Nov 26, 2020",11 days,2
+Lucas Hernández,23/24,Cruciate ligament tear,"May 1, 2024","Dec 1, 2024",215 days,24
+Lucas Hernández,23/24,unknown injury,"Apr 4, 2024","Apr 10, 2024",7 days,2
+Lucas Hernández,22/23,Cruciate ligament tear,"Nov 23, 2022","Jun 30, 2023",220 days,35
+Lucas Hernández,22/23,Torn muscle bundle,"Sep 14, 2022","Oct 31, 2022",48 days,12
+Lucas Hernández,21/22,muscular problems,"Jun 9, 2022","Jun 13, 2022",5 days,2
+Lucas Hernández,21/22,muscular problems,"Apr 14, 2022","Apr 21, 2022",8 days,1
+Lucas Hernández,21/22,Thigh problems,"Apr 7, 2022","Apr 11, 2022",5 days,1
+Lucas Hernández,21/22,Corona virus,"Jan 3, 2022","Jan 17, 2022",15 days,2
+Lucas Hernández,21/22,Meniscus tear,"Jun 28, 2021","Aug 30, 2021",64 days,5
+Lucas Hernández,20/21,Bruised ribs,"Apr 8, 2021","Apr 12, 2021",5 days,1
+Lucas Hernández,20/21,Thigh problems,"Dec 3, 2020","Dec 7, 2020",5 days,1
+Lucas Hernández,19/20,Tendon irritation,"Mar 2, 2020","Mar 5, 2020",4 days,1
+Lucas Hernández,19/20,Fitness,"Jan 20, 2020","Feb 3, 2020",15 days,2
+Lucas Hernández,19/20,Inner ankle ligament tear,"Oct 24, 2019","Jan 20, 2020",89 days,16
+Lucas Hernández,19/20,Knee bruise,"Sep 30, 2019","Oct 10, 2019",11 days,2
+Achraf Hakimi,22/23,Hamstring injury,"Feb 15, 2023","Mar 6, 2023",20 days,3
+Achraf Hakimi,21/22,Hamstring injury,"Feb 24, 2022","Mar 8, 2022",13 days,2
+Achraf Hakimi,21/22,Corona virus,"Jul 16, 2021","Jul 30, 2021",15 days,-
+Achraf Hakimi,20/21,Ankle problems,"Dec 13, 2020","Dec 16, 2020",4 days,2
+Achraf Hakimi,20/21,Quarantine,"Oct 21, 2020","Oct 23, 2020",3 days,1
+Achraf Hakimi,18/19,Metatarsal fracture,"Mar 31, 2019","Jun 5, 2019",67 days,7
+Yoram Zague,24/25,malaria,"Jul 20, 2024","Jul 27, 2024",8 days,2
+Yoram Zague,22/23,Broken ankle,"Apr 8, 2023","Jul 17, 2023",101 days,18
+Vitinha,21/22,Corona virus,"May 28, 2022","Jun 6, 2022",10 days,2
+Vitinha,19/20,Muscle injury,"Feb 21, 2020","Mar 16, 2020",25 days,4
+Warren Zaïre-Emery,24/25,ankle sprain,"Jan 29, 2025","Feb 24, 2025",27 days,8
+Warren Zaïre-Emery,23/24,Ankle sprain,"Nov 19, 2023","Dec 6, 2023",18 days,4
+Fabián Ruiz,22/23,Adductor pain,"Nov 5, 2022","Nov 14, 2022",10 days,2
+Fabián Ruiz,21/22,Corona virus,"Dec 26, 2021","Dec 29, 2021",4 days,-
+Fabián Ruiz,21/22,Adductor injury,"Dec 1, 2021","Jan 8, 2022",39 days,7
+Fabián Ruiz,21/22,unknown injury,"Nov 23, 2021","Nov 26, 2021",4 days,1
+Fabián Ruiz,21/22,Adductor pain,"Nov 3, 2021","Nov 5, 2021",3 days,1
+Fabián Ruiz,20/21,Fitness,"Feb 5, 2021","Feb 7, 2021",3 days,1
+Fabián Ruiz,20/21,Corona virus,"Jan 16, 2021","Feb 4, 2021",20 days,6
+Fabián Ruiz,19/20,flu,"Jan 30, 2020","Feb 5, 2020",7 days,1
+Fabián Ruiz,18/19,influenza,"Mar 16, 2019","Mar 25, 2019",10 days,4
+Fabián Ruiz,18/19,unknown injury,"Aug 24, 2018","Aug 31, 2018",8 days,1
+Fabián Ruiz,17/18,Achilles tendon problems,"Nov 26, 2017","Dec 9, 2017",14 days,2
+Fabián Ruiz,16/17,muscular problems,"Apr 29, 2017","May 11, 2017",13 days,1
+Fabián Ruiz,16/17,Broken toe,"Apr 3, 2017","Apr 27, 2017",25 days,3
+Fabián Ruiz,16/17,Ill,"Oct 26, 2016","Nov 9, 2016",15 days,2
+Fabián Ruiz,15/16,Abdominal muscle strain,"Jan 20, 2016","Feb 23, 2016",35 days,5
+Senny Mayulu,24/25,Calf problems,"Nov 18, 2024","Dec 12, 2024",25 days,5
+Khvicha Kvaratskhelia,24/25,Muscle fatigue,"Jan 3, 2025","Jan 13, 2025",11 days,2
+Khvicha Kvaratskhelia,24/25,Inner ligament injury,"Dec 9, 2024","Dec 19, 2024",11 days,1
+Khvicha Kvaratskhelia,23/24,Thigh problems,"May 3, 2024","May 9, 2024",7 days,1
+Khvicha Kvaratskhelia,23/24,Stomach flu,"Apr 17, 2024","Apr 18, 2024",2 days,-
+Khvicha Kvaratskhelia,23/24,Adductor pain,"Mar 26, 2024","Apr 5, 2024",11 days,1
+Khvicha Kvaratskhelia,23/24,Muscle fatigue,"Aug 18, 2023","Aug 21, 2023",4 days,1
+Khvicha Kvaratskhelia,23/24,Knee bruise,"Aug 2, 2023","Aug 7, 2023",6 days,-
+Khvicha Kvaratskhelia,22/23,bruise,"May 18, 2023","May 20, 2023",3 days,-
+Khvicha Kvaratskhelia,22/23,flu,"Jan 17, 2023","Jan 25, 2023",9 days,2
+Khvicha Kvaratskhelia,22/23,Lumbago,"Nov 4, 2022","Nov 21, 2022",18 days,3
+Khvicha Kvaratskhelia,21/22,Muscle injury,"Aug 15, 2021","Aug 30, 2021",16 days,3
+Khvicha Kvaratskhelia,20/21,Left hip flexor problems,"Apr 18, 2021","Jun 7, 2021",51 days,5
+Khvicha Kvaratskhelia,20/21,Hairline crack in middle finger,"Nov 10, 2020","Dec 1, 2020",22 days,2
+Khvicha Kvaratskhelia,20/21,concussion,"Sep 13, 2020","Sep 18, 2020",6 days,2
+Khvicha Kvaratskhelia,19/20,Knock,"Oct 10, 2019","Oct 20, 2019",11 days,3
+Bradley Barcola,23/24,Hamstring muscle injury,"Mar 23, 2024","Apr 7, 2024",16 days,4
+Bradley Barcola,22/23,Ill,"May 12, 2023","May 18, 2023",7 days,1
+Désiré Doué,22/23,unknown injury,"Apr 20, 2023","May 18, 2023",29 days,4
+Désiré Doué,22/23,Injury to the ankle,"Nov 17, 2022","Jan 6, 2023",51 days,13
+Désiré Doué,22/23,Ill,"Oct 28, 2022","Nov 1, 2022",5 days,1
+Ousmane Dembélé,24/25,Ill,"Jan 14, 2025","Jan 19, 2025",6 days,2
+Ousmane Dembélé,23/24,unknown injury,"Dec 18, 2023","Jan 8, 2024",22 days,3
+Ousmane Dembélé,22/23,Hamstring injury,"Jan 29, 2023","Apr 28, 2023",90 days,19
+Ousmane Dembélé,21/22,Corona virus,"Dec 29, 2021","Jan 5, 2022",8 days,2
+Ousmane Dembélé,21/22,Hamstring injury,"Nov 4, 2021","Nov 22, 2021",19 days,4
+Ousmane Dembélé,20/21,Knee injury,"Jun 20, 2021","Nov 1, 2021",135 days,21
+Ousmane Dembélé,20/21,unknown injury,"Apr 21, 2021","Apr 23, 2021",3 days,1
+Ousmane Dembélé,20/21,Hamstring injury,"Dec 6, 2020","Dec 28, 2020",23 days,5
+Ousmane Dembélé,19/20,Hamstring injury,"Feb 4, 2020","Aug 13, 2020",192 days,19
+Ousmane Dembélé,19/20,Torn muscle bundle,"Nov 28, 2019","Feb 2, 2020",67 days,13
+Ousmane Dembélé,19/20,muscular problems,"Sep 27, 2019","Sep 30, 2019",4 days,1
+Ousmane Dembélé,19/20,Hamstring injury,"Aug 19, 2019","Sep 22, 2019",35 days,7
+Ousmane Dembélé,18/19,Hamstring injury,"May 5, 2019","Jun 16, 2019",43 days,7
+Ousmane Dembélé,18/19,Torn muscle bundle,"Mar 14, 2019","Apr 9, 2019",27 days,6
+Ousmane Dembélé,18/19,Ankle injury,"Jan 21, 2019","Feb 8, 2019",19 days,5
+Kang-in Lee,24/25,Foot injury,"Mar 20, 2025",,15 days,3
+Kang-in Lee,23/24,Muscle injury,"Aug 22, 2023","Sep 13, 2023",23 days,4
+Kang-in Lee,21/22,Corona virus,"Jan 4, 2022","Jan 11, 2022",8 days,2
+Kang-in Lee,20/21,Corona virus,"Dec 1, 2020","Dec 11, 2020",11 days,1
+Kang-in Lee,19/20,Muscle injury,"Nov 27, 2019","Dec 31, 2019",35 days,9
+Mbaye,24/25,ankle sprain,"Jan 11, 2025","Feb 8, 2025",29 days,-
+Gonçalo Ramos,24/25,Ankle injury,"Aug 16, 2024","Nov 15, 2024",92 days,20
+Gonçalo Ramos,22/23,muscular problems,"Jan 27, 2023","Feb 7, 2023",12 days,2
+Gonçalo Ramos,22/23,Muscle injury,"Nov 3, 2022","Nov 10, 2022",8 days,2
+Gonçalo Ramos,20/21,Muscle injury,"Feb 16, 2021","Feb 21, 2021",6 days,2
+Gonçalo Ramos,20/21,Corona virus,"Dec 24, 2020","Jan 5, 2021",13 days,2
+Radoslaw Majecki,24/25,Muscle injury,"Dec 11, 2024","Jan 1, 2025",22 days,4
+Radoslaw Majecki,24/25,Ankle sprain,"Aug 1, 2024","Oct 1, 2024",62 days,7
+Radoslaw Majecki,22/23,Chest injury,"Feb 25, 2023","Mar 30, 2023",34 days,4
+Radoslaw Majecki,22/23,Muscle injury,"Jan 20, 2023","Feb 2, 2023",14 days,2
+Radoslaw Majecki,21/22,Muscle injury,"Jan 27, 2022","Feb 21, 2022",26 days,5
+Radoslaw Majecki,18/19,Bruised ribs,"Mar 15, 2019","May 5, 2019",52 days,14
+Philipp Köhn,21/22,Knee injury,"May 20, 2022","Jun 30, 2022",42 days,5
+Philipp Köhn,21/22,Knee injury,"Mar 21, 2022","Apr 2, 2022",13 days,2
+Philipp Köhn,20/21,Quarantine,"Jan 11, 2021","Jan 21, 2021",11 days,-
+Philipp Köhn,20/21,Ill,"Jan 7, 2021","Jan 21, 2021",15 days,-
+Philipp Köhn,20/21,concussion,"Sep 28, 2020","Oct 14, 2020",17 days,6
+Philipp Köhn,19/20,Ankle injury,"Mar 1, 2020","Sep 1, 2020",185 days,16
+Philipp Köhn,18/19,Knee injury,"Jul 25, 2018","Aug 24, 2018",31 days,7
+Wilfried Singo,24/25,Thigh problems,"Jan 22, 2025","Feb 16, 2025",26 days,6
+Wilfried Singo,22/23,Hamstring muscle injury,"Dec 3, 2022","Jan 6, 2023",35 days,1
+Wilfried Singo,22/23,Knee problems,"Aug 31, 2022","Sep 9, 2022",10 days,2
+Wilfried Singo,21/22,surgery,"May 10, 2022","Jun 12, 2022",34 days,4
+Wilfried Singo,20/21,Inflammation in the knee,"Mar 17, 2021","Apr 13, 2021",28 days,6
+Wilfried Singo,20/21,Corona virus,"Feb 23, 2021","Mar 17, 2021",23 days,3
+Wilfried Singo,19/20,Shoulder injury,"Jul 31, 2020","Oct 15, 2020",77 days,5
+Thilo Kehrer,22/23,Ill,"Mar 3, 2023","Mar 4, 2023",2 days,1
+Thilo Kehrer,20/21,Adductor pain,"Mar 20, 2021","Mar 30, 2021",11 days,3
+Thilo Kehrer,20/21,Corona virus,"Jan 8, 2021","Jan 19, 2021",12 days,3
+Thilo Kehrer,20/21,surgery,"Nov 9, 2020","Nov 29, 2020",21 days,6
+Thilo Kehrer,20/21,Adductor pain,"Sep 14, 2020","Oct 25, 2020",42 days,10
+Thilo Kehrer,20/21,Knock,"Jul 24, 2020","Jul 30, 2020",7 days,1
+Thilo Kehrer,19/20,Foot injury,"Aug 12, 2019","Dec 8, 2019",119 days,26
+Thilo Kehrer,18/19,Knock,"Apr 22, 2019","May 13, 2019",22 days,4
+Thilo Kehrer,17/18,Eye injury,"Mar 12, 2018","Mar 29, 2018",18 days,5
+Thilo Kehrer,17/18,influenza,"Mar 1, 2018","Mar 5, 2018",5 days,1
+Thilo Kehrer,17/18,Shoulder injury,"Nov 27, 2017","Nov 30, 2017",4 days,-
+Thilo Kehrer,14/15,Torn knee ligaments,"Mar 30, 2015","May 7, 2015",39 days,9
+Thilo Kehrer,12/13,Torn ligaments,"May 30, 2013","Jun 27, 2013",29 days,11
+Mohammed Salisu,24/25,Hamstring injury,"Oct 16, 2024","Nov 6, 2024",22 days,5
+Mohammed Salisu,23/24,Hamstring injury,"Feb 29, 2024","Mar 25, 2024",26 days,4
+Mohammed Salisu,23/24,Adductor injury,"Aug 1, 2023","Nov 30, 2023",122 days,19
+Mohammed Salisu,22/23,Hip injury,"Mar 20, 2023","Jun 30, 2023",103 days,13
+Mohammed Salisu,22/23,Knock,"Feb 14, 2023","Mar 2, 2023",17 days,3
+Mohammed Salisu,21/22,Thigh problems,"Feb 26, 2022","Mar 6, 2022",9 days,2
+Mohammed Salisu,20/21,Hamstring injury,"Dec 30, 2020","Feb 5, 2021",38 days,7
+Mohammed Salisu,20/21,Knock,"Sep 11, 2020","Sep 25, 2020",15 days,3
+Mohammed Salisu,20/21,Hamstring injury,"Jul 7, 2020","Jul 27, 2020",21 days,4
+Mohammed Salisu,19/20,Muscle injury,"Jul 6, 2020","Dec 6, 2020",154 days,19
+Christian Mawissa,24/25,Hamstring injury,"Dec 14, 2024","Jan 15, 2025",33 days,6
+Caio Henrique,23/24,Cruciate ligament tear,"Sep 23, 2023","Apr 22, 2024",213 days,26
+Caio Henrique,22/23,Corona virus,"Aug 1, 2022","Aug 8, 2022",8 days,2
+Caio Henrique,20/21,Knock,"Sep 4, 2020","Oct 14, 2020",41 days,4
+Caio Henrique,20/21,Bruise on the ankle joint,"Aug 29, 2020","Sep 5, 2020",8 days,1
+Kassoum Ouattara,24/25,Calf injury,"Mar 10, 2025",,25 days,2
+Kassoum Ouattara,22/23,Knee injury,"May 11, 2023","May 26, 2023",16 days,5
+Vanderson,23/24,Hip injury,"Feb 11, 2024","Mar 8, 2024",27 days,4
+Vanderson,23/24,Knee injury,"Oct 4, 2023","Nov 8, 2023",36 days,4
+Vanderson,22/23,Knee injury,"Feb 1, 2023","Mar 10, 2023",38 days,8
+Vanderson,21/22,Corona virus,"Mar 18, 2022","Mar 25, 2022",8 days,1
+Vanderson,20/21,Corona virus,"Apr 6, 2021","Apr 21, 2021",16 days,4
+Jordan Teze,24/25,Torn thigh muscle,"Jan 29, 2025",,65 days,11
+Jordan Teze,23/24,Head injury,"Dec 4, 2023","Dec 10, 2023",7 days,1
+Jordan Teze,23/24,Knock,"Sep 1, 2023","Sep 3, 2023",3 days,1
+Jordan Teze,21/22,Hamstring injury,"Nov 7, 2021","Nov 30, 2021",24 days,6
+Jordan Teze,20/21,Corona virus,"Oct 8, 2020","Oct 24, 2020",17 days,5
+Denis Zakaria,24/25,Ill,"Jan 11, 2025","Jan 16, 2025",6 days,1
+Denis Zakaria,24/25,Hamstring injury,"Dec 8, 2024","Dec 31, 2024",24 days,4
+Denis Zakaria,24/25,Adductor injury,"Oct 27, 2024","Nov 10, 2024",15 days,4
+Denis Zakaria,24/25,Knee bruise,"Oct 7, 2024","Oct 17, 2024",11 days,2
+Denis Zakaria,23/24,Hamstring injury,"May 2, 2024","Jun 20, 2024",50 days,7
+Denis Zakaria,22/23,Hamstring injury,"Jan 13, 2023","Feb 13, 2023",32 days,4
+Denis Zakaria,21/22,Thigh problems,"May 15, 2022","May 21, 2022",7 days,2
+Denis Zakaria,21/22,Adductor injury,"Feb 26, 2022","Mar 31, 2022",34 days,8
+Denis Zakaria,21/22,strain,"Jan 14, 2022","Jan 16, 2022",3 days,1
+Denis Zakaria,21/22,Corona virus,"Dec 29, 2021","Jan 10, 2022",13 days,1
+Denis Zakaria,21/22,Fitness,"Aug 10, 2021","Aug 15, 2021",6 days,1
+Denis Zakaria,21/22,Corona virus,"Jul 26, 2021","Aug 9, 2021",15 days,1
+Denis Zakaria,20/21,Knee problems,"Feb 7, 2021","Feb 16, 2021",10 days,1
+Denis Zakaria,19/20,Knee injury,"Mar 8, 2020","Nov 9, 2020",247 days,30
+Denis Zakaria,18/19,Inner ligament injury,"Nov 3, 2018","Nov 7, 2018",5 days,1
+Soungoutou Magassa,24/25,Facial fracture,"Feb 12, 2025",,51 days,8
+Soungoutou Magassa,23/24,Knee injury,"Oct 24, 2023","Nov 1, 2023",9 days,1
+Moatasem Al-Musrati,24/25,Thigh problems,"Jan 6, 2025","Jan 8, 2025",3 days,1
+Moatasem Al-Musrati,24/25,Hamstring strain,"Sep 26, 2024","Oct 7, 2024",12 days,4
+Moatasem Al-Musrati,23/24,Capsular injury,"Mar 11, 2024","Mar 25, 2024",15 days,2
+Moatasem Al-Musrati,23/24,unknown injury,"Nov 9, 2023","Jan 19, 2024",72 days,13
+Moatasem Al-Musrati,23/24,unknown injury,"Aug 24, 2023","Sep 8, 2023",16 days,2
+Moatasem Al-Musrati,22/23,unknown injury,"May 4, 2023","May 23, 2023",20 days,3
+Moatasem Al-Musrati,21/22,Knee injury,"Nov 22, 2021","Dec 7, 2021",16 days,3
+Moatasem Al-Musrati,20/21,Rest,"Jan 25, 2021","Jan 27, 2021",3 days,1
+Moatasem Al-Musrati,19/20,Muscle injury,"Jul 6, 2020","Jul 15, 2020",10 days,2
+Moatasem Al-Musrati,19/20,Muscle injury,"Sep 2, 2019","Oct 21, 2019",50 days,14
+Edan Diop,24/25,Foot injury,"Aug 21, 2024","Dec 31, 2024",133 days,22
+Edan Diop,23/24,Foot injury,"Aug 1, 2023","Sep 22, 2023",53 days,6
+Aleksandr Golovin,24/25,Adductor injury,"Feb 12, 2025","Mar 24, 2025",41 days,7
+Aleksandr Golovin,24/25,Ill,"Jan 11, 2025","Jan 16, 2025",6 days,1
+Aleksandr Golovin,24/25,Knock,"Jan 8, 2025","Jan 11, 2025",4 days,1
+Aleksandr Golovin,24/25,Ankle problems,"Nov 8, 2024","Nov 15, 2024",8 days,1
+Aleksandr Golovin,24/25,Ankle injury,"Aug 1, 2024","Aug 31, 2024",31 days,2
+Aleksandr Golovin,23/24,Ankle injury,"Apr 17, 2024","Jul 15, 2024",90 days,6
+Aleksandr Golovin,23/24,Adductor pain,"Oct 9, 2023","Oct 17, 2023",9 days,-
+Aleksandr Golovin,22/23,Fever,"Apr 22, 2023","Apr 24, 2023",3 days,1
+Aleksandr Golovin,22/23,Adductor pain,"Mar 18, 2023","Mar 31, 2023",14 days,1
+Aleksandr Golovin,21/22,Adductor pain,"Feb 24, 2022","Mar 3, 2022",8 days,2
+Aleksandr Golovin,21/22,Corona virus,"Feb 3, 2022","Feb 10, 2022",8 days,2
+Aleksandr Golovin,21/22,Abdominal muscle strain,"Dec 21, 2021","Jan 24, 2022",35 days,5
+Aleksandr Golovin,21/22,Hip injury,"Oct 3, 2021","Oct 23, 2021",21 days,3
+Aleksandr Golovin,21/22,Hip injury,"Sep 5, 2021","Sep 15, 2021",11 days,1
+Aleksandr Golovin,21/22,bruise,"Aug 13, 2021","Aug 16, 2021",4 days,1
+Eliesse Ben Seghir,23/24,Shoulder injury,"Oct 30, 2023","Jan 21, 2024",84 days,18
+Eliesse Ben Seghir,23/24,Hip injury,"Aug 20, 2023","Oct 12, 2023",54 days,12
+Eliesse Ben Seghir,23/24,Hamstring injury,"Aug 20, 2023","Oct 12, 2023",54 days,12
+Eliesse Ben Seghir,22/23,Ill,"Mar 3, 2023","Mar 17, 2023",15 days,2
+Takumi Minamino,24/25,Ill,"Jan 8, 2025","Jan 13, 2025",6 days,1
+Takumi Minamino,23/24,Adductor pain,"Sep 27, 2023","Oct 4, 2023",8 days,1
+Takumi Minamino,22/23,muscular problems,"Aug 5, 2022","Aug 8, 2022",4 days,1
+Takumi Minamino,21/22,Thigh problems,"Sep 4, 2021","Sep 13, 2021",10 days,2
+Takumi Minamino,19/20,Thigh problems,"Dec 13, 2019","Dec 31, 2019",19 days,3
+Takumi Minamino,17/18,Internal ligament tear,"Aug 20, 2017","Oct 2, 2017",44 days,12
+Takumi Minamino,14/15,Adductor injury,"Feb 16, 2015","Feb 23, 2015",8 days,2
+Takumi Minamino,12/13,Knee medial ligament tear,"Aug 18, 2013","Sep 24, 2013",38 days,10
+Maghnes Akliouche,24/25,Muscle fatigue,"Jan 9, 2025","Jan 16, 2025",8 days,2
+Maghnes Akliouche,22/23,Hip problems,"Oct 22, 2022","Oct 24, 2022",3 days,1
+Krépin Diatta,24/25,Adductor injury,"Nov 21, 2024","Jan 13, 2025",54 days,10
+Krépin Diatta,23/24,Hip injury,"Feb 7, 2024","Mar 13, 2024",36 days,6
+Krépin Diatta,21/22,Cruciate ligament tear,"Nov 19, 2021","Jul 1, 2022",225 days,45
+Krépin Diatta,21/22,Ankle injury,"Oct 9, 2021","Nov 1, 2021",24 days,5
+Krépin Diatta,21/22,concussion,"Sep 22, 2021","Sep 29, 2021",8 days,2
+Krépin Diatta,20/21,Fitness,"May 5, 2021","May 15, 2021",11 days,2
+Krépin Diatta,20/21,Corona virus,"Apr 17, 2021","May 4, 2021",18 days,4
+Krépin Diatta,19/20,minor knock,"Jan 12, 2020","Jan 27, 2020",16 days,3
+Krépin Diatta,18/19,Wrist fracture,"Jul 23, 2018","Aug 30, 2018",39 days,5
+Krépin Diatta,18/19,concussion,"Jul 23, 2018","Aug 30, 2018",39 days,5
+Mika Biereth,23/24,Knee injury,"Aug 19, 2023","Oct 28, 2023",71 days,15
+Mika Biereth,22/23,unknown injury,"Jan 26, 2023","Feb 28, 2023",34 days,6
+Mika Biereth,22/23,unknown injury,"Oct 20, 2022","Nov 30, 2022",42 days,9
+Mika Biereth,22/23,unknown injury,"Aug 10, 2022","Sep 7, 2022",29 days,4
+Folarin Balogun,24/25,Shoulder injury,"Dec 2, 2024","Mar 24, 2025",113 days,21
+Folarin Balogun,24/25,Shoulder injury,"Oct 6, 2024","Nov 23, 2024",49 days,7
+Folarin Balogun,23/24,Shoulder injury,"Jan 21, 2024","Feb 5, 2024",16 days,2
+Folarin Balogun,22/23,Hamstring injury,"Dec 31, 2022","Jan 10, 2023",11 days,2
+George Ilenikhena,24/25,Adductor injury,"Jan 9, 2025","Feb 10, 2025",33 days,8
+Breel Embolo,23/24,muscular problems,"May 15, 2024","Jun 10, 2024",27 days,3
+Breel Embolo,23/24,Cruciate ligament tear,"Aug 7, 2023","Mar 25, 2024",232 days,36
+Breel Embolo,22/23,unknown injury,"Jun 9, 2023","Jun 20, 2023",12 days,2
+Breel Embolo,22/23,Knee problems,"Mar 23, 2023","May 8, 2023",47 days,8
+Breel Embolo,21/22,Hamstring injury,"Nov 6, 2021","Dec 1, 2021",26 days,4
+Breel Embolo,21/22,Hamstring injury,"Jul 3, 2021","Sep 6, 2021",66 days,6
+Breel Embolo,20/21,Quarantine,"Jan 18, 2021","Jan 20, 2021",3 days,1
+Breel Embolo,20/21,Ankle problems,"Sep 8, 2020","Sep 29, 2020",22 days,3
+Breel Embolo,19/20,Bruise on ankle,"May 24, 2020","Jun 9, 2020",17 days,3
+Breel Embolo,19/20,Torn muscle fiber,"Oct 28, 2019","Nov 20, 2019",24 days,6
+Breel Embolo,19/20,Foot injury,"May 31, 2019","Jul 15, 2019",46 days,-
+Breel Embolo,18/19,Broken foot,"Nov 12, 2018","Mar 1, 2019",110 days,18
+Breel Embolo,18/19,Shoulder injury,"Oct 7, 2018","Oct 15, 2018",9 days,2
+Breel Embolo,17/18,Muscle injury,"Apr 23, 2018","May 10, 2018",18 days,2
+Breel Embolo,17/18,Bone edema,"Mar 2, 2017","Aug 14, 2017",166 days,20
+Marco Bizot,16/17,Ankle injury,"Jan 25, 2017","Apr 20, 2017",86 days,20
+Soumaïla Coulibaly,24/25,Adductor pain,"Feb 24, 2025",,39 days,5
+Soumaïla Coulibaly,24/25,Pelvic injury,"Nov 21, 2024","Jan 19, 2025",60 days,11
+Soumaïla Coulibaly,23/24,Knee injury,"May 16, 2024","May 22, 2024",7 days,1
+Soumaïla Coulibaly,23/24,Leg injury,"Jan 10, 2024","Feb 15, 2024",37 days,7
+Soumaïla Coulibaly,22/23,Knee injury,"Apr 21, 2023","May 4, 2023",14 days,2
+Soumaïla Coulibaly,22/23,Pelvic injury,"Jan 12, 2023","Feb 9, 2023",29 days,5
+Soumaïla Coulibaly,21/22,Ankle injury,"Feb 7, 2022","Feb 14, 2022",8 days,1
+Soumaïla Coulibaly,21/22,Calf problems,"Jan 10, 2022","Jan 17, 2022",8 days,1
+Soumaïla Coulibaly,20/21,Cruciate ligament tear,"Feb 25, 2021","Oct 25, 2021",243 days,18
+Brendan Chardonnet,24/25,Pneumothorax,"Mar 10, 2025",,25 days,2
+Brendan Chardonnet,22/23,Dead leg,"Jan 19, 2023","Feb 18, 2023",31 days,5
+Brendan Chardonnet,19/20,Neck injury,"Dec 6, 2019","Dec 14, 2019",9 days,2
+Brendan Chardonnet,19/20,Wrist injury,"Nov 30, 2019","Nov 30, 2019",1 days,1
+Brendan Chardonnet,19/20,Bruise on the ankle joint,"Nov 9, 2019","Nov 9, 2019",1 days,1
+Brendan Chardonnet,19/20,Edema in the knee,"Oct 19, 2019","Oct 19, 2019",1 days,1
+Brendan Chardonnet,19/20,Foot bruise,"Sep 28, 2019","Sep 28, 2019",1 days,1
+Brendan Chardonnet,19/20,bruise,"Sep 21, 2019","Sep 21, 2019",1 days,1
+Julien Le Cardinal,24/25,Hamstring injury,"Dec 11, 2024","Jan 27, 2025",48 days,8
+Julien Le Cardinal,22/23,Knee injury,"Mar 31, 2023","Apr 13, 2023",14 days,2
+Julien Le Cardinal,22/23,unknown injury,"Aug 22, 2022","Aug 31, 2022",10 days,2
+Julien Le Cardinal,20/21,Knock,"Sep 17, 2020","Oct 8, 2020",22 days,2
+Bradley Locko,24/25,Achilles tendon rupture,"Aug 16, 2024",,231 days,41
+Jordan Amavi,24/25,Calf injury,"Mar 28, 2025",,7 days,1
+Jordan Amavi,24/25,Hamstring injury,"Jan 11, 2025","Feb 24, 2025",45 days,13
+Jordan Amavi,23/24,Calf injury,"Nov 20, 2023","Dec 31, 2023",42 days,6
+Jordan Amavi,22/23,unknown injury,"Mar 8, 2023","Mar 29, 2023",22 days,2
+Jordan Amavi,21/22,Knee injury,"Feb 1, 2022","Mar 5, 2022",33 days,7
+Jordan Amavi,21/22,muscular problems,"Sep 4, 2021","Sep 15, 2021",12 days,2
+Jordan Amavi,20/21,Thigh problems,"Feb 24, 2021","May 8, 2021",74 days,11
+Jordan Amavi,20/21,Muscle tear,"Dec 18, 2020","Feb 13, 2021",58 days,11
+Jordan Amavi,20/21,Muscle tear,"Dec 8, 2020","Dec 15, 2020",8 days,2
+Jordan Amavi,17/18,Muscle tear,"Jan 12, 2018","Feb 5, 2018",25 days,6
+Jordan Amavi,15/16,Cruciate ligament tear,"Nov 16, 2015","Jun 30, 2016",228 days,38
+Massadio Haidara,24/25,Calf injury,"Jan 11, 2025","Jan 30, 2025",20 days,6
+Massadio Haidara,23/24,Dead leg,"Feb 23, 2024","Mar 11, 2024",18 days,3
+Massadio Haidara,23/24,Dead leg,"Jan 5, 2024","Jan 22, 2024",18 days,4
+Massadio Haidara,23/24,Dead leg,"Sep 21, 2023","Oct 19, 2023",29 days,6
+Massadio Haidara,23/24,Hamstring injury,"Sep 3, 2023","Sep 18, 2023",16 days,2
+Massadio Haidara,22/23,Calf injury,"Feb 2, 2023","Feb 10, 2023",9 days,2
+Massadio Haidara,21/22,Muscle injury,"Oct 5, 2021","Oct 25, 2021",21 days,4
+Massadio Haidara,21/22,Calf injury,"Aug 22, 2021","Sep 13, 2021",23 days,4
+Massadio Haidara,21/22,Calf injury,"Aug 2, 2021","Aug 16, 2021",15 days,2
+Massadio Haidara,20/21,Calf injury,"May 4, 2021","May 17, 2021",14 days,2
+Massadio Haidara,19/20,Fitness,"Jul 25, 2019","Aug 12, 2019",19 days,3
+Massadio Haidara,17/18,Knee injury,"Sep 9, 2017","Oct 30, 2017",52 days,10
+Massadio Haidara,15/16,Knee injury,"Nov 2, 2015","Jan 20, 2017",446 days,111
+Massadio Haidara,15/16,Knee injury,"Sep 19, 2015","Oct 18, 2015",30 days,11
+Massadio Haidara,14/15,Knee injury,"Feb 28, 2015","Jun 1, 2015",94 days,20
+Justin Bourgault,24/25,Pelvic injury,"Feb 25, 2025","Mar 12, 2025",16 days,3
+Justin Bourgault,24/25,Adductor pain,"Sep 14, 2024","Oct 22, 2024",39 days,7
+Kenny Lala,21/22,unknown injury,"Apr 28, 2022","May 2, 2022",5 days,1
+Kenny Lala,21/22,sprain,"Feb 2, 2022","Feb 5, 2022",4 days,1
+Kenny Lala,21/22,Corona virus,"Dec 31, 2021","Jan 9, 2022",10 days,1
+Kenny Lala,20/21,minor knock,"Apr 21, 2021","Apr 25, 2021",5 days,2
+Pierre Lees-Melou,24/25,Peroneus tendon injury,"Nov 25, 2024","Dec 31, 2024",37 days,6
+Pierre Lees-Melou,23/24,Broken fibula,"Apr 29, 2024","Oct 3, 2024",158 days,11
+Pierre Lees-Melou,22/23,flu,"Dec 26, 2022","Dec 30, 2022",5 days,1
+Pierre Lees-Melou,21/22,Corona virus,"Dec 12, 2021","Dec 18, 2021",7 days,1
+Pierre Lees-Melou,20/21,Wrist fracture,"Dec 11, 2020","Jan 10, 2021",31 days,6
+Edimilson Fernandes,23/24,Ankle problems,"Feb 15, 2024","Mar 5, 2024",20 days,3
+Edimilson Fernandes,23/24,Hamstring injury,"Dec 2, 2023","Dec 20, 2023",19 days,4
+Edimilson Fernandes,22/23,Ankle problems,"Sep 19, 2022","Sep 22, 2022",4 days,-
+Edimilson Fernandes,21/22,minor knock,"Apr 14, 2022","Apr 21, 2022",8 days,1
+Edimilson Fernandes,21/22,influenza,"Sep 6, 2021","Sep 30, 2021",25 days,4
+Edimilson Fernandes,20/21,Ankle injury,"Feb 11, 2021","Mar 11, 2021",29 days,4
+Edimilson Fernandes,20/21,Corona virus,"Jan 7, 2021","Jan 25, 2021",19 days,4
+Edimilson Fernandes,20/21,Fitness,"Oct 1, 2020","Oct 12, 2020",12 days,3
+Edimilson Fernandes,20/21,Corona virus,"Aug 17, 2020","Oct 1, 2020",46 days,5
+Edimilson Fernandes,19/20,Meniscus injury,"Jan 6, 2020","Feb 20, 2020",46 days,5
+Edimilson Fernandes,18/19,muscular problems,"Mar 7, 2019","Apr 15, 2019",40 days,9
+Edimilson Fernandes,18/19,Knock,"Jun 4, 2018","Aug 27, 2018",85 days,2
+Edimilson Fernandes,17/18,Injury to the ankle,"Dec 7, 2017","Mar 19, 2018",103 days,19
+Edimilson Fernandes,17/18,Ankle sprain,"Sep 4, 2017","Oct 16, 2017",43 days,11
+Edimilson Fernandes,15/16,Knock,"Mar 31, 2016","May 9, 2016",40 days,8
+Jonas Martin,24/25,Hip injury,"Mar 28, 2025",,7 days,1
+Jonas Martin,24/25,Muscle injury,"Nov 29, 2024","Feb 15, 2025",79 days,17
+Jonas Martin,23/24,Hamstring injury,"May 10, 2024","May 31, 2024",22 days,2
+Jonas Martin,23/24,Dead leg,"Nov 4, 2023","Nov 25, 2023",22 days,1
+Jonas Martin,22/23,Groin injury,"Jan 9, 2023","Jan 25, 2023",17 days,3
+Jonas Martin,22/23,Groin injury,"Aug 5, 2022","Aug 10, 2022",6 days,1
+Jonas Martin,21/22,Dead leg,"Oct 25, 2021","Nov 10, 2021",17 days,3
+Jonas Martin,20/21,surgery,"Apr 15, 2021","May 31, 2021",47 days,6
+Jonas Martin,20/21,Ill,"Mar 11, 2021","Mar 19, 2021",9 days,1
+Jonas Martin,20/21,Ankle surgery,"Nov 6, 2020","Dec 6, 2020",31 days,6
+Jonas Martin,19/20,Thigh problems,"Dec 19, 2019","Apr 1, 2020",105 days,16
+Jonas Martin,19/20,Thigh problems,"Oct 15, 2019","Dec 15, 2019",62 days,12
+Jonas Martin,18/19,Injury to the ankle,"May 9, 2019","May 31, 2019",23 days,3
+Jonas Martin,18/19,Ankle injury,"Jan 20, 2019","Apr 8, 2019",79 days,13
+Jonas Martin,17/18,Knock,"May 15, 2018","May 20, 2018",6 days,1
+Romain Faivre,22/23,Knee problems,"Apr 12, 2023","Apr 20, 2023",9 days,1
+Romain Faivre,22/23,Dead leg,"Sep 30, 2022","Oct 8, 2022",9 days,2
+Romain Faivre,22/23,unknown injury,"Aug 1, 2022","Aug 15, 2022",15 days,1
+Kamory Doumbia,22/23,Muscle injury,"May 8, 2023","May 28, 2023",21 days,3
+Abdallah Sima,24/25,Adductor pain,"Mar 10, 2025","Mar 17, 2025",8 days,1
+Abdallah Sima,24/25,Hamstring injury,"Oct 23, 2024","Nov 7, 2024",16 days,4
+Abdallah Sima,24/25,Hamstring injury,"Oct 18, 2024","Oct 22, 2024",5 days,1
+Abdallah Sima,23/24,Hamstring injury,"Apr 21, 2024","May 15, 2024",25 days,5
+Abdallah Sima,23/24,Hamstring injury,"Jan 23, 2024","Mar 28, 2024",66 days,16
+Abdallah Sima,21/22,Groin injury,"Dec 10, 2021","Mar 18, 2022",99 days,26
+Abdallah Sima,21/22,Back injury,"Nov 2, 2021","Dec 4, 2021",33 days,7
+Abdallah Sima,21/22,Ankle injury,"Sep 24, 2021","Oct 29, 2021",36 days,9
+Abdallah Sima,21/22,Fitness,"Jul 12, 2021","Jul 28, 2021",17 days,1
+Abdallah Sima,20/21,Groin injury,"Apr 9, 2021","May 7, 2021",29 days,8
+Ibrahim Salah,24/25,Foot injury,"Feb 15, 2025",,48 days,7
+Mathias Pereira Lage,23/24,Hamstring injury,"Aug 28, 2023","Sep 30, 2023",34 days,3
+Mathias Pereira Lage,22/23,Ankle injury,"Jan 12, 2023","Mar 20, 2023",68 days,11
+Mathias Pereira Lage,21/22,Knock,"Apr 11, 2022","Apr 27, 2022",17 days,3
+Mathias Pereira Lage,21/22,Ankle injury,"Mar 1, 2022","Mar 10, 2022",10 days,1
+Mathias Pereira Lage,21/22,Knock,"Dec 2, 2021","Dec 15, 2021",14 days,2
+Mathias Pereira Lage,20/21,Corona virus,"Apr 2, 2021","Apr 20, 2021",19 days,4
+Mathias Pereira Lage,20/21,Shoulder injury,"Aug 24, 2020","Oct 22, 2020",60 days,6
+Mathias Pereira Lage,19/20,Dead leg,"Dec 15, 2019","Jan 16, 2020",33 days,3
+Romain Del Castillo,24/25,Knee injury,"Feb 5, 2025","Mar 12, 2025",36 days,8
+Romain Del Castillo,24/25,Adductor pain,"Sep 20, 2024","Sep 24, 2024",5 days,1
+Romain Del Castillo,23/24,Calf problems,"May 4, 2024","May 14, 2024",11 days,2
+Romain Del Castillo,22/23,Dead leg,"Feb 20, 2023","Mar 5, 2023",14 days,2
+Romain Del Castillo,22/23,Calf injury,"Jan 2, 2023","Feb 5, 2023",35 days,7
+Romain Del Castillo,22/23,Hamstring injury,"Aug 14, 2022","Sep 11, 2022",29 days,6
+Romain Del Castillo,21/22,unknown injury,"May 2, 2022","May 20, 2022",19 days,2
+Romain Del Castillo,21/22,Groin injury,"Dec 5, 2021","Jan 31, 2022",58 days,8
+Romain Del Castillo,21/22,Groin injury,"Sep 20, 2021","Oct 30, 2021",41 days,5
+Romain Del Castillo,20/21,concussion,"Feb 12, 2021","Feb 19, 2021",8 days,1
+Romain Del Castillo,20/21,Muscle injury,"Dec 7, 2020","Dec 31, 2020",25 days,5
+Mama Baldé,24/25,Calf injury,"Feb 28, 2025","Mar 25, 2025",26 days,3
+Mama Baldé,24/25,Leg injury,"Jan 27, 2025","Jan 28, 2025",2 days,-
+Mama Baldé,22/23,Ill,"Sep 15, 2022","Sep 17, 2022",3 days,-
+Mama Baldé,21/22,Knee injury,"Nov 15, 2021","Nov 27, 2021",13 days,1
+Mama Baldé,20/21,Dead leg,"Apr 13, 2021","Apr 24, 2021",12 days,1
+Mama Baldé,20/21,Dead leg,"Dec 7, 2020","Dec 19, 2020",13 days,2
+Mama Baldé,20/21,Dead leg,"Aug 10, 2020","Sep 25, 2020",47 days,4
+Mama Baldé,19/20,Ill,"Jan 13, 2020","Jan 22, 2020",10 days,1
+Mama Baldé,19/20,Back injury,"Nov 7, 2019","Nov 20, 2019",14 days,3
+Mama Baldé,19/20,Dead leg,"Oct 1, 2019","Oct 20, 2019",20 days,2
+Mama Baldé,19/20,Dead leg,"Sep 20, 2019","Sep 23, 2019",4 days,1
+Mama Baldé,17/18,Knock,"Feb 24, 2018","Mar 8, 2018",13 days,2
+Ludovic Ajorque,23/24,Torn muscle fiber,"Aug 28, 2023","Sep 13, 2023",17 days,1
+Lucas Chevalier,23/24,Rest,"Jan 20, 2024","Jan 22, 2024",3 days,1
+Lucas Chevalier,21/22,Corona virus,"Jan 2, 2022","Jan 10, 2022",9 days,1
+Lucas Chevalier,21/22,Meniscus injury,"Jul 17, 2021","Sep 14, 2021",60 days,11
+Vito Mannone,22/23,Foot bruise,"Apr 28, 2023","Jun 1, 2023",35 days,5
+Vito Mannone,16/17,Elbow injury,"Aug 23, 2016","Nov 18, 2016",88 days,12
+Vito Mannone,12/13,Ill,"Jan 2, 2013","Jan 9, 2013",8 days,1
+Marc-Aurèle Caillard,22/23,Cruciate ligament tear,"Aug 30, 2022","Mar 16, 2023",199 days,25
+Bafodé Diakité,23/24,Shoulder injury,"Dec 19, 2023","Feb 18, 2024",62 days,9
+Bafodé Diakité,23/24,Fissure of the fibula,"Nov 3, 2023","Dec 1, 2023",29 days,5
+Bafodé Diakité,22/23,Dead leg,"Feb 25, 2023","Mar 20, 2023",24 days,3
+Bafodé Diakité,21/22,Muscle injury,"Jul 17, 2021","Sep 6, 2021",52 days,15
+Bafodé Diakité,20/21,Metacarpal fracture,"Oct 18, 2020","Nov 5, 2020",19 days,2
+Bafodé Diakité,19/20,Calf injury,"Oct 27, 2019","Jan 3, 2020",69 days,21
+Bafodé Diakité,19/20,Foot bruise,"Sep 25, 2019","Oct 5, 2019",11 days,4
+Samuel Umtiti,24/25,Calf injury,"Feb 13, 2025",,50 days,8
+Samuel Umtiti,23/24,Knee surgery,"Feb 15, 2024","Feb 12, 2025",364 days,53
+Samuel Umtiti,23/24,Knee injury,"Feb 3, 2024","Feb 14, 2024",12 days,3
+Samuel Umtiti,23/24,concussion,"Sep 27, 2023","Oct 6, 2023",10 days,2
+Samuel Umtiti,22/23,Hamstring injury,"Feb 15, 2023","Feb 23, 2023",9 days,1
+Samuel Umtiti,22/23,unknown injury,"Nov 4, 2022","Nov 9, 2022",6 days,2
+Samuel Umtiti,21/22,Broken toe,"Jan 17, 2022","May 1, 2022",105 days,21
+Samuel Umtiti,21/22,stomach problems,"Jan 4, 2022","Jan 7, 2022",4 days,1
+Samuel Umtiti,21/22,Corona virus,"Dec 29, 2021","Jan 1, 2022",4 days,-
+Samuel Umtiti,20/21,stomach problems,"Jan 2, 2021","Jan 5, 2021",4 days,1
+Samuel Umtiti,20/21,Knee injury,"Sep 10, 2020","Dec 8, 2020",90 days,16
+Samuel Umtiti,20/21,Corona virus,"Aug 14, 2020","Sep 9, 2020",27 days,1
+Samuel Umtiti,20/21,Knee problems,"Jul 3, 2020","Sep 9, 2020",69 days,7
+Samuel Umtiti,19/20,Calf injury,"May 9, 2020","Jun 1, 2020",24 days,-
+Samuel Umtiti,19/20,Knee problems,"Oct 22, 2019","Nov 4, 2019",14 days,3
+Aïssa Mandi,23/24,Leg injury,"Nov 19, 2023","Dec 15, 2023",27 days,7
+Aïssa Mandi,20/21,Corona virus,"Nov 22, 2020","Dec 7, 2020",16 days,3
+Aïssa Mandi,16/17,Broken hand,"Mar 28, 2017","Apr 7, 2017",11 days,2
+Aïssa Mandi,16/17,Adductor injury,"Sep 20, 2016","Oct 13, 2016",24 days,4
+Aïssa Mandi,16/17,bruise,"Sep 2, 2016","Sep 6, 2016",5 days,1
+Aïssa Mandi,15/16,Cruciate ligament strain,"Sep 23, 2015","Nov 5, 2015",44 days,8
+Gabriel Gudmundsson,22/23,Pubalgia,"Oct 28, 2022","Jan 17, 2023",82 days,12
+Gabriel Gudmundsson,20/21,Ankle injury,"Apr 24, 2021","May 17, 2021",24 days,5
+Gabriel Gudmundsson,20/21,Hamstring injury,"Feb 24, 2021","Mar 18, 2021",23 days,4
+Gabriel Gudmundsson,20/21,Ankle injury,"Aug 29, 2020","Oct 22, 2020",55 days,10
+Gabriel Gudmundsson,19/20,Hamstring injury,"Dec 15, 2019","Mar 10, 2020",87 days,12
+Gabriel Gudmundsson,19/20,Calf injury,"Oct 26, 2019","Nov 14, 2019",20 days,4
+Mitchel Bakker,24/25,Injury to abdominal muscles,"Oct 18, 2024","Oct 28, 2024",11 days,3
+Mitchel Bakker,24/25,Muscle fatigue,"Aug 23, 2024","Sep 12, 2024",21 days,3
+Mitchel Bakker,23/24,Stomach flu,"May 1, 2024","May 4, 2024",4 days,1
+Mitchel Bakker,21/22,Ankle injury,"Oct 31, 2021","Dec 16, 2021",47 days,11
+Mitchel Bakker,21/22,Knock,"Oct 1, 2021","Oct 9, 2021",9 days,2
+Mitchel Bakker,21/22,bruise,"Aug 6, 2021","Aug 11, 2021",6 days,1
+Ismaily,24/25,Calf problems,"Jan 24, 2025","Feb 4, 2025",12 days,4
+Ismaily,24/25,Meniscus injury,"Aug 24, 2024","Nov 1, 2024",70 days,13
+Ismaily,23/24,Knock,"Oct 23, 2023","Oct 28, 2023",6 days,1
+Ismaily,22/23,Dead leg,"May 22, 2023","Jun 1, 2023",11 days,1
+Ismaily,22/23,Dead leg,"Feb 5, 2023","Apr 10, 2023",65 days,9
+Ismaily,22/23,Knock,"Jan 12, 2023","Jan 26, 2023",15 days,2
+Ismaily,22/23,Dead leg,"Nov 1, 2022","Nov 15, 2022",15 days,2
+Ismaily,21/22,unknown injury,"Nov 22, 2021","Dec 6, 2021",15 days,3
+Ismaily,21/22,Muscle injury,"Oct 1, 2021","Oct 14, 2021",14 days,1
+Ismaily,20/21,Knee injury,"Apr 15, 2021","Jun 18, 2021",65 days,5
+Ismaily,20/21,Knee problems,"Mar 14, 2021","Apr 8, 2021",26 days,4
+Ismaily,19/20,Cruciate ligament surgery,"Jun 12, 2020","Jan 29, 2021",232 days,30
+Ismaily,19/20,Calf strain,"Feb 29, 2020","Mar 2, 2020",3 days,1
+Ismaily,19/20,unknown injury,"Oct 30, 2019","Nov 5, 2019",7 days,2
+Ismaily,19/20,Calf problems,"Oct 17, 2019","Oct 19, 2019",3 days,1
+Tiago Santos,24/25,Cruciate ligament tear,"Oct 16, 2024",,170 days,31
+Thomas Meunier,24/25,Adductor pain,"Nov 1, 2024","Nov 11, 2024",11 days,3
+Thomas Meunier,23/24,Partial muscle tear,"Jun 8, 2024","Jul 2, 2024",25 days,4
+Thomas Meunier,23/24,Muscle injury,"Jul 31, 2023","Oct 27, 2023",89 days,16
+Thomas Meunier,22/23,Muscle injury,"Apr 16, 2023","May 29, 2023",44 days,6
+Thomas Meunier,22/23,Back problems,"Mar 29, 2023","Apr 6, 2023",9 days,2
+Thomas Meunier,22/23,Torn muscle fiber,"Jan 12, 2023","Feb 9, 2023",29 days,5
+Thomas Meunier,22/23,Broken cheekbone,"Oct 20, 2022","Nov 17, 2022",29 days,7
+Thomas Meunier,22/23,Groin problems,"Oct 13, 2022","Oct 13, 2022",1 days,-
+Thomas Meunier,21/22,Tendon rupture,"Feb 24, 2022","May 12, 2022",78 days,13
+Thomas Meunier,21/22,minor knock,"Feb 10, 2022","Feb 21, 2022",12 days,3
+Thomas Meunier,21/22,muscular problems,"Jan 20, 2022","Jan 31, 2022",12 days,1
+Thomas Meunier,21/22,Knock,"Oct 21, 2021","Oct 25, 2021",5 days,1
+Thomas Meunier,21/22,muscular problems,"Sep 2, 2021","Sep 9, 2021",8 days,2
+Thomas Meunier,21/22,Corona virus,"Aug 2, 2021","Aug 19, 2021",18 days,3
+Thomas Meunier,20/21,Inflammation in the knee,"Jan 28, 2021","Feb 15, 2021",19 days,4
+Ngal'ayel Mukau,24/25,ankle sprain,"Sep 1, 2024","Oct 13, 2024",43 days,10
+Ngal'ayel Mukau,23/24,Ill,"Feb 29, 2024","Mar 6, 2024",7 days,1
+Nabil Bentaleb,23/24,heart problems,"Jun 18, 2024","Feb 12, 2025",240 days,36
+Nabil Bentaleb,23/24,Calf injury,"Sep 4, 2023","Oct 9, 2023",36 days,8
+Nabil Bentaleb,20/21,Groin surgery,"Mar 16, 2021","Jun 30, 2021",107 days,14
+Nabil Bentaleb,20/21,Groin problems,"Mar 5, 2021","Mar 15, 2021",11 days,2
+Nabil Bentaleb,19/20,Meniscus tear,"Sep 2, 2019","Nov 20, 2019",80 days,16
+Nabil Bentaleb,18/19,Groin problems,"Mar 14, 2019","Mar 18, 2019",5 days,1
+Nabil Bentaleb,18/19,Back injury,"Feb 21, 2019","Feb 22, 2019",2 days,-
+Nabil Bentaleb,18/19,Hamstring injury,"Jan 16, 2019","Jan 24, 2019",9 days,1
+Nabil Bentaleb,17/18,Inflammation of pubic bone,"Nov 6, 2017","Dec 31, 2017",56 days,9
+Nabil Bentaleb,17/18,Groin problems,"Oct 2, 2017","Oct 12, 2017",11 days,1
+Nabil Bentaleb,17/18,muscle stiffness,"Sep 21, 2017","Sep 28, 2017",8 days,1
+Nabil Bentaleb,16/17,Ankle injury,"Jun 8, 2017","Jun 8, 2017",1 days,-
+Nabil Bentaleb,16/17,Stomach flu,"Feb 13, 2017","Feb 16, 2017",4 days,1
+Nabil Bentaleb,16/17,influenza,"Dec 8, 2016","Dec 8, 2016",1 days,1
+Nabil Bentaleb,15/16,Knee surgery,"Mar 17, 2016","May 16, 2016",61 days,11
+Benjamin André,18/19,Muscle contusion,"Feb 7, 2019","Feb 13, 2019",7 days,1
+André Gomes,24/25,Dead leg,"Oct 31, 2024","Nov 25, 2024",26 days,4
+André Gomes,23/24,Fitness,"Aug 13, 2023","Dec 3, 2023",113 days,16
+André Gomes,21/22,Calf injury,"Sep 21, 2021","Dec 5, 2021",76 days,10
+André Gomes,20/21,bruise,"Sep 27, 2020","Oct 16, 2020",20 days,2
+André Gomes,19/20,bruise,"Jun 3, 2020","Jun 20, 2020",18 days,-
+André Gomes,19/20,Ankle injury,"Nov 4, 2019","Feb 21, 2020",110 days,19
+André Gomes,19/20,Bruised ribs,"Sep 2, 2019","Oct 4, 2019",33 days,6
+André Gomes,19/20,Ankle injury,"Aug 11, 2019","Aug 16, 2019",6 days,-
+André Gomes,18/19,bruise,"Mar 18, 2019","Mar 29, 2019",12 days,2
+André Gomes,18/19,Ill,"Dec 18, 2018","Dec 22, 2018",5 days,-
+André Gomes,18/19,Bone edema,"Jul 29, 2018","Oct 20, 2018",84 days,14
+André Gomes,17/18,stomach problems,"Jan 27, 2018","Jan 30, 2018",4 days,1
+André Gomes,17/18,Hamstring injury,"Nov 2, 2017","Dec 1, 2017",30 days,7
+André Gomes,17/18,Stomach flu,"Aug 24, 2017","Aug 31, 2017",8 days,2
+André Gomes,16/17,Muscle contusion,"Sep 1, 2016","Sep 12, 2016",12 days,2
+Ethan Mbappé,24/25,Fitness,"Jan 1, 2025","Jan 18, 2025",18 days,4
+Ethan Mbappé,24/25,Torn thigh muscle,"Sep 28, 2024","Dec 28, 2024",92 days,16
+Ethan Mbappé,24/25,Adductor pain,"Aug 29, 2024","Sep 23, 2024",26 days,4
+Ethan Mbappé,24/25,ankle sprain,"Jul 22, 2024","Jul 31, 2024",10 days,-
+Angel Gomes,24/25,Calf injury,"Nov 25, 2024","Dec 31, 2024",37 days,6
+Angel Gomes,24/25,concussion,"Aug 18, 2024","Aug 29, 2024",12 days,3
+Angel Gomes,23/24,Hamstring injury,"Mar 28, 2024","Apr 18, 2024",22 days,4
+Angel Gomes,20/21,unknown injury,"Oct 15, 2020","Oct 30, 2020",16 days,2
+Angel Gomes,18/19,Knock,"Oct 11, 2018","Oct 21, 2018",11 days,4
+Hákon Arnar Haraldsson,24/25,Broken foot,"Sep 5, 2024","Nov 17, 2024",74 days,17
+Rémy Cabella,24/25,Dead leg,"Oct 23, 2024","Nov 6, 2024",15 days,4
+Rémy Cabella,20/21,Corona virus,"Oct 19, 2020","Nov 5, 2020",18 days,5
+Rémy Cabella,19/20,Cruciate ligament tear,"Aug 21, 2019","Mar 21, 2020",214 days,25
+Rémy Cabella,18/19,Foot injury,"May 14, 2018","Jul 24, 2018",72 days,1
+Rémy Cabella,17/18,Broken toe,"Oct 24, 2017","Dec 1, 2017",39 days,6
+Rémy Cabella,16/17,Thigh problems,"Dec 3, 2016","Dec 15, 2016",13 days,3
+Rémy Cabella,16/17,Knee injury,"Oct 14, 2016","Oct 27, 2016",14 days,3
+Rémy Cabella,15/16,Adductor injury,"Jan 1, 2016","Jan 14, 2016",14 days,3
+Rémy Cabella,12/13,strain,"Feb 14, 2013","Mar 27, 2013",42 days,7
+Rémy Cabella,09/10,Cruciate ligament tear,"Sep 18, 2009","Apr 18, 2010",213 days,39
+Osame Sahraoui,24/25,Hip problems,"Mar 16, 2025","Mar 28, 2025",13 days,2
+Osame Sahraoui,24/25,Inflammation of pubic bone,"Feb 21, 2025","Mar 12, 2025",20 days,5
+Osame Sahraoui,23/24,unknown injury,"Apr 12, 2024","Apr 23, 2024",12 days,1
+Osame Sahraoui,23/24,unknown injury,"Nov 7, 2023","Nov 18, 2023",12 days,6
+Osame Sahraoui,23/24,Hamstring injury,"Oct 29, 2023","Nov 2, 2023",5 days,1
+Edon Zhegrova,24/25,Adductor pain,"Dec 15, 2024",,110 days,19
+Edon Zhegrova,24/25,Rest,"Dec 7, 2024","Dec 13, 2024",7 days,1
+Edon Zhegrova,24/25,Adductor pain,"Dec 6, 2024","Dec 11, 2024",6 days,2
+Edon Zhegrova,24/25,Adductor pain,"Nov 24, 2024","Dec 2, 2024",9 days,3
+Edon Zhegrova,23/24,Muscle injury,"Jul 13, 2023","Aug 9, 2023",28 days,-
+Edon Zhegrova,21/22,unknown injury,"Dec 14, 2021","Dec 31, 2021",18 days,2
+Edon Zhegrova,21/22,Ill,"Oct 29, 2021","Nov 5, 2021",8 days,2
+Edon Zhegrova,21/22,Meniscus injury,"Aug 9, 2021","Sep 25, 2021",48 days,13
+Edon Zhegrova,20/21,Ill,"May 10, 2021","May 14, 2021",5 days,1
+Edon Zhegrova,19/20,Inner ligament injury,"Jun 12, 2020","Sep 1, 2020",82 days,8
+Edon Zhegrova,19/20,strain,"Feb 19, 2020","Feb 29, 2020",11 days,3
+Edon Zhegrova,19/20,unknown injury,"Oct 1, 2019","Oct 4, 2019",4 days,1
+Edon Zhegrova,19/20,Ill,"Sep 18, 2019","Sep 24, 2019",7 days,2
+Edon Zhegrova,18/19,unknown injury,"May 8, 2019","May 13, 2019",6 days,1
+Jonathan David,22/23,Hand injury,"Jan 30, 2023","Feb 3, 2023",5 days,1
+Jonathan David,20/21,Torn lateral ankle ligament,"Apr 3, 2021","Apr 12, 2021",10 days,2
+Matías Fernández-Pardo,24/25,Ankle ligament tear,"Jan 4, 2025","Feb 18, 2025",46 days,11
+Matías Fernández-Pardo,23/24,Knock,"Sep 20, 2023","Sep 26, 2023",7 days,2
+Chuba Akpom,23/24,Ankle injury,"Apr 1, 2024","Apr 6, 2024",6 days,1
+Chuba Akpom,23/24,Ill,"Jan 20, 2024","Feb 2, 2024",14 days,2
+Chuba Akpom,21/22,unknown injury,"Feb 23, 2022","Feb 28, 2022",6 days,2
+Chuba Akpom,20/21,Calf injury,"Oct 25, 2020","Oct 29, 2020",5 days,1
+Chuba Akpom,16/17,Back injury,"Sep 28, 2016","Jan 7, 2017",102 days,22
+Marcin Bulka,22/23,Shoulder injury,"Oct 28, 2022","Feb 25, 2023",121 days,19
+Marcin Bulka,20/21,ankle sprain,"Feb 19, 2021","Apr 11, 2021",52 days,10
+Youssouf Ndayishimiye,24/25,Hamstring injury,"Nov 29, 2024","Dec 22, 2024",24 days,5
+Youssouf Ndayishimiye,24/25,Hamstring injury,"Oct 20, 2024","Oct 31, 2024",12 days,3
+Youssouf Ndayishimiye,24/25,Calf injury,"Aug 17, 2024","Aug 23, 2024",7 days,1
+Youssouf Ndayishimiye,23/24,Dead leg,"Mar 30, 2024","May 30, 2024",62 days,8
+Youssouf Ndayishimiye,22/23,Knee problems,"Apr 24, 2023","Jun 15, 2023",53 days,6
+Youssouf Ndayishimiye,22/23,Knee problems,"Apr 14, 2023","Apr 19, 2023",6 days,1
+Youssouf Ndayishimiye,22/23,Knee injury,"Mar 17, 2023","Apr 1, 2023",16 days,3
+Youssouf Ndayishimiye,21/22,unknown injury,"Mar 30, 2022","May 23, 2022",55 days,8
+Youssouf Ndayishimiye,21/22,unknown injury,"Feb 22, 2022","Mar 15, 2022",22 days,4
+Youssouf Ndayishimiye,20/21,Corona virus,"Apr 21, 2021","May 2, 2021",12 days,3
+Youssouf Ndayishimiye,20/21,Edema in the knee,"Oct 11, 2020","Oct 18, 2020",8 days,1
+Moïse Bombito,24/25,Groin injury,"Jan 2, 2025","Jan 24, 2025",23 days,5
+Moïse Bombito,22/23,Knee injury,"Mar 2, 2023","May 4, 2023",64 days,12
+Mohamed Abdelmonem,22/23,Nose surgery,"Oct 29, 2022","Nov 29, 2022",32 days,3
+Mohamed Abdelmonem,21/22,Nose injury,"Mar 25, 2022","Apr 7, 2022",14 days,3
+Dante,24/25,Meniscus injury,"Nov 27, 2024","Dec 22, 2024",26 days,6
+Dante,24/25,Knee injury,"Oct 23, 2024","Oct 31, 2024",9 days,2
+Dante,23/24,Knee injury,"May 15, 2024","May 31, 2024",17 days,2
+Dante,20/21,Cruciate ligament tear,"Nov 2, 2020","May 31, 2021",211 days,35
+Dante,20/21,Torn knee ligaments,"Nov 1, 2020","Jun 1, 2020",154 days,-
+Dante,19/20,Knee problems,"Sep 1, 2019","Sep 28, 2019",28 days,5
+Dante,16/17,Knee injury,"Dec 19, 2016","Dec 31, 2016",13 days,1
+Dante,15/16,Muscle injury,"Jul 1, 2015","Aug 7, 2015",38 days,1
+Dante,13/14,flesh wound,"Oct 19, 2013","Oct 31, 2013",13 days,3
+Dante,10/11,muscle stiffness,"Apr 22, 2011","May 3, 2011",12 days,2
+Dante,10/11,Inner knee ligament tear,"Nov 13, 2010","Jan 17, 2011",66 days,9
+Dante,10/11,Broken foot,"Sep 18, 2010","Nov 10, 2010",54 days,11
+Dante,08/09,Torn muscle fiber,"Jan 13, 2009","Mar 16, 2009",63 days,8
+Melvin Bard,24/25,Foot injury,"Nov 30, 2024","Dec 13, 2024",14 days,3
+Melvin Bard,24/25,Knee injury,"Sep 27, 2024","Oct 21, 2024",25 days,4
+Melvin Bard,23/24,Foot injury,"Mar 15, 2024","Mar 30, 2024",16 days,1
+Melvin Bard,22/23,Calf injury,"Feb 20, 2023","Mar 20, 2023",29 days,6
+Melvin Bard,21/22,Injury to the ankle,"Oct 8, 2021","Oct 30, 2021",23 days,5
+Melvin Bard,20/21,Corona virus,"Apr 28, 2021","May 15, 2021",18 days,2
+Melvin Bard,20/21,Calf injury,"Oct 5, 2020","Oct 25, 2020",21 days,4
+Ali Abdi,24/25,Hamstring injury,"Nov 19, 2024","Jan 5, 2025",48 days,8
+Ali Abdi,23/24,Knee injury,"May 8, 2024","May 31, 2024",24 days,2
+Ali Abdi,22/23,Dead leg,"Sep 11, 2022","Oct 14, 2022",34 days,5
+Ali Abdi,21/22,Corona virus,"Jan 22, 2022","Jan 28, 2022",7 days,3
+Jonathan Clauss,24/25,Dead leg,"Nov 19, 2024","Dec 8, 2024",20 days,4
+Jonathan Clauss,23/24,Hamstring injury,"Mar 26, 2024","Apr 22, 2024",28 days,5
+Jonathan Clauss,23/24,Knee injury,"Jan 28, 2024","Feb 3, 2024",7 days,-
+Jonathan Clauss,22/23,Adductor pain,"Jan 3, 2023","Jan 30, 2023",28 days,5
+Jonathan Clauss,22/23,Dead leg,"Oct 5, 2022","Oct 11, 2022",7 days,1
+Jonathan Clauss,20/21,Corona virus,"Aug 21, 2020","Aug 31, 2020",11 days,1
+Antoine Mendy,24/25,Injury to the ankle,"Nov 9, 2024","Dec 22, 2024",44 days,8
+Antoine Mendy,23/24,Eye injury,"Dec 9, 2023","Dec 15, 2023",7 days,1
+Antoine Mendy,23/24,Knee injury,"Jul 1, 2023","Oct 10, 2023",102 days,8
+Antoine Mendy,22/23,Dead leg,"May 15, 2023","May 25, 2023",11 days,1
+Antoine Mendy,22/23,Injury to the ankle,"Feb 27, 2023","Mar 20, 2023",22 days,5
+Pablo Rosario,24/25,Leg injury,"Jan 18, 2025","Feb 14, 2025",28 days,6
+Pablo Rosario,24/25,Calf injury,"Dec 19, 2024","Jan 2, 2025",15 days,1
+Pablo Rosario,21/22,Strain in the thigh and gluteal muscles,"Jan 31, 2022","Feb 8, 2022",9 days,2
+Pablo Rosario,20/21,Muscle injury,"May 14, 2021","May 31, 2021",18 days,1
+Pablo Rosario,20/21,Muscle injury,"Feb 28, 2021","Mar 10, 2021",11 days,2
+Pablo Rosario,20/21,Corona virus,"Oct 21, 2020","Nov 4, 2020",15 days,4
+Pablo Rosario,18/19,unknown injury,"Mar 20, 2019","Mar 23, 2019",4 days,-
+Baptiste Santamaria,22/23,Injury to the ankle,"Sep 12, 2022","Jan 12, 2023",123 days,17
+Baptiste Santamaria,20/21,Capsular injury,"Jan 18, 2021","Jan 28, 2021",11 days,2
+Baptiste Santamaria,17/18,Injury to the ankle,"Nov 30, 2017","Jan 5, 2018",37 days,5
+Hicham Boudaoui,24/25,Hamstring injury,"Oct 30, 2024","Nov 22, 2024",24 days,5
+Hicham Boudaoui,24/25,Knee injury,"Sep 2, 2024","Sep 21, 2024",20 days,4
+Hicham Boudaoui,23/24,Foot injury,"Feb 15, 2024","Feb 24, 2024",10 days,1
+Hicham Boudaoui,23/24,Back injury,"Sep 20, 2023","Oct 5, 2023",16 days,2
+Hicham Boudaoui,22/23,Knee injury,"Jan 1, 2023","Jan 10, 2023",10 days,2
+Hicham Boudaoui,22/23,Groin injury,"Oct 14, 2022","Oct 30, 2022",17 days,4
+Hicham Boudaoui,22/23,Back injury,"Jul 19, 2022","Sep 1, 2022",45 days,7
+Hicham Boudaoui,21/22,Back injury,"Nov 4, 2021","Dec 1, 2021",28 days,7
+Hicham Boudaoui,21/22,Back injury,"Sep 23, 2021","Oct 3, 2021",11 days,2
+Hicham Boudaoui,20/21,Meniscus tear,"Mar 4, 2021","Apr 12, 2021",40 days,7
+Hicham Boudaoui,20/21,Meniscus tear,"Aug 8, 2020","Oct 6, 2020",60 days,6
+Hicham Boudaoui,19/20,Hamstring strain,"Feb 29, 2020","Mar 14, 2020",15 days,2
+Tanguy Ndombélé,24/25,Leg injury,"Nov 11, 2024","Nov 22, 2024",12 days,-
+Tanguy Ndombélé,24/25,Hip injury,"Oct 18, 2024","Oct 31, 2024",14 days,3
+Tanguy Ndombélé,24/25,Muscle injury,"Sep 28, 2024","Oct 2, 2024",5 days,1
+Tanguy Ndombélé,23/24,Knock,"Feb 16, 2024","Feb 27, 2024",12 days,3
+Tanguy Ndombélé,23/24,Groin problems,"Oct 24, 2023","Nov 4, 2023",12 days,3
+Tanguy Ndombélé,23/24,Injury to the ankle,"Jul 25, 2023","Aug 27, 2023",34 days,3
+Tanguy Ndombélé,22/23,influenza,"Feb 1, 2023","Feb 3, 2023",3 days,-
+Tanguy Ndombélé,21/22,Dead leg,"Apr 15, 2022","Apr 28, 2022",14 days,3
+Tanguy Ndombélé,21/22,Dead leg,"Mar 1, 2022","Mar 8, 2022",8 days,1
+Tanguy Ndombélé,21/22,Knock,"Aug 8, 2021","Aug 28, 2021",21 days,4
+Tanguy Ndombélé,20/21,unknown injury,"Dec 5, 2020","Dec 8, 2020",4 days,1
+Tanguy Ndombélé,20/21,Virus,"Nov 9, 2020","Nov 20, 2020",12 days,-
+Tanguy Ndombélé,20/21,Knock,"Oct 28, 2020","Oct 31, 2020",4 days,1
+Tanguy Ndombélé,19/20,Knock,"Jul 13, 2020","Jul 31, 2020",19 days,3
+Tanguy Ndombélé,19/20,Groin injury,"Jan 1, 2020","Jan 21, 2020",21 days,5
+Morgan Sanson,24/25,Injury to the ankle,"Aug 17, 2024","Mar 17, 2025",213 days,37
+Morgan Sanson,23/24,Muscle injury,"Mar 17, 2024","Apr 6, 2024",21 days,1
+Morgan Sanson,23/24,Knee injury,"Feb 24, 2024","Mar 7, 2024",13 days,2
+Morgan Sanson,22/23,Hamstring injury,"Mar 1, 2023","Mar 10, 2023",10 days,1
+Morgan Sanson,21/22,Knock,"Apr 10, 2022","May 8, 2022",29 days,3
+Morgan Sanson,21/22,Corona virus,"Dec 12, 2021","Dec 25, 2021",14 days,1
+Morgan Sanson,21/22,Ill,"Oct 30, 2021","Nov 6, 2021",8 days,2
+Morgan Sanson,21/22,Hamstring injury,"Sep 23, 2021","Oct 16, 2021",24 days,3
+Morgan Sanson,20/21,Knee problems,"Apr 9, 2021","Aug 29, 2021",143 days,13
+Morgan Sanson,20/21,Muscle injury,"Dec 13, 2020","Jan 12, 2021",31 days,5
+Morgan Sanson,20/21,Contracture,"Sep 12, 2020","Sep 16, 2020",5 days,1
+Morgan Sanson,18/19,Calf injury,"Sep 27, 2018","Oct 17, 2018",21 days,3
+Morgan Sanson,17/18,Inner ligament stretch of the knee,"Jan 17, 2018","Jan 22, 2018",6 days,1
+Morgan Sanson,17/18,Ill,"Jan 6, 2018","Jan 8, 2018",3 days,1
+Morgan Sanson,15/16,Knee injury,"Jan 11, 2016","Mar 7, 2016",57 days,10
+Jérémie Boga,24/25,Muscle injury,"Nov 30, 2024","Feb 6, 2025",69 days,14
+Jérémie Boga,24/25,Knock,"Sep 18, 2024","Sep 26, 2024",9 days,2
+Jérémie Boga,24/25,Dead leg,"Aug 17, 2024","Aug 31, 2024",15 days,2
+Jérémie Boga,23/24,Dead leg,"Aug 12, 2023","Aug 31, 2023",20 days,2
+Jérémie Boga,22/23,Ankle sprain,"May 7, 2023","Jun 30, 2023",55 days,6
+Jérémie Boga,21/22,Knee problems,"Mar 18, 2022","Mar 31, 2022",14 days,3
+Jérémie Boga,21/22,unknown injury,"Nov 12, 2021","Dec 5, 2021",24 days,6
+Jérémie Boga,21/22,Fever,"Oct 16, 2021","Oct 30, 2021",15 days,3
+Jérémie Boga,20/21,unknown injury,"May 7, 2021","May 11, 2021",5 days,1
+Jérémie Boga,20/21,Thigh problems,"Feb 6, 2021","Mar 13, 2021",36 days,6
+Jérémie Boga,20/21,muscular problems,"Jan 14, 2021","Jan 23, 2021",10 days,2
+Jérémie Boga,20/21,Corona virus,"Aug 20, 2020","Oct 4, 2020",46 days,3
+Jérémie Boga,19/20,muscular problems,"Jul 24, 2020","Aug 5, 2020",13 days,3
+Jérémie Boga,18/19,unknown injury,"Oct 11, 2018","Jan 10, 2019",92 days,15
+Jérémie Boga,16/17,Muscle injury,"Nov 23, 2016","Dec 2, 2016",10 days,2
+Sofiane Diop,23/24,Foot injury,"Jan 27, 2024","Sep 2, 2024",220 days,23
+Sofiane Diop,23/24,Broken foot,"Nov 27, 2023","Jan 8, 2024",43 days,5
+Sofiane Diop,23/24,Dead leg,"Sep 25, 2023","Oct 28, 2023",34 days,6
+Sofiane Diop,22/23,Knee injury,"Mar 4, 2023","May 7, 2023",65 days,14
+Sofiane Diop,22/23,Hamstring injury,"Oct 14, 2022","Nov 7, 2022",25 days,6
+Sofiane Diop,21/22,Corona virus,"Dec 30, 2021","Jan 6, 2022",8 days,1
+Sofiane Diop,20/21,Ankle sprain,"Apr 22, 2021","May 17, 2021",26 days,5
+Sofiane Diop,20/21,Broken hand,"Mar 24, 2021","Apr 7, 2021",15 days,7
+Mohamed-Ali Cho,24/25,Hamstring injury,"Dec 2, 2024","Dec 22, 2024",21 days,4
+Mohamed-Ali Cho,24/25,unknown injury,"Oct 18, 2024","Oct 21, 2024",4 days,1
+Mohamed-Ali Cho,24/25,Heel injury,"Sep 24, 2024","Sep 30, 2024",7 days,2
+Mohamed-Ali Cho,23/24,muscular problems,"Dec 3, 2023","Dec 16, 2023",14 days,3
+Mohamed-Ali Cho,23/24,Hamstring injury,"Oct 7, 2023","Oct 20, 2023",14 days,1
+Mohamed-Ali Cho,22/23,Ankle injury,"Jan 18, 2023","Feb 28, 2023",42 days,7
+Mohamed-Ali Cho,22/23,Ankle injury,"Jan 7, 2023","Jan 16, 2023",10 days,2
+Mohamed-Ali Cho,22/23,Hamstring injury,"Oct 10, 2022","Dec 10, 2022",62 days,13
+Mohamed-Ali Cho,22/23,Hamstring injury,"Sep 25, 2022","Oct 8, 2022",14 days,2
+Badredine Bouanani,23/24,Injury to the ankle,"Dec 3, 2023","Jan 1, 2024",30 days,3
+Terem Moffi,24/25,Cruciate ligament tear,"Jul 30, 2024","Mar 17, 2025",231 days,37
+Terem Moffi,22/23,Injury to the ankle,"Oct 17, 2022","Oct 30, 2022",14 days,2
+Youssoufa Moukoko,23/24,Hamstring injury,"Dec 7, 2023","Dec 31, 2023",25 days,4
+Youssoufa Moukoko,23/24,Hamstring strain,"Oct 15, 2023","Oct 23, 2023",9 days,1
+Youssoufa Moukoko,22/23,Syndesmosis ligament tear,"Feb 12, 2023","Mar 30, 2023",47 days,9
+Youssoufa Moukoko,22/23,Compression of the spine,"Sep 26, 2022","Sep 29, 2022",4 days,1
+Youssoufa Moukoko,21/22,Torn muscle fiber,"Feb 28, 2022","Mar 31, 2022",32 days,7
+Youssoufa Moukoko,21/22,Torn muscle fiber,"Nov 29, 2021","Jan 6, 2022",39 days,5
+Youssoufa Moukoko,21/22,inflammation,"Nov 11, 2021","Nov 25, 2021",15 days,5
+Youssoufa Moukoko,21/22,Muscle injury,"Oct 7, 2021","Oct 28, 2021",22 days,7
+Youssoufa Moukoko,20/21,Ligament injury,"Apr 1, 2021","Jun 10, 2021",71 days,17
+Youssoufa Moukoko,20/21,Knee problems,"Dec 21, 2020","Jan 7, 2021",18 days,2
+Youssoufa Moukoko,18/19,flesh wound,"Aug 13, 2018","Aug 16, 2018",4 days,1
+Youssoufa Moukoko,17/18,Rest,"May 31, 2018","Jun 4, 2018",5 days,2
+Gaëtan Laborde,24/25,Broken foot,"Aug 23, 2024","Oct 14, 2024",53 days,8
+Gaëtan Laborde,17/18,Foot injury,"Oct 18, 2017","Jan 10, 2018",85 days,12
+Gaëtan Laborde,16/17,Back injury,"Aug 21, 2016","Aug 27, 2016",7 days,-
+Rémy Descamps,18/19,Finger injury,"Oct 13, 2018","Nov 23, 2018",42 days,6
+Moussa Niakhaté,22/23,Hamstring injury,"Aug 15, 2022","Mar 17, 2023",215 days,44
+Moussa Niakhaté,21/22,Corona virus,"Jan 4, 2022","Jan 11, 2022",8 days,2
+Moussa Niakhaté,21/22,Hamstring injury,"Sep 12, 2021","Sep 28, 2021",17 days,2
+Duje Caleta-Car,21/22,Corona virus,"Jul 28, 2021","Aug 14, 2021",18 days,1
+Duje Caleta-Car,20/21,muscular problems,"Feb 12, 2021","Feb 16, 2021",5 days,1
+Duje Caleta-Car,17/18,Fever,"Feb 9, 2018","Feb 14, 2018",6 days,1
+Warmed Omari,23/24,Adductor pain,"Aug 24, 2023","Aug 30, 2023",7 days,1
+Warmed Omari,22/23,Pubalgia,"Jun 28, 2022","Nov 13, 2022",139 days,23
+Abner,23/24,ankle sprain,"Feb 4, 2024","Feb 25, 2024",22 days,6
+Abner,20/21,Corona virus,"Nov 24, 2020","Dec 10, 2020",17 days,4
+Nicolás Tagliafico,24/25,Calf injury,"Aug 22, 2024","Sep 13, 2024",23 days,4
+Nicolás Tagliafico,23/24,Ill,"Apr 27, 2024","May 6, 2024",10 days,2
+Nicolás Tagliafico,23/24,Injury to the ankle,"Dec 5, 2023","Dec 10, 2023",6 days,2
+Nicolás Tagliafico,23/24,Rest,"Oct 19, 2023","Oct 23, 2023",5 days,1
+Nicolás Tagliafico,22/23,concussion,"Apr 25, 2023","May 3, 2023",9 days,1
+Nicolás Tagliafico,22/23,Inflammation of pubic bone,"Apr 11, 2023","Apr 21, 2023",11 days,1
+Nicolás Tagliafico,22/23,Rest,"Dec 19, 2022","Jan 2, 2023",15 days,2
+Nicolás Tagliafico,20/21,Head injury,"Feb 19, 2021","Mar 4, 2021",14 days,4
+Nicolás Tagliafico,20/21,Eye injury,"Jan 28, 2021","Feb 9, 2021",13 days,2
+Nicolás Tagliafico,20/21,Knock,"Dec 10, 2020","Dec 11, 2020",2 days,-
+Nicolás Tagliafico,20/21,Knock,"Oct 30, 2020","Nov 2, 2020",4 days,1
+Nicolás Tagliafico,18/19,Knee injury,"Dec 17, 2018","Jan 30, 2019",45 days,5
+Nicolás Tagliafico,18/19,Hip injury,"Oct 25, 2018","Oct 27, 2018",3 days,-
+Nicolás Tagliafico,18/19,Hip problems,"Oct 17, 2018","Oct 22, 2018",6 days,1
+Nicolás Tagliafico,16/17,Injury to the ankle,"Jun 23, 2017","Jun 28, 2017",6 days,2
+Ainsley Maitland-Niles,22/23,unknown injury,"Mar 6, 2023","Mar 16, 2023",11 days,2
+Ainsley Maitland-Niles,18/19,Ill,"Feb 15, 2019","Mar 1, 2019",15 days,3
+Ainsley Maitland-Niles,18/19,Knee injury,"Jan 26, 2019","Feb 8, 2019",14 days,2
+Ainsley Maitland-Niles,18/19,Hairline fracture in the fibula,"Aug 16, 2018","Oct 25, 2018",71 days,16
+Clinton Mata,23/24,Dead leg,"Aug 13, 2023","Sep 4, 2023",23 days,4
+Clinton Mata,22/23,Ankle injury,"May 21, 2023","Jun 30, 2023",41 days,4
+Clinton Mata,22/23,Bruised ribs,"Mar 12, 2023","Mar 30, 2023",19 days,4
+Clinton Mata,22/23,Ankle injury,"Oct 27, 2022","Nov 30, 2022",35 days,7
+Clinton Mata,22/23,Ankle injury,"Oct 17, 2022","Oct 25, 2022",9 days,2
+Clinton Mata,22/23,Ankle injury,"Sep 2, 2022","Oct 3, 2022",32 days,6
+Clinton Mata,18/19,Hamstring injury,"Feb 18, 2019","Mar 29, 2019",40 days,6
+Clinton Mata,17/18,surgery,"Jun 19, 2018","Sep 28, 2018",102 days,?
+Nemanja Matic,24/25,Back injury,"Oct 4, 2024","Oct 23, 2024",20 days,2
+Nemanja Matic,23/24,Muscle injury,"Dec 19, 2023","Jan 12, 2024",25 days,2
+Nemanja Matic,22/23,Rest,"May 26, 2023","May 29, 2023",4 days,1
+Nemanja Matic,22/23,Abdominal problems,"Mar 14, 2023","Mar 18, 2023",5 days,1
+Nemanja Matic,22/23,Adductor pain,"Oct 26, 2022","Oct 31, 2022",6 days,2
+Nemanja Matic,21/22,Shin injury,"Feb 10, 2022","Feb 18, 2022",9 days,2
+Nemanja Matic,21/22,Ill,"Dec 10, 2021","Dec 17, 2021",8 days,1
+Nemanja Matic,21/22,Knock,"Nov 29, 2021","Dec 4, 2021",6 days,1
+Nemanja Matic,19/20,unknown injury,"Oct 20, 2019","Dec 11, 2019",53 days,12
+Nemanja Matic,18/19,Ill,"Apr 4, 2019","Apr 15, 2019",12 days,2
+Nemanja Matic,18/19,bruise,"Mar 18, 2019","Mar 29, 2019",12 days,-
+Nemanja Matic,18/19,muscle stiffness,"Feb 20, 2019","Mar 10, 2019",19 days,5
+Nemanja Matic,18/19,Ankle injury,"Oct 7, 2018","Oct 19, 2018",13 days,-
+Nemanja Matic,18/19,Abdominal muscle strain,"Jun 28, 2018","Aug 26, 2018",60 days,2
+Nemanja Matic,17/18,Knock,"Nov 29, 2017","Dec 1, 2017",3 days,-
+Paul Akouokou,22/23,Appendicitis,"Feb 4, 2023","Feb 20, 2023",17 days,3
+Paul Akouokou,20/21,Knock,"May 11, 2021","Jun 1, 2021",22 days,3
+Corentin Tolisso,23/24,Dead leg,"Feb 11, 2024","Mar 3, 2024",22 days,5
+Corentin Tolisso,23/24,Calf injury,"Nov 22, 2023","Dec 10, 2023",19 days,4
+Corentin Tolisso,23/24,Ankle injury,"Aug 18, 2023","Aug 25, 2023",8 days,1
+Corentin Tolisso,22/23,Calf injury,"Feb 17, 2023","Feb 28, 2023",12 days,3
+Corentin Tolisso,22/23,Strain in the thigh and gluteal muscles,"Dec 29, 2022","Jan 10, 2023",13 days,2
+Corentin Tolisso,22/23,Strain in the thigh and gluteal muscles,"Oct 17, 2022","Nov 15, 2022",30 days,4
+Corentin Tolisso,22/23,Dead leg,"Oct 1, 2022","Oct 3, 2022",3 days,1
+Corentin Tolisso,21/22,Torn muscle fiber,"Apr 4, 2022","Apr 28, 2022",25 days,5
+Corentin Tolisso,21/22,Torn muscle fiber,"Feb 21, 2022","Mar 14, 2022",22 days,4
+Corentin Tolisso,21/22,Corona virus,"Dec 30, 2021","Jan 13, 2022",15 days,1
+Corentin Tolisso,21/22,minor knock,"Dec 13, 2021","Dec 16, 2021",4 days,1
+Corentin Tolisso,21/22,Calf problems,"Sep 1, 2021","Oct 10, 2021",40 days,10
+Corentin Tolisso,21/22,Corona virus,"Jul 26, 2021","Aug 6, 2021",12 days,-
+Corentin Tolisso,20/21,Tendon rupture,"Feb 18, 2021","May 11, 2021",83 days,18
+Corentin Tolisso,20/21,muscular problems,"Jan 22, 2021","Feb 3, 2021",13 days,2
+Jordan Veretout,23/24,Dead leg,"Oct 6, 2023","Oct 20, 2023",15 days,1
+Jordan Veretout,21/22,Corona virus,"Mar 27, 2022","Apr 9, 2022",14 days,3
+Jordan Veretout,20/21,Hamstring muscle injury,"Apr 29, 2021","May 31, 2021",33 days,7
+Jordan Veretout,20/21,Muscle strain,"Mar 3, 2021","Apr 2, 2021",31 days,9
+Jordan Veretout,20/21,muscular problems,"Nov 29, 2020","Dec 11, 2020",13 days,4
+Jordan Veretout,13/14,Foot injury,"Feb 14, 2014","Feb 24, 2014",11 days,2
+Thiago Almada,23/24,Calf injury,"May 17, 2024","May 24, 2024",8 days,2
+Thiago Almada,22/23,Calf problems,"Apr 10, 2023","Apr 20, 2023",11 days,1
+Malick Fofana,24/25,Knee injury,"Mar 20, 2025",,15 days,1
+Malick Fofana,24/25,Hip injury,"Jan 24, 2025","Feb 7, 2025",15 days,3
+Malick Fofana,24/25,Calf injury,"Nov 11, 2024","Nov 21, 2024",11 days,-
+Malick Fofana,22/23,Knock,"May 25, 2023","May 31, 2023",7 days,1
+Rayan Cherki,23/24,Muscle injury,"Apr 1, 2024","Apr 2, 2024",2 days,1
+Rayan Cherki,21/22,Metatarsal fracture,"Feb 9, 2022","May 9, 2022",90 days,19
+Ernest Nuamah,24/25,Dead leg,"Oct 25, 2024","Nov 8, 2024",15 days,3
+Ernest Nuamah,24/25,Dead leg,"Aug 25, 2024","Sep 13, 2024",20 days,1
+Georges Mikautadze,23/24,Ill,"Oct 25, 2023","Oct 28, 2023",4 days,1
+Georges Mikautadze,21/22,Knock,"Nov 8, 2021","Nov 15, 2021",8 days,-
+Georges Mikautadze,21/22,Knock,"Oct 12, 2021","Oct 14, 2021",3 days,-
+Georges Mikautadze,20/21,Contracture,"Mar 27, 2021","Apr 9, 2021",14 days,1
+Alexandre Lacazette,24/25,Knee injury,"Feb 7, 2025","Feb 14, 2025",8 days,1
+Alexandre Lacazette,24/25,Muscle injury,"Jan 18, 2025","Jan 21, 2025",4 days,1
+Alexandre Lacazette,23/24,Facial injury,"Apr 15, 2024","Apr 20, 2024",6 days,-
+Alexandre Lacazette,23/24,Ill,"Mar 16, 2024","Mar 29, 2024",14 days,-
+Alexandre Lacazette,23/24,Dead leg,"Feb 28, 2024","Mar 10, 2024",12 days,2
+Alexandre Lacazette,22/23,Dead leg,"Feb 12, 2023","Mar 9, 2023",26 days,5
+Alexandre Lacazette,21/22,Corona virus,"Apr 14, 2022","Apr 19, 2022",6 days,1
+Alexandre Lacazette,21/22,Corona virus,"Aug 1, 2021","Aug 24, 2021",24 days,2
+Alexandre Lacazette,20/21,Dead leg,"Apr 18, 2021","May 6, 2021",19 days,5
+Alexandre Lacazette,20/21,Head injury,"Jan 31, 2021","Feb 1, 2021",2 days,-
+Alexandre Lacazette,20/21,Head injury,"Dec 31, 2020","Jan 1, 2021",2 days,-
+Alexandre Lacazette,19/20,Ankle injury,"Sep 2, 2019","Oct 20, 2019",49 days,7
+Alexandre Lacazette,19/20,ankle sprain,"Jul 28, 2019","Aug 11, 2019",15 days,1
+Alexandre Lacazette,18/19,Groin injury,"Nov 12, 2018","Dec 1, 2018",20 days,2
+Alexandre Lacazette,17/18,Knee injury,"Feb 12, 2018","Mar 28, 2018",45 days,8
+Mathew Ryan,24/25,Hip injury,"Feb 7, 2025","Feb 21, 2025",15 days,2
+Mathew Ryan,24/25,unknown injury,"Jan 1, 2025","Jan 11, 2025",11 days,1
+Mathew Ryan,23/24,Broken cheekbone,"Dec 11, 2023","Jan 1, 2024",22 days,3
+Mathew Ryan,22/23,Knee problems,"Aug 10, 2022","Aug 15, 2022",6 days,1
+Mathew Ryan,21/22,Knee injury,"Jul 22, 2021","Sep 11, 2021",52 days,5
+Mathew Ryan,20/21,Groin injury,"Jan 28, 2021","Feb 5, 2021",9 days,2
+Mathew Ryan,18/19,Ankle injury,"Nov 25, 2018","Nov 30, 2018",6 days,-
+Mathew Ryan,18/19,Knock,"Oct 7, 2018","Oct 19, 2018",13 days,1
+Mathew Ryan,16/17,Hip problems,"Dec 13, 2016","Jan 23, 2017",42 days,6
+Mathew Ryan,16/17,Cyst in the knee,"Dec 12, 2016","Jan 2, 2017",22 days,1
+Mathew Ryan,16/17,ankle sprain,"Sep 13, 2016","Oct 6, 2016",24 days,5
+Mathew Ryan,15/16,Meniscus injury,"Aug 31, 2015","Nov 14, 2015",76 days,17
+Hervé Koffi,24/25,Pelvic injury,"Sep 27, 2024","Oct 27, 2024",31 days,6
+Hervé Koffi,22/23,Rest,"Sep 30, 2022","Oct 19, 2022",20 days,4
+Hervé Koffi,22/23,Adductor pain,"Sep 3, 2022","Sep 8, 2022",6 days,1
+Hervé Koffi,21/22,Ill,"Mar 22, 2022","Mar 27, 2022",6 days,1
+Hervé Koffi,21/22,bruise,"Feb 3, 2022","Feb 21, 2022",19 days,4
+Hervé Koffi,19/20,Finger injury,"Feb 26, 2020","Mar 31, 2020",35 days,2
+Hervé Koffi,19/20,Knee injury,"Dec 9, 2019","Feb 13, 2020",67 days,7
+Hervé Koffi,19/20,Hamstring injury,"Nov 5, 2019","Nov 26, 2019",22 days,4
+Hervé Koffi,18/19,Knock,"Aug 24, 2018","Sep 12, 2018",20 days,3
+Denis Petric,24/25,Back injury,"Jan 16, 2025",,78 days,10
+Denis Petric,22/23,Hip injury,"Nov 5, 2022","Jan 15, 2023",72 days,7
+Denis Petric,21/22,Ill,"Dec 11, 2021","Jan 1, 2022",22 days,2
+Denis Petric,20/21,Virus,"Aug 10, 2020","Aug 28, 2020",19 days,1
+Denis Petric,18/19,Knock,"Jan 7, 2019","Jan 24, 2019",18 days,5
+Denis Petric,17/18,Dead leg,"Oct 25, 2017","Mar 15, 2018",142 days,21
+Denis Petric,16/17,Knock,"Oct 30, 2016","Nov 25, 2016",27 days,2
+Denis Petric,16/17,Knock,"Aug 26, 2016","Sep 5, 2016",11 days,1
+Denis Petric,15/16,Knock,"Nov 12, 2015","Dec 1, 2015",20 days,2
+Denis Petric,15/16,Dead leg,"Aug 6, 2015","Aug 13, 2015",8 days,1
+Facundo Medina,24/25,Dead leg,"Dec 9, 2024","Dec 13, 2024",5 days,-
+Facundo Medina,22/23,Knee injury,"Mar 2, 2023","Mar 20, 2023",19 days,3
+Facundo Medina,21/22,Muscle injury,"Apr 19, 2022","Apr 25, 2022",7 days,2
+Facundo Medina,20/21,Corona virus,"Apr 10, 2021","Apr 20, 2021",11 days,2
+Facundo Medina,20/21,Knee problems,"Dec 21, 2020","Jan 15, 2021",26 days,3
+Facundo Medina,20/21,Knee injury,"Sep 1, 2020","Sep 6, 2020",6 days,-
+Malang Sarr,22/23,Muscle injury,"Mar 31, 2023","Jun 30, 2023",92 days,10
+Malang Sarr,22/23,Hip injury,"Feb 3, 2023","Feb 18, 2023",16 days,3
+Malang Sarr,19/20,Ankle injury,"Jan 3, 2020","Jan 20, 2020",18 days,3
+Malang Sarr,19/20,Back injury,"Aug 12, 2019","Sep 19, 2019",39 days,4
+Jonathan Gradit,24/25,Foot injury,"Dec 12, 2024","Dec 16, 2024",5 days,1
+Jonathan Gradit,24/25,ankle sprain,"Oct 4, 2024","Oct 18, 2024",15 days,1
+Jonathan Gradit,23/24,Calf injury,"Mar 17, 2024","Apr 1, 2024",16 days,1
+Jonathan Gradit,23/24,Calf injury,"Dec 13, 2023","Jan 8, 2024",27 days,3
+Jonathan Gradit,22/23,Broken collarbone,"Sep 10, 2022","Oct 24, 2022",45 days,5
+Jonathan Gradit,21/22,Calf injury,"Feb 7, 2022","Feb 21, 2022",15 days,2
+Jonathan Gradit,20/21,Corona virus,"Apr 12, 2021","Apr 22, 2021",11 days,1
+Jonathan Gradit,19/20,Facial injury,"Jan 25, 2020","Feb 24, 2020",31 days,6
+Jonathan Gradit,19/20,Injury to the ankle,"Oct 25, 2019","Nov 21, 2019",28 days,5
+Juma Bah,24/25,Head injury,"Mar 29, 2025","Apr 1, 2025",4 days,1
+Jhoanner Chávez,24/25,ankle sprain,"Jan 6, 2025","Feb 17, 2025",43 days,6
+Jhoanner Chávez,23/24,Dead leg,"Apr 29, 2024","May 14, 2024",16 days,2
+Jhoanner Chávez,23/24,Calf injury,"Feb 26, 2024","Mar 19, 2024",23 days,3
+Jhoanner Chávez,21/22,Knee injury,"Feb 6, 2022","Apr 1, 2022",55 days,7
+Deiver Machado,24/25,Hamstring injury,"Oct 17, 2024","Oct 24, 2024",8 days,1
+Deiver Machado,23/24,Adductor pain,"Feb 8, 2024","Apr 5, 2024",58 days,9
+Deiver Machado,23/24,Adductor pain,"Dec 6, 2023","Feb 1, 2024",58 days,7
+Deiver Machado,23/24,Adductor pain,"Nov 18, 2023","Nov 27, 2023",10 days,1
+Deiver Machado,23/24,Rest,"Oct 19, 2023","Oct 21, 2023",3 days,1
+Deiver Machado,22/23,Muscle injury,"Apr 23, 2023","May 3, 2023",11 days,1
+Deiver Machado,21/22,Meniscus injury,"Nov 3, 2021","Feb 5, 2022",95 days,13
+Ruben Aguilar,24/25,Shoulder injury,"Oct 17, 2024","Jan 13, 2025",89 days,11
+Ruben Aguilar,23/24,Knock,"Jan 11, 2024","Jan 15, 2024",5 days,1
+Ruben Aguilar,23/24,Broken nose bone,"Nov 7, 2023","Nov 10, 2023",4 days,1
+Ruben Aguilar,22/23,Torn thigh muscle,"Feb 16, 2023","Mar 1, 2023",14 days,4
+Ruben Aguilar,22/23,Heel injury,"Sep 19, 2022","Nov 1, 2022",44 days,8
+Ruben Aguilar,22/23,Adductor injury,"Aug 11, 2022","Aug 17, 2022",7 days,1
+Ruben Aguilar,21/22,Corona virus,"Apr 22, 2022","Apr 29, 2022",8 days,1
+Ruben Aguilar,21/22,Broken nose bone,"Dec 16, 2021","Dec 31, 2021",16 days,2
+Ruben Aguilar,20/21,Corona virus,"Mar 26, 2021","Apr 5, 2021",11 days,1
+Ruben Aguilar,18/19,Hamstring injury,"Apr 30, 2019","May 18, 2019",19 days,4
+Ruben Aguilar,18/19,Muscle injury,"Mar 5, 2019","Mar 10, 2019",6 days,2
+Ruben Aguilar,18/19,Ankle injury,"Feb 17, 2019","Feb 17, 2019",1 days,1
+Ruben Aguilar,17/18,Hamstring injury,"Apr 22, 2018","May 6, 2018",15 days,3
+Hamzat Ojediran,24/25,Hamstring injury,"Sep 22, 2024","Oct 12, 2024",21 days,2
+Nampalys Mendy,23/24,Dead leg,"Dec 13, 2023","Jan 2, 2024",21 days,2
+Nampalys Mendy,23/24,Hamstring injury,"Nov 12, 2023","Nov 21, 2023",10 days,3
+Nampalys Mendy,22/23,Knee injury,"Oct 6, 2022","Oct 14, 2022",9 days,1
+Nampalys Mendy,21/22,Ill,"May 16, 2022","May 18, 2022",3 days,-
+Nampalys Mendy,21/22,Groin problems,"Nov 5, 2021","Dec 20, 2021",46 days,10
+Nampalys Mendy,21/22,Groin problems,"Aug 1, 2021","Sep 30, 2021",61 days,12
+Nampalys Mendy,20/21,Neck injury,"Jan 17, 2021","Jan 23, 2021",7 days,1
+Nampalys Mendy,19/20,Knee injury,"Jan 24, 2020","Mar 8, 2020",45 days,7
+Nampalys Mendy,18/19,Groin injury,"Feb 4, 2019","Feb 22, 2019",19 days,1
+Nampalys Mendy,18/19,bruise,"Jul 28, 2018","Aug 17, 2018",21 days,1
+Nampalys Mendy,17/18,Groin injury,"Jan 12, 2018","Jan 18, 2018",7 days,2
+Nampalys Mendy,16/17,Ankle injury,"Mar 9, 2017","Aug 17, 2017",162 days,18
+Nampalys Mendy,16/17,Ankle injury,"Aug 20, 2016","Dec 3, 2016",106 days,22
+Nampalys Mendy,14/15,Injury to the ankle,"May 21, 2015","Jun 1, 2015",12 days,1
+Neil El Aynaoui,24/25,Hamstring injury,"Jan 3, 2025","Jan 13, 2025",11 days,2
+Neil El Aynaoui,24/25,Muscle tear,"Sep 27, 2024","Oct 17, 2024",21 days,2
+Neil El Aynaoui,24/25,Knee injury,"Jul 25, 2024","Sep 15, 2024",53 days,6
+Neil El Aynaoui,23/24,Knee injury,"Apr 29, 2024","May 29, 2024",31 days,3
+Angelo Fulgini,21/22,Dead leg,"Mar 15, 2022","Apr 1, 2022",18 days,1
+Angelo Fulgini,20/21,Thigh problems,"Apr 14, 2021","May 5, 2021",22 days,4
+Angelo Fulgini,20/21,Dead leg,"Feb 1, 2021","Feb 15, 2021",15 days,4
+Angelo Fulgini,20/21,Ankle injury,"Dec 17, 2020","Dec 22, 2020",6 days,1
+Angelo Fulgini,19/20,Pubalgia,"Jul 25, 2019","Sep 10, 2019",48 days,4
+Angelo Fulgini,18/19,Knock,"Apr 12, 2019","Apr 18, 2019",7 days,1
+Angelo Fulgini,18/19,Dead leg,"Sep 20, 2018","Oct 2, 2018",13 days,3
+Angelo Fulgini,17/18,Dead leg,"Apr 16, 2018","May 20, 2018",35 days,5
+Angelo Fulgini,17/18,Knee injury,"Mar 2, 2018","Mar 6, 2018",5 days,1
+Adrien Thomasson,22/23,Muscle injury,"Sep 13, 2022","Oct 3, 2022",21 days,2
+Adrien Thomasson,21/22,Muscle injury,"Feb 28, 2022","Apr 14, 2022",46 days,5
+Adrien Thomasson,19/20,Groin injury,"Sep 24, 2019","Sep 27, 2019",4 days,1
+Adrien Thomasson,17/18,Injury to the ankle,"Mar 2, 2018","Mar 5, 2018",4 days,1
+Adrien Thomasson,16/17,Knee injury,"Aug 13, 2016","Sep 6, 2016",25 days,3
+Adrien Thomasson,15/16,Knock,"Nov 23, 2015","Dec 4, 2015",12 days,2
+Adrien Thomasson,14/15,Dead leg,"Jan 29, 2015","Feb 12, 2015",15 days,2
+M'Bala Nzola,23/24,Muscle fatigue,"Apr 20, 2024","Apr 30, 2024",11 days,3
+M'Bala Nzola,23/24,Knock,"Oct 4, 2023","Oct 8, 2023",5 days,2
+M'Bala Nzola,22/23,unknown injury,"Apr 25, 2023","May 1, 2023",7 days,1
+M'Bala Nzola,22/23,Calf injury,"Jan 21, 2023","Feb 15, 2023",26 days,4
+M'Bala Nzola,21/22,unknown injury,"Mar 3, 2022","Mar 21, 2022",19 days,3
+M'Bala Nzola,21/22,Corona virus,"Dec 29, 2021","Jan 7, 2022",10 days,1
+M'Bala Nzola,20/21,unknown injury,"Apr 20, 2021","Apr 23, 2021",4 days,1
+M'Bala Nzola,20/21,Contracture,"Mar 12, 2021","Mar 19, 2021",8 days,1
+M'Bala Nzola,20/21,Ankle problems,"Jan 11, 2021","Feb 27, 2021",48 days,10
+Martín Satriano,24/25,Cruciate ligament tear,"Sep 29, 2024","Apr 8, 2025",192 days,23
+Martín Satriano,22/23,unknown injury,"May 14, 2023","May 21, 2023",8 days,1
+Martín Satriano,21/22,Groin injury,"May 15, 2022","Jun 13, 2022",30 days,4
+Martín Satriano,21/22,Corona virus,"Dec 31, 2021","Jan 12, 2022",13 days,2
+Wesley Saïd,24/25,Dead leg,"Dec 12, 2024","Jan 13, 2025",33 days,4
+Wesley Saïd,24/25,Dead leg,"Oct 24, 2024","Nov 30, 2024",38 days,5
+Wesley Saïd,23/24,Dead leg,"Apr 19, 2024","Apr 27, 2024",9 days,1
+Wesley Saïd,23/24,Contracture,"Oct 25, 2023","Nov 5, 2023",12 days,2
+Wesley Saïd,23/24,Muscle injury,"Jul 28, 2023","Aug 28, 2023",32 days,3
+Wesley Saïd,22/23,Dead leg,"Apr 13, 2023","May 15, 2023",33 days,5
+Wesley Saïd,22/23,Inner ligament injury,"Feb 2, 2023","Mar 20, 2023",47 days,9
+Wesley Saïd,22/23,Hamstring injury,"Jan 4, 2023","Jan 12, 2023",9 days,2
+Wesley Saïd,22/23,Muscle injury,"Sep 1, 2022","Sep 26, 2022",26 days,3
+Wesley Saïd,21/22,Hamstring injury,"Feb 7, 2022","Mar 14, 2022",36 days,5
+Wesley Saïd,21/22,Muscle injury,"Nov 6, 2021","Dec 29, 2021",54 days,7
+Wesley Saïd,21/22,Adductor pain,"Jul 21, 2021","Aug 27, 2021",38 days,3
+Wesley Saïd,20/21,Cruciate ligament tear,"Aug 4, 2020","Apr 15, 2021",255 days,36
+Wesley Saïd,19/20,Knee injury,"Dec 19, 2019","Jan 24, 2020",37 days,3
+Wesley Saïd,19/20,Injury to the ankle,"Oct 20, 2019","Nov 10, 2019",22 days,4
+Florian Sotoca,20/21,Calf injury,"Apr 8, 2021","Apr 26, 2021",19 days,3
+Rémy Labeau Lascary,24/25,Cruciate ligament tear,"Dec 15, 2024","Jun 15, 2025",183 days,20
+Goduine Koyalipou,21/22,unknown injury,"Feb 17, 2022","Apr 28, 2022",71 days,19
+Goduine Koyalipou,21/22,unknown injury,"Oct 1, 2021","Oct 13, 2021",13 days,10
+Goduine Koyalipou,21/22,unknown injury,"Aug 5, 2021","Sep 8, 2021",35 days,14
+Gerónimo Rulli,23/24,Shoulder injury,"Aug 13, 2023","Nov 24, 2023",104 days,22
+Gerónimo Rulli,17/18,Cruciate ligament strain,"Feb 22, 2018","Apr 18, 2018",56 days,11
+Gerónimo Rulli,14/15,Metatarsal fracture,"Aug 28, 2014","Nov 6, 2014",71 days,13
+Rubén Blanco,24/25,Ankle injury,"Aug 4, 2024","Dec 4, 2024",123 days,13
+Rubén Blanco,20/21,Outer ligament tear,"Mar 8, 2021","Jul 8, 2021",123 days,12
+Rubén Blanco,19/20,Tendon rupture,"Jul 8, 2020","Oct 30, 2020",115 days,10
+Rubén Blanco,19/20,Knee problems,"Nov 20, 2019","Dec 11, 2019",22 days,3
+Rubén Blanco,18/19,Muscle injury,"Jul 20, 2018","Aug 20, 2018",32 days,1
+Rubén Blanco,17/18,Muscle injury,"May 17, 2018","Jun 17, 2018",32 days,1
+Rubén Blanco,17/18,Achilles tendon problems,"Mar 18, 2018","Apr 6, 2018",20 days,2
+Rubén Blanco,17/18,Bursitis,"Oct 23, 2017","Oct 28, 2017",6 days,1
+Rubén Blanco,16/17,Knee injury,"Mar 2, 2017","Jun 2, 2017",93 days,22
+Rubén Blanco,16/17,muscular problems,"Jan 21, 2017","Feb 9, 2017",20 days,5
+Rubén Blanco,16/17,Knee injury,"Aug 11, 2016","Sep 26, 2016",47 days,9
+Rubén Blanco,15/16,Bruised ribs,"Jan 28, 2016","Jan 31, 2016",4 days,1
+Rubén Blanco,15/16,Broken collarbone,"Aug 23, 2015","Nov 17, 2015",87 days,16
+Leonardo Balerdi,24/25,Dead leg,"Aug 26, 2024","Sep 13, 2024",19 days,3
+Leonardo Balerdi,23/24,Adductor pain,"Mar 15, 2024","Mar 20, 2024",6 days,1
+Leonardo Balerdi,21/22,Shoulder injury,"Mar 24, 2022","Jul 21, 2022",120 days,17
+Leonardo Balerdi,18/19,Facial injury,"Jan 25, 2019","Feb 11, 2019",18 days,10
+Luiz Felipe,24/25,Thigh problems,"Aug 28, 2024","Nov 4, 2024",69 days,10
+Luiz Felipe,23/24,Fitness,"May 1, 2024","May 25, 2024",25 days,4
+Luiz Felipe,23/24,Muscle tear,"Apr 13, 2024","May 1, 2024",19 days,3
+Luiz Felipe,23/24,Muscle tear,"Dec 12, 2023","Feb 28, 2024",79 days,10
+Luiz Felipe,21/22,Knee injury,"Mar 26, 2022","Apr 9, 2022",15 days,2
+Luiz Felipe,21/22,Thigh problems,"Aug 26, 2021","Aug 29, 2021",4 days,1
+Luiz Felipe,20/21,Ankle surgery,"Jan 16, 2021","May 7, 2021",112 days,22
+Luiz Felipe,20/21,Ankle injury,"Nov 26, 2020","Nov 30, 2020",5 days,1
+Luiz Felipe,20/21,Corona virus,"Nov 9, 2020","Nov 23, 2020",15 days,4
+Luiz Felipe,20/21,Quarantine,"Oct 27, 2020","Oct 31, 2020",5 days,1
+Luiz Felipe,20/21,Ankle injury,"Sep 12, 2020","Oct 19, 2020",38 days,7
+Luiz Felipe,19/20,Calf injury,"Jun 13, 2020","Jul 6, 2020",24 days,4
+Luiz Felipe,19/20,muscular problems,"Feb 1, 2020","Feb 4, 2020",4 days,1
+Luiz Felipe,19/20,Ankle injury,"Sep 11, 2019","Sep 17, 2019",7 days,1
+Luiz Felipe,18/19,Muscle injury,"May 20, 2019","Jun 16, 2019",28 days,4
+Derek Cornelius,24/25,Bruised ribs,"Nov 4, 2024","Dec 6, 2024",33 days,5
+Derek Cornelius,20/21,Knee problems,"Apr 1, 2021","Apr 21, 2021",21 days,1
+Chancel Mbemba,23/24,Knee injury,"Apr 19, 2024","May 2, 2024",14 days,4
+Chancel Mbemba,21/22,unknown injury,"Oct 12, 2021","Oct 17, 2021",6 days,1
+Chancel Mbemba,20/21,Knee problems,"Mar 5, 2021","Mar 8, 2021",4 days,1
+Chancel Mbemba,20/21,Rest,"Feb 10, 2021","Feb 14, 2021",5 days,2
+Chancel Mbemba,20/21,Muscle injury,"Dec 27, 2020","Jan 1, 2021",6 days,1
+Chancel Mbemba,18/19,Fitness,"Sep 25, 2018","Oct 5, 2018",11 days,2
+Chancel Mbemba,18/19,Knee injury,"Jul 25, 2018","Sep 24, 2018",62 days,9
+Chancel Mbemba,15/16,Ankle injury,"Feb 3, 2016","Mar 20, 2016",47 days,8
+Chancel Mbemba,14/15,Knee injury,"Nov 6, 2014","Nov 24, 2014",19 days,4
+Quentin Merlin,24/25,Dead leg,"Sep 11, 2024","Oct 28, 2024",48 days,6
+Quentin Merlin,23/24,Ankle sprain,"Apr 12, 2024","May 2, 2024",21 days,5
+Quentin Merlin,23/24,Groin injury,"Nov 13, 2023","Dec 6, 2023",24 days,2
+Quentin Merlin,22/23,Adductor injury,"Jan 12, 2023","Mar 18, 2023",66 days,15
+Ulisses Garcia,23/24,unknown injury,"Jul 19, 2023","Aug 28, 2023",41 days,6
+Ulisses Garcia,22/23,Hamstring injury,"Aug 3, 2022","Aug 17, 2022",15 days,4
+Ulisses Garcia,21/22,Foot injury,"Nov 28, 2021","Feb 3, 2022",68 days,8
+Ulisses Garcia,20/21,unknown injury,"Mar 12, 2021","Mar 19, 2021",8 days,2
+Ulisses Garcia,20/21,unknown injury,"Jan 22, 2021","Jan 28, 2021",7 days,1
+Ulisses Garcia,20/21,Corona virus,"Oct 14, 2020","Oct 22, 2020",9 days,2
+Ulisses Garcia,19/20,unknown injury,"Jul 17, 2020","Jul 31, 2020",15 days,4
+Ulisses Garcia,19/20,unknown injury,"Jul 3, 2020","Jul 14, 2020",12 days,3
+Ulisses Garcia,16/17,Back problems,"Nov 23, 2016","Dec 13, 2016",21 days,3
+Ulisses Garcia,15/16,Knee problems,"Feb 4, 2016","Feb 15, 2016",12 days,3
+Ulisses Garcia,15/16,Knee problems,"Nov 19, 2015","Dec 14, 2015",26 days,4
+Ulisses Garcia,15/16,Broken toe,"Sep 21, 2015","Oct 1, 2015",11 days,4
+Amar Dedic,24/25,Hamstring injury,"Dec 3, 2024","Dec 6, 2024",4 days,1
+Amar Dedic,24/25,Adductor injury,"Oct 26, 2024","Nov 13, 2024",19 days,5
+Amar Dedic,23/24,Calf problems,"Apr 20, 2024","Jun 30, 2024",72 days,8
+Amar Dedic,23/24,Foot injury,"Mar 28, 2024","Apr 11, 2024",15 days,3
+Amar Dedic,23/24,Muscle injury,"Feb 8, 2024","Feb 23, 2024",16 days,2
+Amir Murillo,24/25,Hamstring injury,"Mar 3, 2025","Mar 25, 2025",23 days,2
+Amir Murillo,24/25,Dead leg,"Jan 18, 2025","Jan 20, 2025",3 days,1
+Amir Murillo,24/25,Groin injury,"Dec 30, 2024","Jan 4, 2025",6 days,-
+Amir Murillo,24/25,Knock,"Dec 15, 2024","Dec 20, 2024",6 days,-
+Amir Murillo,23/24,Knock,"Apr 29, 2024","May 2, 2024",4 days,1
+Amir Murillo,23/24,Adductor pain,"Jan 21, 2024","Apr 10, 2024",81 days,17
+Amir Murillo,23/24,Hamstring injury,"Jul 5, 2023","Sep 14, 2023",72 days,8
+Amir Murillo,22/23,Partial muscle tear,"Apr 20, 2023","Jun 12, 2023",54 days,3
+Amir Murillo,22/23,Hamstring injury,"Apr 14, 2023","Apr 18, 2023",5 days,1
+Amir Murillo,21/22,Corona virus,"Jul 1, 2021","Jul 14, 2021",14 days,1
+Pol Lirola,24/25,Knee problems,"Nov 15, 2024","Dec 13, 2024",29 days,3
+Pol Lirola,23/24,unknown injury,"Apr 26, 2024","May 3, 2024",8 days,1
+Pol Lirola,23/24,unknown injury,"Jan 20, 2024","Feb 1, 2024",13 days,2
+Pol Lirola,23/24,unknown injury,"Dec 28, 2023","Jan 4, 2024",8 days,1
+Pol Lirola,23/24,unknown injury,"Nov 26, 2023","Dec 9, 2023",14 days,2
+Pol Lirola,23/24,unknown injury,"Sep 22, 2023","Oct 6, 2023",15 days,3
+Pol Lirola,19/20,Thigh problems,"Oct 28, 2019","Nov 1, 2019",5 days,1
+Pol Lirola,17/18,Meniscus injury,"Apr 10, 2018","Jul 1, 2018",83 days,7
+Pol Lirola,16/17,Muscle injury,"Jan 23, 2017","Mar 10, 2017",47 days,6
+Pol Lirola,15/16,Muscle fatigue,"Sep 22, 2015","Sep 29, 2015",8 days,2
+Pierre-Emile Højbjerg,24/25,Calf injury,"Mar 12, 2025",,23 days,2
+Pierre-Emile Højbjerg,24/25,Ill,"Jan 5, 2025","Jan 10, 2025",6 days,1
+Pierre-Emile Højbjerg,22/23,bruise,"May 20, 2023","Jun 7, 2023",19 days,2
+Pierre-Emile Højbjerg,22/23,Dead leg,"Oct 23, 2022","Oct 28, 2022",6 days,2
+Pierre-Emile Højbjerg,21/22,Knee injury,"Nov 8, 2021","Nov 22, 2021",15 days,3
+Pierre-Emile Højbjerg,19/20,Ankle injury,"Jun 26, 2020","Jul 8, 2020",13 days,2
+Pierre-Emile Højbjerg,18/19,concussion,"Jan 31, 2019","Feb 8, 2019",9 days,1
+Pierre-Emile Højbjerg,18/19,Ill,"Oct 26, 2018","Nov 3, 2018",9 days,1
+Pierre-Emile Højbjerg,16/17,Knock,"Nov 13, 2016","Nov 18, 2016",6 days,1
+Pierre-Emile Højbjerg,14/15,cold,"Apr 29, 2015","Apr 29, 2015",1 days,-
+Pierre-Emile Højbjerg,14/15,cold,"Apr 21, 2015","Apr 23, 2015",3 days,-
+Pierre-Emile Højbjerg,14/15,Ankle problems,"Mar 26, 2015","Apr 1, 2015",7 days,3
+Pierre-Emile Højbjerg,14/15,influenza,"Mar 5, 2015","Mar 10, 2015",6 days,1
+Pierre-Emile Højbjerg,14/15,bruise,"Feb 16, 2015","Feb 19, 2015",4 days,-
+Pierre-Emile Højbjerg,13/14,Outer ligament problems,"Aug 5, 2013","Sep 23, 2013",50 days,15
+Ismaël Bennacer,24/25,Hamstring injury,"Mar 17, 2025","Mar 26, 2025",10 days,-
+Ismaël Bennacer,24/25,Calf muscle tear,"Aug 30, 2024","Dec 24, 2024",117 days,21
+Ismaël Bennacer,23/24,Knee problems,"Mar 20, 2024","Mar 29, 2024",10 days,2
+Ismaël Bennacer,23/24,Adductor pain,"Jan 19, 2024","Feb 1, 2024",14 days,4
+Ismaël Bennacer,22/23,Knee surgery,"May 10, 2023","Nov 30, 2023",205 days,32
+Ismaël Bennacer,22/23,Hamstring muscle injury,"Jan 30, 2023","Mar 1, 2023",31 days,7
+Ismaël Bennacer,22/23,Fever,"Oct 21, 2022","Oct 21, 2022",1 days,-
+Ismaël Bennacer,21/22,Ankle sprain,"Apr 19, 2022","Apr 25, 2022",7 days,2
+Ismaël Bennacer,21/22,Muscle fatigue,"Apr 9, 2022","Apr 13, 2022",5 days,1
+Ismaël Bennacer,21/22,inflammation,"Dec 1, 2021","Dec 4, 2021",4 days,3
+Ismaël Bennacer,21/22,Corona virus,"Jul 31, 2021","Aug 7, 2021",8 days,-
+Ismaël Bennacer,20/21,Foot surgery,"May 30, 2021","Jul 7, 2021",39 days,3
+Ismaël Bennacer,20/21,Ankle problems,"Apr 18, 2021","Apr 25, 2021",8 days,2
+Ismaël Bennacer,20/21,Muscle injury,"Feb 18, 2021","Mar 16, 2021",27 days,8
+Ismaël Bennacer,20/21,Fever,"Feb 6, 2021","Feb 8, 2021",3 days,1
+Geoffrey Kondogbia,24/25,Calf injury,"Jan 3, 2025","Feb 7, 2025",36 days,6
+Geoffrey Kondogbia,23/24,Muscle injury,"Jan 28, 2024","Feb 14, 2024",18 days,2
+Geoffrey Kondogbia,23/24,Adductor pain,"Sep 22, 2023","Oct 7, 2023",16 days,3
+Geoffrey Kondogbia,23/24,Knee injury,"Aug 19, 2023","Sep 13, 2023",26 days,3
+Geoffrey Kondogbia,22/23,Muscle strain,"Nov 7, 2022","Dec 1, 2022",25 days,2
+Geoffrey Kondogbia,21/22,Muscle injury,"Feb 28, 2022","Mar 14, 2022",15 days,2
+Geoffrey Kondogbia,21/22,Muscle injury,"Jan 15, 2022","Feb 11, 2022",28 days,3
+Geoffrey Kondogbia,21/22,Muscle injury,"Oct 28, 2021","Nov 5, 2021",9 days,3
+Geoffrey Kondogbia,21/22,Ankle sprain,"Sep 19, 2021","Sep 23, 2021",5 days,1
+Geoffrey Kondogbia,19/20,Hamstring injury,"Nov 10, 2019","Dec 14, 2019",35 days,7
+Geoffrey Kondogbia,19/20,Muscle injury,"Sep 26, 2019","Oct 17, 2019",22 days,4
+Geoffrey Kondogbia,18/19,Torn thigh muscle,"Apr 7, 2019","May 16, 2019",40 days,10
+Geoffrey Kondogbia,18/19,Hamstring injury,"Dec 13, 2018","Feb 1, 2019",51 days,10
+Geoffrey Kondogbia,18/19,Ankle injury,"Sep 16, 2018","Sep 26, 2018",11 days,3
+Geoffrey Kondogbia,18/19,Ankle injury,"Aug 27, 2018","Sep 13, 2018",18 days,2
+Adrien Rabiot,24/25,Calf injury,"Mar 21, 2025","Mar 22, 2025",2 days,-
+Adrien Rabiot,23/24,Muscle fatigue,"May 25, 2024","May 31, 2024",7 days,1
+Adrien Rabiot,23/24,Foot injury,"Feb 25, 2024","Mar 16, 2024",21 days,3
+Adrien Rabiot,23/24,Calf problems,"Jan 20, 2024","Feb 1, 2024",13 days,2
+Adrien Rabiot,23/24,Thigh problems,"Jan 8, 2024","Jan 14, 2024",7 days,1
+Adrien Rabiot,23/24,bruise,"Dec 14, 2023","Dec 22, 2023",9 days,1
+Adrien Rabiot,23/24,Calf problems,"Jul 22, 2023","Aug 7, 2023",17 days,-
+Adrien Rabiot,22/23,Thigh problems,"Jan 18, 2023","Jan 21, 2023",4 days,1
+Adrien Rabiot,22/23,cold,"Dec 12, 2022","Dec 16, 2022",5 days,1
+Adrien Rabiot,22/23,Calf problems,"Sep 11, 2022","Sep 27, 2022",17 days,5
+Adrien Rabiot,22/23,Thigh problems,"Sep 2, 2022","Sep 5, 2022",4 days,1
+Adrien Rabiot,21/22,Quarantine,"Oct 23, 2021","Oct 25, 2021",3 days,1
+Adrien Rabiot,21/22,Corona virus,"Oct 9, 2021","Oct 22, 2021",14 days,3
+Adrien Rabiot,21/22,Ankle problems,"Sep 23, 2021","Sep 29, 2021",7 days,2
+Adrien Rabiot,21/22,Muscle injury,"Aug 3, 2021","Aug 27, 2021",25 days,1
+Valentin Rongier,23/24,Broken kneecap,"Nov 5, 2023","Aug 16, 2024",286 days,37
+Valentin Rongier,21/22,Foot injury,"Jan 1, 2022","Jan 15, 2022",15 days,2
+Valentin Rongier,21/22,Adductor pain,"Oct 29, 2021","Nov 3, 2021",6 days,1
+Valentin Rongier,20/21,Achilles tendon problems,"Mar 2, 2021","Apr 22, 2021",52 days,8
+Valentin Rongier,20/21,Achilles tendon problems,"Jan 24, 2021","Feb 6, 2021",14 days,1
+Valentin Rongier,17/18,Broken collarbone,"Aug 12, 2017","Sep 24, 2017",44 days,6
+Valentin Rongier,16/17,strain,"Nov 6, 2016","Dec 5, 2016",30 days,4
+Valentin Rongier,16/17,Broken nose bone,"Sep 26, 2016","Oct 13, 2016",18 days,1
+Valentin Rongier,15/16,Cruciate ligament tear,"Oct 24, 2015","Apr 25, 2016",185 days,30
+Valentin Rongier,14/15,Hamstring injury,"Feb 6, 2015","Feb 22, 2015",17 days,4
+Valentin Rongier,14/15,Hamstring injury,"Nov 20, 2014","Nov 28, 2014",9 days,2
+Bilal Nadir,23/24,Partial damage to the cruciate ligament,"Jan 22, 2024","Sep 26, 2024",249 days,39
+Amine Harit,24/25,Calf injury,"Mar 7, 2025",,28 days,3
+Amine Harit,24/25,Calf injury,"Jan 5, 2025","Feb 8, 2025",35 days,6
+Amine Harit,24/25,Calf problems,"Nov 8, 2024","Dec 8, 2024",31 days,4
+Amine Harit,24/25,Muscle injury,"Aug 26, 2023","Sep 17, 2023",23 days,4
+Amine Harit,22/23,Cruciate ligament injury,"Nov 14, 2022","Jun 15, 2023",214 days,38
+Amine Harit,21/22,Adductor pain,"Oct 16, 2021","Oct 20, 2021",5 days,1
+Amine Harit,20/21,Knee problems,"Dec 8, 2020","Dec 14, 2020",7 days,1
+Amine Harit,20/21,Corona virus,"Sep 25, 2020","Oct 12, 2020",18 days,3
+Amine Harit,19/20,Inner ligament injury,"May 17, 2020","Aug 2, 2020",78 days,8
+Amine Harit,19/20,Hamstring injury,"Jan 15, 2020","Jan 20, 2020",6 days,1
+Amine Harit,18/19,Ankle injury,"Mar 15, 2019","Apr 5, 2019",22 days,5
+Amine Harit,18/19,Torn muscle fiber,"Dec 20, 2018","Feb 5, 2019",48 days,4
+Amine Harit,18/19,Hamstring injury,"Sep 30, 2018","Oct 19, 2018",20 days,4
+Amine Harit,17/18,Virus,"Feb 12, 2018","Feb 15, 2018",4 days,-
+Amine Harit,17/18,muscular problems,"Jan 25, 2018","Jan 25, 2018",1 days,-
+Luis Henrique,20/21,Corona virus,"Jan 6, 2021","Jan 19, 2021",14 days,4
+Luis Henrique,20/21,Fitness,"Sep 25, 2020","Oct 3, 2020",9 days,1
+Jonathan Rowe,23/24,Hamstring injury,"Feb 12, 2024","Apr 10, 2024",59 days,13
+Mason Greenwood,21/22,Corona virus,"Nov 19, 2021","Nov 27, 2021",9 days,2
+Mason Greenwood,20/21,unknown injury,"Jun 1, 2021","Jul 10, 2021",40 days,-
+Mason Greenwood,20/21,bruise,"Nov 5, 2020","Nov 23, 2020",19 days,2
+Mason Greenwood,20/21,bruise,"Oct 17, 2020","Oct 23, 2020",7 days,2
+Mason Greenwood,19/20,Ill,"Feb 19, 2020","Feb 22, 2020",4 days,1
+Mason Greenwood,19/20,Back injury,"Oct 7, 2019","Oct 19, 2019",13 days,4
+Mason Greenwood,19/20,Tonsillitis,"Sep 20, 2019","Sep 23, 2019",4 days,1
+Mason Greenwood,18/19,bruise,"Apr 27, 2019","May 11, 2019",15 days,5
+Mason Greenwood,18/19,Ill,"Mar 11, 2019","Apr 12, 2019",33 days,7
+Amine Gouiri,23/24,Knee injury,"Jan 1, 2024","Jan 24, 2024",24 days,7
+Amine Gouiri,20/21,Calf injury,"Apr 12, 2021","May 5, 2021",24 days,3
+Amine Gouiri,18/19,Cruciate ligament tear,"Aug 18, 2018","Apr 1, 2019",227 days,61
+Amine Gouiri,17/18,Knock,"Aug 21, 2017","Sep 8, 2017",19 days,6
+Neal Maupay,21/22,Corona virus,"Dec 14, 2021","Dec 25, 2021",12 days,1
+Neal Maupay,21/22,Shoulder injury,"Aug 21, 2021","Aug 27, 2021",7 days,2
+Neal Maupay,20/21,Hamstring strain,"Nov 29, 2020","Dec 6, 2020",8 days,-
+Neal Maupay,19/20,Knee injury,"Sep 22, 2019","Sep 27, 2019",6 days,1
+Neal Maupay,16/17,Knee injury,"Jan 27, 2017","Mar 11, 2017",44 days,14
+Neal Maupay,12/13,Cruciate ligament tear,"Apr 16, 2013","Dec 16, 2013",245 days,58
+Faris Moumbagna,24/25,Cruciate ligament tear,"Aug 18, 2024",,229 days,28
+Alexandre Olliero,22/23,Adductor injury,"May 15, 2023","Jun 5, 2023",22 days,3
+Alexandre Olliero,21/22,Broken ankle,"Feb 2, 2022","Jun 30, 2022",149 days,16
+Joseph Okumu,24/25,Adductor pain,"Nov 23, 2024","Dec 23, 2024",31 days,5
+Joseph Okumu,24/25,Adductor pain,"Sep 11, 2024","Oct 20, 2024",40 days,5
+Joseph Okumu,23/24,Injury to the ankle,"Apr 8, 2024","May 31, 2024",54 days,6
+Joseph Okumu,23/24,Groin injury,"Feb 24, 2024","Mar 11, 2024",17 days,3
+Joseph Okumu,23/24,Hamstring injury,"Aug 14, 2023","Aug 26, 2023",13 days,1
+Joseph Okumu,22/23,Knock,"May 10, 2023","Jun 30, 2023",52 days,4
+Joseph Okumu,22/23,Calf injury,"Feb 26, 2023","Mar 13, 2023",16 days,4
+Joseph Okumu,22/23,Calf injury,"Feb 16, 2023","Feb 24, 2023",9 days,3
+Joseph Okumu,21/22,unknown injury,"Apr 4, 2022","Apr 17, 2022",14 days,1
+Joseph Okumu,21/22,unknown injury,"Feb 7, 2022","Feb 26, 2022",20 days,2
+Joseph Okumu,20/21,Calf injury,"May 3, 2021","May 16, 2021",14 days,2
+Abdoul Koné,24/25,Hamstring injury,"Nov 21, 2024","Jan 5, 2025",46 days,6
+Abdoul Koné,24/25,Hamstring injury,"Aug 23, 2024","Oct 7, 2024",46 days,6
+Sergio Akieme,24/25,Facial injury,"Aug 31, 2024","Sep 22, 2024",23 days,3
+Sergio Akieme,23/24,Muscle injury,"Oct 20, 2023","Nov 1, 2023",13 days,3
+Sergio Akieme,17/18,Hamstring injury,"Jul 25, 2017","Aug 18, 2017",25 days,-
+Aurélio Buta,23/24,Ill,"Mar 25, 2024","Apr 7, 2024",14 days,2
+Aurélio Buta,21/22,Knee surgery,"Apr 28, 2022","Nov 15, 2022",202 days,29
+Aurélio Buta,21/22,Muscle injury,"Oct 14, 2021","Feb 7, 2022",117 days,21
+Aurélio Buta,20/21,Muscle tear,"Aug 13, 2020","Oct 15, 2020",64 days,7
+Aurélio Buta,19/20,Fitness,"Jun 27, 2019","Jul 29, 2019",33 days,1
+Aurélio Buta,18/19,surgery,"Mar 21, 2019","Jul 1, 2019",103 days,11
+Aurélio Buta,18/19,Fitness,"Aug 20, 2018","Sep 3, 2018",15 days,2
+Aurélio Buta,18/19,surgery,"Jun 28, 2018","Aug 23, 2018",57 days,4
+Aurélio Buta,17/18,Metatarsal fracture,"Apr 16, 2018","Jul 2, 2018",78 days,7
+Gabriel Moscardo,24/25,Hamstring injury,"Feb 26, 2025",,37 days,5
+Gabriel Moscardo,24/25,Hip injury,"Sep 13, 2024","Oct 14, 2024",32 days,4
+Gabriel Moscardo,23/24,Foot surgery,"Dec 31, 2023","Mar 31, 2024",92 days,14
+Mory Gbane,24/25,unknown injury,"Sep 23, 2024","Oct 14, 2024",22 days,2
+Amadou Koné,24/25,Dead leg,"Jan 5, 2025","Jan 31, 2025",27 days,4
+Yaya Fofana,24/25,unknown injury,"Jan 2, 2025","May 1, 2025",120 days,20
+Yaya Fofana,22/23,Shoulder injury,"Mar 19, 2023","Apr 10, 2023",23 days,2
+Yaya Fofana,22/23,Ill,"Dec 1, 2022","Feb 13, 2023",75 days,5
+Teddy Teuma,24/25,Dead leg,"Oct 26, 2024","Nov 8, 2024",14 days,2
+Teddy Teuma,24/25,Back injury,"Aug 24, 2024","Aug 31, 2024",8 days,1
+Teddy Teuma,23/24,Calf injury,"Mar 16, 2024","Apr 20, 2024",36 days,6
+Teddy Teuma,23/24,Injury to the ankle,"Oct 9, 2023","Oct 27, 2023",19 days,3
+Teddy Teuma,22/23,Hamstring injury,"May 21, 2023","Jun 2, 2023",13 days,2
+Teddy Teuma,22/23,Calf injury,"Mar 5, 2023","Mar 12, 2023",8 days,3
+Teddy Teuma,20/21,Knee injury,"Jul 11, 2020","Aug 20, 2020",41 days,-
+Reda Khadra,24/25,Cruciate ligament tear,"Sep 22, 2024",,194 days,27
+Reda Khadra,21/22,Calf problems,"Mar 19, 2022","Apr 26, 2022",39 days,8
+Reda Khadra,16/17,Knock,"Apr 24, 2017","Nov 13, 2017",204 days,28
+Keito Nakamura,23/24,Ankle sprain,"Oct 14, 2023","Nov 20, 2023",38 days,6
+Keito Nakamura,22/23,unknown injury,"Oct 22, 2022","Oct 29, 2022",8 days,1
+Keito Nakamura,20/21,Ankle injury,"Jan 12, 2021","Mar 1, 2021",49 days,?
+Mohamed Daramy,24/25,Knee injury,"Oct 16, 2024",,170 days,25
+Mohamed Daramy,23/24,Knee injury,"Mar 27, 2024","Sep 16, 2024",174 days,12
+Mohamed Daramy,22/23,unknown injury,"Aug 12, 2022","Aug 23, 2022",12 days,3
+Mohamed Daramy,20/21,unknown injury,"Dec 13, 2020","Feb 16, 2021",66 days,6
+Junya Ito,20/21,Groin injury,"Apr 11, 2021","Apr 22, 2021",12 days,2
+Junya Ito,20/21,Corona virus,"Oct 24, 2020","Oct 29, 2020",6 days,1
+Junya Ito,15/16,Left hip flexor problems,"May 8, 2016","May 15, 2016",8 days,2
+Junya Ito,15/16,Achilles tendon contusion,"Sep 5, 2015","Sep 25, 2015",21 days,4
+Oumar Diakité,21/22,Broken fibula,"Jun 8, 2022","Aug 11, 2022",65 days,4
+Jordan,24/25,Hamstring injury,"Feb 7, 2025",,56 days,9
+Jordan,23/24,Hamstring injury,"Apr 14, 2024","Apr 26, 2024",13 days,1
+Jordan,23/24,Knock,"Mar 18, 2024","Mar 25, 2024",8 days,-
+Jordan,23/24,bruise,"Feb 12, 2024","Feb 14, 2024",3 days,-
+Jordan,23/24,Torn muscle fiber,"Nov 29, 2023","Dec 25, 2023",27 days,5
+Jordan,23/24,Adductor injury,"Nov 5, 2023","Nov 20, 2023",16 days,1
+Jordan,23/24,cold,"Oct 9, 2023","Oct 16, 2023",8 days,-
+Jordan,22/23,Dead leg,"Oct 17, 2022","Oct 20, 2022",4 days,1
+Jordan,22/23,muscular problems,"Sep 1, 2022","Sep 12, 2022",12 days,3
+Jordan,21/22,Injury to abdominal muscles,"May 9, 2022","Jun 30, 2022",53 days,3
+Jordan,18/19,Thigh problems,"Feb 11, 2019","May 23, 2019",102 days,22
+Brice Samba,24/25,Injury to the ankle,"Dec 20, 2024","Dec 30, 2024",11 days,1
+Doğan Alemdar,23/24,Cruciate ligament tear,"Jun 23, 2024",,285 days,-
+Doğan Alemdar,23/24,unknown injury,"Sep 17, 2023","Sep 28, 2023",12 days,2
+Doğan Alemdar,21/22,Corona virus,"Sep 10, 2021","Sep 24, 2021",15 days,4
+Steve Mandanda,22/23,Calf injury,"May 28, 2023","Jun 30, 2023",34 days,1
+Steve Mandanda,22/23,Muscle fatigue,"Jan 19, 2023","Jan 24, 2023",6 days,1
+Steve Mandanda,22/23,Knee injury,"Aug 15, 2022","Aug 26, 2022",12 days,1
+Steve Mandanda,21/22,Injury to the ankle,"Jan 6, 2022","Jan 15, 2022",10 days,1
+Steve Mandanda,20/21,Muscle injury,"Jan 14, 2021","Jan 18, 2021",5 days,1
+Steve Mandanda,20/21,Corona virus,"Sep 4, 2020","Sep 12, 2020",9 days,2
+Steve Mandanda,18/19,Muscle tear,"Aug 20, 2018","Sep 19, 2018",31 days,5
+Steve Mandanda,17/18,Muscle tear,"Apr 2, 2018","May 2, 2018",31 days,7
+Steve Mandanda,17/18,Muscle tear,"Feb 10, 2018","Feb 27, 2018",18 days,4
+Steve Mandanda,17/18,Muscle injury,"Sep 12, 2017","Sep 22, 2017",11 days,2
+Steve Mandanda,16/17,Knee surgery,"Nov 13, 2016","Apr 15, 2017",154 days,27
+Steve Mandanda,13/14,Cervical vertebra fracture,"May 19, 2014","Jul 31, 2014",74 days,8
+Lilian Brassier,24/25,Hamstring injury,"Mar 15, 2025","Mar 20, 2025",6 days,1
+Lilian Brassier,23/24,Calf problems,"Apr 15, 2024","Apr 22, 2024",8 days,1
+Anthony Rouault,24/25,Shoulder injury,"Aug 18, 2024","Sep 10, 2024",24 days,3
+Anthony Rouault,23/24,Broken jaw,"Mar 9, 2024","Apr 20, 2024",43 days,4
+Anthony Rouault,23/24,Broken nose bone,"Feb 12, 2024","Feb 19, 2024",8 days,1
+Anthony Rouault,21/22,Foot injury,"Sep 27, 2021","Dec 14, 2021",79 days,11
+Anthony Rouault,20/21,Thigh problems,"Jan 8, 2021","Jan 18, 2021",11 days,2
+Alidu Seidu,24/25,Cruciate ligament tear,"Nov 25, 2024",,130 days,17
+Alidu Seidu,22/23,Knee surgery,"Feb 7, 2023","Mar 24, 2023",46 days,7
+Christopher Wooh,22/23,Collateral ligament injury,"May 18, 2023","Jun 18, 2023",32 days,4
+Christopher Wooh,22/23,Injury to the ankle,"Feb 3, 2023","Feb 15, 2023",13 days,2
+Christopher Wooh,22/23,Ill,"Dec 28, 2022","Dec 30, 2022",3 days,1
+Christopher Wooh,21/22,Muscle injury,"Apr 6, 2022","Apr 11, 2022",6 days,1
+Jérémy Jacquet,24/25,Shoulder injury,"Sep 25, 2024","Oct 24, 2024",30 days,3
+Adrien Truffert,22/23,Injury to the ankle,"Mar 20, 2023","Jun 15, 2023",88 days,10
+Adrien Truffert,20/21,Corona virus,"Sep 25, 2020","Oct 9, 2020",15 days,4
+Mahamadou Nagida,23/24,Knee injury,"Feb 16, 2024","Jun 30, 2024",136 days,10
+Lorenz Assignon,22/23,Cruciate ligament injury,"Jan 21, 2023","Mar 31, 2023",70 days,11
+Lorenz Assignon,22/23,Hip injury,"Dec 22, 2022","Jan 19, 2023",29 days,5
+Lorenz Assignon,22/23,Dead leg,"Aug 6, 2022","Aug 14, 2022",9 days,2
+Lorenz Assignon,21/22,Injury to the ankle,"Feb 16, 2022","Mar 3, 2022",16 days,2
+Hans Hateboer,23/24,muscular problems,"Dec 27, 2023","Jan 25, 2024",30 days,5
+Hans Hateboer,22/23,Cruciate ligament tear,"Feb 11, 2023","Sep 7, 2023",209 days,20
+Hans Hateboer,22/23,Knee problems,"Dec 16, 2022","Jan 4, 2023",20 days,1
+Hans Hateboer,21/22,Corona virus,"Jan 21, 2022","Feb 1, 2022",12 days,1
+Hans Hateboer,21/22,Foot injury,"Aug 10, 2021","Nov 26, 2021",109 days,25
+Hans Hateboer,20/21,unknown injury,"May 21, 2021","May 25, 2021",5 days,1
+Hans Hateboer,20/21,Ankle injury,"Jan 26, 2021","Apr 23, 2021",88 days,21
+Hans Hateboer,16/17,unknown injury,"May 1, 2017","May 7, 2017",7 days,1
+Hans Hateboer,14/15,Knee injury,"Mar 12, 2015","Mar 19, 2015",8 days,1
+Hans Hateboer,14/15,Head injury,"Dec 11, 2014","Dec 31, 2014",21 days,3
+Azor Matusiwa,24/25,Ill,"Feb 7, 2025","Feb 14, 2025",8 days,1
+Azor Matusiwa,23/24,Adductor pain,"Nov 13, 2023","Nov 30, 2023",18 days,1
+Azor Matusiwa,22/23,Adductor pain,"Aug 19, 2022","Sep 30, 2022",43 days,6
+Azor Matusiwa,21/22,Muscle injury,"Dec 21, 2021","Jan 18, 2022",29 days,4
+Azor Matusiwa,20/21,Ankle injury,"Jan 15, 2021","Mar 18, 2021",63 days,10
+Azor Matusiwa,20/21,Hamstring injury,"Dec 16, 2020","Jan 13, 2021",29 days,3
+Azor Matusiwa,18/19,Groin injury,"Jul 25, 2018","Nov 22, 2018",121 days,19
+Seko Fofana,24/25,Hamstring injury,"Feb 1, 2025","Feb 7, 2025",7 days,1
+Seko Fofana,22/23,Muscle tear,"Aug 28, 2022","Sep 7, 2022",11 days,2
+Seko Fofana,20/21,Corona virus,"Apr 8, 2021","Apr 20, 2021",13 days,2
+Seko Fofana,20/21,muscular problems,"Sep 23, 2020","Nov 3, 2020",42 days,5
+Seko Fofana,18/19,Hamstring muscle injury,"Apr 20, 2019","May 26, 2019",37 days,6
+Seko Fofana,18/19,unknown injury,"Apr 14, 2019","Apr 19, 2019",6 days,1
+Seko Fofana,17/18,Muscle injury,"Mar 26, 2018","Apr 13, 2018",19 days,4
+Seko Fofana,16/17,Broken fibula,"Mar 5, 2017","Jun 6, 2017",94 days,14
+Ismaël Koné,24/25,Ankle injury,"Oct 2, 2024","Oct 20, 2024",19 days,3
+Ismaël Koné,24/25,Injury to the ankle,"Aug 8, 2024","Sep 2, 2024",26 days,3
+Naouirou Ahamada,22/23,Ankle injury,"Mar 20, 2023","May 12, 2023",54 days,7
+Naouirou Ahamada,22/23,Ankle injury,"Oct 16, 2022","Oct 18, 2022",3 days,-
+Naouirou Ahamada,21/22,Broken toe,"Mar 13, 2022","Jul 1, 2022",111 days,31
+Naouirou Ahamada,21/22,Corona virus,"Dec 30, 2021","Jan 10, 2022",12 days,1
+Naouirou Ahamada,21/22,Achilles tendon problems,"Nov 1, 2021","Dec 4, 2021",34 days,8
+Naouirou Ahamada,21/22,Fitness,"Sep 6, 2021","Sep 23, 2021",18 days,6
+Naouirou Ahamada,21/22,Calf injury,"Jul 19, 2021","Sep 6, 2021",50 days,9
+Naouirou Ahamada,19/20,Calf injury,"Aug 10, 2020","Aug 27, 2020",18 days,-
+Ayanda Sishuba,23/24,Adductor pain,"Oct 25, 2023","Oct 30, 2023",6 days,-
+Ludovic Blas,24/25,Dead leg,"Mar 9, 2025",,26 days,2
+Mousa Tamari,24/25,Ankle sprain,"Sep 5, 2024","Oct 24, 2024",50 days,5
+Mousa Tamari,23/24,Injury to the ankle,"May 16, 2024","May 23, 2024",8 days,1
+Mousa Tamari,23/24,Back injury,"Apr 13, 2024","Apr 17, 2024",5 days,1
+Mousa Tamari,23/24,Injury to abdominal muscles,"Sep 7, 2023","Sep 21, 2023",15 days,2
+Carlos Andrés Gómez,24/25,Shin injury,"Sep 2, 2024","Sep 23, 2024",22 days,2
+Carlos Andrés Gómez,22/23,Ankle injury,"Jun 19, 2023","Jun 24, 2023",6 days,1
+Arnaud Kalimuendo,23/24,Hamstring injury,"Sep 12, 2023","Sep 29, 2023",18 days,3
+Arnaud Kalimuendo,22/23,Dead leg,"Jan 16, 2023","Feb 3, 2023",19 days,3
+Arnaud Kalimuendo,22/23,Muscle tear,"Aug 22, 2022","Sep 16, 2022",26 days,6
+Arnaud Kalimuendo,21/22,angina,"Jan 20, 2022","Jan 24, 2022",5 days,1
+Arnaud Kalimuendo,20/21,Knee injury,"Mar 18, 2021","Mar 29, 2021",12 days,3
+Kyogo Furuhashi,21/22,Hamstring injury,"Dec 9, 2021","Apr 4, 2022",117 days,27
+Kyogo Furuhashi,21/22,Knee injury,"Sep 8, 2021","Sep 29, 2021",22 days,5
+Kyogo Furuhashi,18/19,Hamstring injury,"May 13, 2019","Jun 12, 2019",31 days,6
+Guillaume Restes,24/25,Dead leg,"Feb 16, 2025","Mar 16, 2025",29 days,4
+Guillaume Restes,24/25,flu,"Feb 6, 2025","Feb 10, 2025",5 days,1
+Kjetil Haug,20/21,Shoulder injury,"Nov 28, 2021","Dec 31, 2021",34 days,2
+Charlie Cresswell,22/23,Fracture of the eye socket,"Apr 5, 2023","May 10, 2023",36 days,7
+Charlie Cresswell,21/22,Shoulder injury,"Dec 18, 2021","Feb 18, 2022",63 days,7
+Mark McKenzie,24/25,minor knock,"Sep 21, 2024","Sep 28, 2024",8 days,1
+Mark McKenzie,23/24,Toe injury,"Sep 21, 2023","Oct 3, 2023",13 days,4
+Mark McKenzie,20/21,Foot injury,"Apr 16, 2021","Apr 22, 2021",7 days,1
+Mark McKenzie,18/19,concussion,"Mar 8, 2019","Mar 14, 2019",7 days,1
+Mark McKenzie,18/19,Knee injury,"Aug 1, 2018","Aug 24, 2018",24 days,5
+Rasmus Nicolaisen,24/25,Injury to the ankle,"Oct 9, 2024",,177 days,23
+Rasmus Nicolaisen,18/19,Knee problems,"Jan 1, 2019","Feb 28, 2019",59 days,3
+Rasmus Nicolaisen,16/17,Knee surgery,"Jun 25, 2017","Oct 1, 2017",99 days,20
+Ümit Akdağ,23/24,influenza,"Jan 20, 2024","Jan 30, 2024",11 days,2
+Gabriel Suazo,21/22,Torn muscle bundle,"May 25, 2022","Jun 5, 2022",12 days,2
+Gabriel Suazo,21/22,Knee problems,"Aug 18, 2021","Aug 27, 2021",10 days,3
+Gabriel Suazo,18/19,Head injury,"Apr 28, 2019","May 2, 2019",5 days,1
+Djibril Sidibé,23/24,unknown injury,"Jan 20, 2024","Jan 26, 2024",7 days,1
+Djibril Sidibé,21/22,Corona virus,"Jan 29, 2022","Feb 5, 2022",8 days,2
+Djibril Sidibé,21/22,Hamstring injury,"Jan 9, 2022","Jan 25, 2022",17 days,3
+Djibril Sidibé,21/22,Achilles tendon problems,"Dec 30, 2021","Jan 6, 2022",8 days,1
+Djibril Sidibé,21/22,Groin injury,"Oct 3, 2021","Oct 23, 2021",21 days,6
+Djibril Sidibé,21/22,Adductor injury,"Aug 26, 2021","Sep 18, 2021",24 days,6
+Djibril Sidibé,19/20,Foot injury,"Jun 21, 2020","Jul 1, 2020",11 days,3
+Djibril Sidibé,19/20,unknown injury,"Dec 15, 2019","Dec 18, 2019",4 days,2
+Djibril Sidibé,18/19,Dead leg,"Nov 21, 2018","Jan 15, 2019",56 days,11
+Djibril Sidibé,18/19,Hip injury,"Oct 25, 2018","Nov 4, 2018",11 days,2
+Djibril Sidibé,17/18,Groin injury,"Apr 16, 2018","May 10, 2018",25 days,3
+Djibril Sidibé,17/18,Ill,"Feb 4, 2018","Feb 4, 2018",1 days,1
+Djibril Sidibé,17/18,Knock,"Oct 18, 2017","Nov 24, 2017",38 days,11
+Djibril Sidibé,16/17,Appendicitis,"Apr 10, 2017","May 1, 2017",22 days,6
+Djibril Sidibé,16/17,Bruised ribs,"Mar 27, 2017","Mar 30, 2017",4 days,1
+Cristian Cásseres Jr.,24/25,unknown injury,"Mar 7, 2025","Mar 10, 2025",4 days,1
+Cristian Cásseres Jr.,21/22,Hip injury,"Feb 27, 2022","Mar 18, 2022",20 days,3
+Cristian Cásseres Jr.,21/22,Muscle injury,"Aug 16, 2021","Sep 11, 2021",27 days,5
+Vincent Sierro,24/25,Calf injury,"Jan 4, 2025","Feb 1, 2025",29 days,5
+Vincent Sierro,22/23,Calf injury,"Feb 12, 2023","Feb 20, 2023",9 days,2
+Vincent Sierro,20/21,unknown injury,"May 5, 2021","May 14, 2021",10 days,2
+Vincent Sierro,20/21,unknown injury,"Apr 19, 2021","Apr 28, 2021",10 days,2
+Vincent Sierro,20/21,Knock,"Apr 9, 2021","Apr 13, 2021",5 days,1
+Vincent Sierro,20/21,Muscle tear,"Dec 8, 2020","Feb 26, 2021",81 days,15
+Vincent Sierro,20/21,Muscle injury,"Oct 23, 2020","Oct 27, 2020",5 days,1
+Vincent Sierro,20/21,Muscle injury,"Jul 9, 2020","Jul 12, 2020",4 days,1
+Vincent Sierro,19/20,unknown injury,"Jul 3, 2020","Jul 7, 2020",5 days,1
+Vincent Sierro,19/20,Muscle injury,"Jun 17, 2020","Jun 24, 2020",8 days,2
+Vincent Sierro,19/20,Muscle injury,"Apr 9, 2020","Apr 13, 2020",5 days,-
+Vincent Sierro,19/20,Metatarsal bruise,"Feb 14, 2020","Jun 17, 2020",125 days,2
+Vincent Sierro,19/20,Knee medial ligament tear,"Sep 26, 2019","Jan 29, 2020",126 days,21
+Vincent Sierro,19/20,unknown injury,"Jul 24, 2019","Jul 31, 2019",8 days,1
+Vincent Sierro,17/18,Fitness,"Nov 13, 2017","Nov 24, 2017",12 days,1
+Niklas Schmidt,24/25,Cruciate ligament tear,"Jan 11, 2025",,83 days,13
+Niklas Schmidt,23/24,depression,"Dec 15, 2023","Jan 15, 2024",32 days,5
+Niklas Schmidt,23/24,Rest,"Nov 11, 2023","Nov 13, 2023",3 days,1
+Niklas Schmidt,22/23,Ill,"Oct 20, 2022","Oct 24, 2022",5 days,1
+Niklas Schmidt,21/22,Corona virus,"Nov 25, 2021","Dec 13, 2021",19 days,3
+Niklas Schmidt,19/20,Internal ligament strain,"Aug 5, 2019","Sep 16, 2019",43 days,5
+Niklas Schmidt,18/19,Shoulder injury,"May 9, 2019","May 20, 2019",12 days,2
+Niklas Schmidt,16/17,Ill,"Nov 17, 2016","Nov 21, 2016",5 days,1
+Niklas Schmidt,15/16,Knock,"Feb 22, 2016","Mar 10, 2016",18 days,2
+Niklas Schmidt,13/14,Muscle tear,"Dec 2, 2013","Dec 30, 2013",29 days,1
+Miha Zajc,23/24,unknown injury,"Nov 21, 2023","Jan 25, 2024",66 days,13
+Miha Zajc,23/24,Rest,"Sep 27, 2023","Sep 29, 2023",3 days,1
+Miha Zajc,23/24,unknown injury,"Aug 20, 2023","Sep 4, 2023",16 days,4
+Miha Zajc,22/23,Fitness,"Apr 25, 2023","Apr 30, 2023",6 days,1
+Miha Zajc,22/23,Torn thigh muscle,"Apr 16, 2023","Apr 25, 2023",10 days,2
+Miha Zajc,22/23,muscular problems,"Oct 12, 2022","Oct 18, 2022",7 days,2
+Miha Zajc,21/22,unknown injury,"Feb 22, 2022","Feb 25, 2022",4 days,1
+Miha Zajc,21/22,unknown injury,"Feb 2, 2022","Feb 9, 2022",8 days,2
+Miha Zajc,21/22,unknown injury,"Sep 12, 2021","Sep 28, 2021",17 days,5
+Miha Zajc,20/21,Corona virus,"Oct 2, 2020","Oct 19, 2020",18 days,4
+Miha Zajc,19/20,Torn ankle ligaments,"Dec 14, 2019","Jan 15, 2020",33 days,5
+Aron Dønnum,22/23,Syndesmotic ligament tear,"Jan 14, 2023","Jan 21, 2023",8 days,2
+Aron Dønnum,19/20,Shoulder injury,"Jun 9, 2020","Jun 16, 2020",8 days,1
+Yann Gboho,21/22,Groin injury,"Apr 4, 2022","May 31, 2022",58 days,11
+Zakaria Aboukhlal,24/25,Dead leg,"Feb 24, 2025",,39 days,4
+Zakaria Aboukhlal,23/24,Knee surgery,"Sep 22, 2023","Mar 15, 2024",176 days,40
+Zakaria Aboukhlal,20/21,Corona virus,"Oct 21, 2020","Oct 28, 2020",8 days,2
+Shavy Babicka,24/25,Injury to the ankle,"Aug 17, 2024","Aug 24, 2024",8 days,1
+Shavy Babicka,23/24,Muscle injury,"Nov 30, 2023","Jan 6, 2024",38 days,7
+Shavy Babicka,22/23,Muscle injury,"Nov 28, 2022","Dec 3, 2022",6 days,1
+Joshua King,23/24,Fitness,"Apr 12, 2024","Apr 16, 2024",5 days,1
+Joshua King,23/24,Injury to the ankle,"Feb 7, 2024","Apr 12, 2024",66 days,13
+Joshua King,23/24,Muscle tear,"Oct 19, 2023","Nov 19, 2023",32 days,6
+Joshua King,23/24,unknown injury,"Oct 5, 2023","Oct 17, 2023",13 days,2
+Joshua King,23/24,unknown injury,"Sep 23, 2023","Sep 26, 2023",4 days,1
+Joshua King,22/23,Muscle injury,"Mar 19, 2023","Apr 25, 2023",38 days,7
+Joshua King,22/23,Muscle injury,"Jan 22, 2023","Jan 30, 2023",9 days,2
+Joshua King,22/23,Hamstring injury,"Sep 22, 2022","Oct 28, 2022",37 days,7
+Joshua King,22/23,Pelvic contusion,"Sep 16, 2022","Sep 19, 2022",4 days,1
+Joshua King,22/23,Muscle fatigue,"Aug 18, 2022","Aug 30, 2022",13 days,4
+Joshua King,22/23,contortion,"Jul 27, 2022","Aug 5, 2022",10 days,2
+Joshua King,20/21,Quarantine,"Nov 20, 2020","Dec 4, 2020",15 days,5
+Joshua King,19/20,Hamstring injury,"Jul 10, 2020","Jul 14, 2020",5 days,1
+Joshua King,19/20,Ankle injury,"Jun 21, 2020","Jun 30, 2020",10 days,1
+Joshua King,19/20,Hamstring injury,"Mar 7, 2020","Mar 26, 2020",20 days,1
+Benjamin Lecomte,23/24,Tendon irritation,"May 2, 2024","Jun 2, 2024",32 days,3
+Benjamin Lecomte,21/22,Corona virus,"Feb 17, 2022","Feb 21, 2022",5 days,1
+Benjamin Lecomte,21/22,Hamstring injury,"Jul 5, 2021","Aug 2, 2021",29 days,-
+Benjamin Lecomte,20/21,Hand injury,"Nov 5, 2020","Dec 31, 2020",57 days,8
+Benjamin Lecomte,20/21,Corona virus,"Sep 3, 2020","Sep 17, 2020",15 days,1
+Benjamin Lecomte,16/17,Knock,"Nov 17, 2016","Jan 12, 2017",57 days,8
+Benjamin Lecomte,11/12,Ankle injury,"Mar 8, 2012","May 31, 2012",85 days,22
+Dimitry Bertaud,22/23,Cruciate ligament tear,"Aug 26, 2022","Mar 21, 2023",208 days,55
+Belmin Dizdarevic,23/24,unknown injury,"Mar 20, 2024","Apr 29, 2024",41 days,5
+Bamo Meïté,24/25,Dead leg,"Sep 27, 2024","Oct 18, 2024",22 days,2
+Bamo Meïté,23/24,Ankle sprain,"Mar 22, 2024","May 9, 2024",49 days,9
+Bamo Meïté,22/23,Dead leg,"Oct 16, 2022","Nov 15, 2022",31 days,4
+Becir Omeragic,24/25,Meniscus injury,"Feb 10, 2025",,53 days,6
+Becir Omeragic,24/25,Hamstring injury,"Oct 21, 2024","Nov 11, 2024",22 days,3
+Becir Omeragic,24/25,Knee bruise,"Oct 5, 2024","Oct 14, 2024",10 days,1
+Becir Omeragic,22/23,Ill,"Jan 14, 2023","Jan 19, 2023",6 days,-
+Becir Omeragic,22/23,Knock,"Sep 19, 2022","Oct 17, 2022",29 days,9
+Becir Omeragic,21/22,Meniscus injury,"Apr 4, 2022","Jul 25, 2022",113 days,17
+Becir Omeragic,20/21,Ill,"May 10, 2021","May 17, 2021",8 days,2
+Becir Omeragic,20/21,Hamstring injury,"Mar 22, 2021","Apr 12, 2021",22 days,8
+Becir Omeragic,20/21,minor knock,"Jan 25, 2021","Feb 1, 2021",8 days,2
+Becir Omeragic,20/21,strain,"Dec 10, 2020","Dec 21, 2020",12 days,3
+Becir Omeragic,20/21,minor knock,"Sep 17, 2020","Sep 24, 2020",8 days,1
+Becir Omeragic,19/20,Ill,"Jul 20, 2020","Jul 23, 2020",4 days,1
+Becir Omeragic,19/20,Quarantine,"Jul 9, 2020","Jul 20, 2020",12 days,2
+Becir Omeragic,19/20,Ill,"Jan 20, 2020","Feb 13, 2020",25 days,4
+Becir Omeragic,19/20,Knock,"Aug 19, 2019","Sep 26, 2019",39 days,16
+Kiki Kouyaté,24/25,Head injury,"Feb 1, 2025","Feb 14, 2025",14 days,1
+Kiki Kouyaté,24/25,Knee injury,"Sep 28, 2024","Jan 5, 2025",100 days,12
+Kiki Kouyaté,24/25,Knee injury,"Aug 30, 2024","Sep 20, 2024",22 days,2
+Kiki Kouyaté,23/24,Hip injury,"May 11, 2024","Jun 5, 2024",26 days,2
+Kiki Kouyaté,23/24,concussion,"Mar 31, 2024","Apr 13, 2024",14 days,2
+Kiki Kouyaté,22/23,concussion,"Mar 31, 2023","Apr 16, 2023",17 days,3
+Kiki Kouyaté,21/22,Dead leg,"Oct 13, 2021","Oct 29, 2021",17 days,2
+Kiki Kouyaté,19/20,Injury to abdominal muscles,"Jan 31, 2020","Feb 23, 2020",24 days,4
+Modibo Sagnan,23/24,unknown injury,"Dec 1, 2023","Dec 18, 2023",18 days,3
+Modibo Sagnan,23/24,unknown injury,"Aug 21, 2023","Aug 31, 2023",11 days,1
+Modibo Sagnan,22/23,unknown injury,"Feb 6, 2023","Feb 16, 2023",11 days,2
+Modibo Sagnan,19/20,Muscle injury,"Aug 9, 2019","Oct 17, 2019",70 days,10
+Christopher Jullien,24/25,Cruciate ligament tear,"Jun 11, 2024",,297 days,28
+Christopher Jullien,23/24,Foot injury,"Feb 10, 2024","Mar 4, 2024",24 days,4
+Christopher Jullien,23/24,Heel injury,"Nov 25, 2023","Dec 2, 2023",8 days,2
+Christopher Jullien,22/23,Groin injury,"Aug 29, 2022","Sep 15, 2022",18 days,3
+Christopher Jullien,20/21,Corona virus,"Jan 9, 2021","Feb 10, 2021",33 days,8
+Christopher Jullien,20/21,Knee injury,"Dec 30, 2020","Dec 30, 2021",366 days,59
+Christopher Jullien,20/21,Back injury,"Sep 17, 2020","Nov 24, 2020",69 days,13
+Christopher Jullien,17/18,Shoulder injury,"Mar 12, 2018","Mar 26, 2018",15 days,1
+Christopher Jullien,14/15,Achilles tendon irritation,"Jan 19, 2015","Mar 2, 2015",43 days,6
+Nikola Maksimović,24/25,Hamstring injury,"Jan 4, 2025","Jun 30, 2025",178 days,19
+Nikola Maksimović,23/24,unknown injury,"Apr 27, 2024","May 27, 2024",31 days,5
+Nikola Maksimović,21/22,unknown injury,"Apr 23, 2022","May 31, 2022",39 days,5
+Nikola Maksimović,21/22,Adductor injury,"Feb 25, 2022","Mar 4, 2022",8 days,1
+Nikola Maksimović,21/22,Muscle strain,"Oct 9, 2021","Jan 21, 2022",105 days,17
+Nikola Maksimović,20/21,Fitness,"May 20, 2021","May 24, 2021",5 days,1
+Nikola Maksimović,20/21,Corona virus,"May 4, 2021","May 19, 2021",16 days,3
+Nikola Maksimović,19/20,Calf strain,"Mar 9, 2020","Mar 31, 2020",23 days,-
+Nikola Maksimović,19/20,Hamstring injury,"Dec 8, 2019","Jan 25, 2020",49 days,8
+Nikola Maksimović,19/20,Hamstring muscle injury,"Sep 30, 2019","Oct 26, 2019",27 days,4
+Nikola Maksimović,18/19,Toe injury,"Apr 19, 2019","May 15, 2019",27 days,4
+Nikola Maksimović,17/18,Groin problems,"Apr 29, 2018","May 9, 2018",11 days,2
+Nikola Maksimović,15/16,Metatarsal fracture,"Sep 10, 2015","Jan 6, 2016",119 days,20
+Nikola Maksimović,14/15,Muscle fatigue,"Jan 30, 2015","Feb 6, 2015",8 days,1
+Nikola Maksimović,13/14,inflammation,"Oct 8, 2013","Oct 19, 2013",12 days,4
+Issiaga Sylla,24/25,Adductor pain,"Jan 27, 2025",,67 days,8
+Issiaga Sylla,24/25,Dead leg,"Aug 12, 2024","Sep 23, 2024",43 days,5
+Issiaga Sylla,23/24,Calf injury,"Nov 4, 2023","Jan 10, 2024",68 days,11
+Issiaga Sylla,20/21,Muscle injury,"Feb 23, 2021","Mar 4, 2021",10 days,2
+Issiaga Sylla,20/21,Calf injury,"Oct 1, 2020","Nov 3, 2020",34 days,3
+Lucas Mincarelli,24/25,Muscle injury,"Oct 28, 2024","Jan 27, 2025",92 days,11
+Lucas Mincarelli,24/25,Inner ligament injury,"Jun 6, 2024","Sep 16, 2024",103 days,4
+Lucas Mincarelli,23/24,Dead leg,"Jan 13, 2024","Jan 22, 2024",10 days,1
+Théo Sainte-Luce,24/25,Muscle injury,"Nov 3, 2024","Nov 20, 2024",18 days,2
+Théo Sainte-Luce,24/25,Muscle injury,"Aug 17, 2024","Oct 18, 2024",63 days,7
+Théo Sainte-Luce,23/24,Dead leg,"Apr 6, 2024","Apr 27, 2024",22 days,4
+Théo Sainte-Luce,23/24,Ankle sprain,"Dec 2, 2023","Jan 22, 2024",52 days,6
+Théo Sainte-Luce,23/24,Dead leg,"Aug 1, 2023","Oct 7, 2023",68 days,7
+Théo Sainte-Luce,22/23,Calf injury,"Mar 27, 2023","May 1, 2023",36 days,5
+Théo Sainte-Luce,22/23,Cruciate ligament tear,"Sep 1, 2022","Mar 15, 2023",196 days,23
+Théo Sainte-Luce,20/21,Metatarsal fracture,"Dec 19, 2020","Apr 15, 2021",118 days,20
+Théo Sainte-Luce,19/20,Knock,"Jan 12, 2020","Jan 20, 2020",9 days,1
+Théo Sainte-Luce,19/20,concussion,"Dec 1, 2019","Dec 5, 2019",5 days,1
+Enzo Tchato,24/25,Dead leg,"Mar 6, 2025",,29 days,3
+Enzo Tchato,22/23,Adductor pain,"Mar 1, 2023","Mar 23, 2023",23 days,3
+Falaye Sacko,21/22,Ligament injury,"Mar 19, 2022","May 12, 2022",55 days,9
+Falaye Sacko,20/21,Corona virus,"Oct 14, 2020","Oct 29, 2020",16 days,2
+Falaye Sacko,19/20,unknown injury,"Jan 3, 2020","Jan 25, 2020",23 days,4
+Falaye Sacko,19/20,Muscle injury,"Oct 4, 2019","Nov 10, 2019",38 days,8
+Joris Chotard,24/25,Calf injury,"Sep 2, 2024","Sep 30, 2024",29 days,3
+Joris Chotard,23/24,Calf injury,"Mar 16, 2024","Apr 6, 2024",22 days,2
+Joris Chotard,20/21,Knock,"Dec 3, 2020","Dec 10, 2020",8 days,1
+Khalil Fayad,24/25,Dead leg,"Oct 18, 2024","Dec 9, 2024",53 days,7
+Khalil Fayad,24/25,Dead leg,"Aug 17, 2024","Aug 30, 2024",14 days,2
+Khalil Fayad,23/24,Back injury,"Apr 6, 2024","Apr 20, 2024",15 days,2
+Khalil Fayad,23/24,Knee injury,"Sep 25, 2023","Oct 9, 2023",15 days,1
+Khalil Fayad,22/23,Hamstring injury,"May 15, 2023","Jun 5, 2023",22 days,6
+Jordan Ferri,24/25,Ill,"Feb 21, 2025","Feb 22, 2025",2 days,-
+Jordan Ferri,23/24,Heel injury,"May 13, 2024","May 31, 2024",19 days,1
+Jordan Ferri,23/24,Knee injury,"Dec 2, 2023","Dec 7, 2023",6 days,1
+Jordan Ferri,22/23,Ill,"Jan 27, 2023","Jan 30, 2023",4 days,1
+Jordan Ferri,21/22,Dead leg,"Apr 25, 2022","May 11, 2022",17 days,4
+Jordan Ferri,20/21,Groin injury,"May 14, 2021","May 31, 2021",18 days,2
+Jordan Ferri,20/21,Dead leg,"Apr 27, 2021","May 5, 2021",9 days,1
+Jordan Ferri,19/20,Knee injury,"Oct 25, 2019","Jan 15, 2020",83 days,16
+Jordan Ferri,17/18,Shoulder injury,"Nov 6, 2017","Nov 21, 2017",16 days,5
+Jordan Ferri,14/15,Hamstring injury,"Oct 30, 2014","Nov 21, 2014",23 days,4
+Téji Savanier,20/21,Corona virus,"Jan 5, 2021","Jan 12, 2021",8 days,2
+Téji Savanier,20/21,Thigh problems,"Dec 19, 2020","Jan 1, 2021",14 days,2
+Téji Savanier,19/20,Knee injury,"Jul 27, 2019","Oct 13, 2019",79 days,9
+Wahbi Khazri,23/24,Muscle injury,"Apr 26, 2024","May 31, 2024",36 days,4
+Wahbi Khazri,23/24,Ill,"Mar 30, 2024","Apr 5, 2024",7 days,1
+Wahbi Khazri,23/24,Groin problems,"Feb 18, 2024","Feb 25, 2024",8 days,2
+Wahbi Khazri,23/24,Muscle injury,"Dec 4, 2023","Jan 4, 2024",32 days,3
+Wahbi Khazri,21/22,Dead leg,"Apr 28, 2022","May 10, 2022",13 days,1
+Wahbi Khazri,21/22,Muscle injury,"Mar 21, 2022","Apr 15, 2022",26 days,4
+Wahbi Khazri,21/22,Corona virus,"Jan 18, 2022","Jan 23, 2022",6 days,3
+Wahbi Khazri,20/21,Thigh problems,"Feb 26, 2021","Mar 10, 2021",13 days,2
+Wahbi Khazri,17/18,Torn muscle fiber,"May 6, 2018","Jun 5, 2018",31 days,5
+Wahbi Khazri,17/18,Strain in the thigh and gluteal muscles,"Dec 2, 2017","Dec 9, 2017",8 days,2
+Wahbi Khazri,17/18,Dead leg,"Oct 25, 2017","Oct 28, 2017",4 days,2
+Wahbi Khazri,13/14,Hamstring strain,"Dec 18, 2013","Jan 10, 2014",24 days,3
+Wahbi Khazri,13/14,Hamstring injury,"Dec 6, 2013","Dec 17, 2013",12 days,2
+Wahbi Khazri,12/13,Knee injury,"May 17, 2013","May 25, 2013",9 days,1
+Wahbi Khazri,12/13,Knee injury,"Mar 25, 2013","Apr 3, 2013",10 days,1
+Tanguy Coulibaly,24/25,Muscle injury,"Feb 12, 2025","Feb 15, 2025",4 days,-
+Tanguy Coulibaly,24/25,Dead leg,"Sep 2, 2024","Sep 13, 2024",12 days,-
+Tanguy Coulibaly,23/24,Dead leg,"May 2, 2024","May 11, 2024",10 days,1
+Tanguy Coulibaly,23/24,Shoulder injury,"Jan 22, 2024","Jan 27, 2024",6 days,1
+Tanguy Coulibaly,22/23,flu,"Jan 20, 2023","Jan 26, 2023",7 days,2
+Tanguy Coulibaly,22/23,muscular problems,"Oct 31, 2022","Nov 7, 2022",8 days,1
+Tanguy Coulibaly,22/23,Fitness,"Sep 12, 2022","Sep 29, 2022",18 days,1
+Tanguy Coulibaly,22/23,Toe injury,"Jul 21, 2022","Sep 12, 2022",54 days,7
+Tanguy Coulibaly,21/22,Foot injury,"Feb 28, 2022","Mar 10, 2022",11 days,1
+Tanguy Coulibaly,21/22,Corona virus,"Feb 14, 2022","Feb 24, 2022",11 days,1
+Tanguy Coulibaly,21/22,Fitness,"Aug 16, 2021","Aug 26, 2021",11 days,1
+Tanguy Coulibaly,21/22,Corona virus,"Jul 29, 2021","Aug 19, 2021",22 days,2
+Tanguy Coulibaly,20/21,Inner knee ligament tear,"May 6, 2021","Jul 1, 2021",57 days,3
+Tanguy Coulibaly,19/20,bruise,"Feb 20, 2020","Feb 27, 2020",8 days,1
+Tanguy Coulibaly,19/20,Hamstring injury,"Sep 16, 2019","Oct 7, 2019",22 days,3
+Othmane Maamma,24/25,Muscle injury,"Feb 15, 2025","Mar 19, 2025",33 days,5
+Othmane Maamma,24/25,Hamstring injury,"Oct 27, 2024","Nov 9, 2024",14 days,2
+Othmane Maamma,24/25,Hamstring injury,"Aug 30, 2024","Oct 21, 2024",53 days,10
+Andy Delort,20/21,Thigh problems,"Jun 2, 2021","Jul 8, 2021",37 days,3
+Andy Delort,20/21,Muscle injury,"Jan 21, 2021","Feb 4, 2021",15 days,3
+Andy Delort,20/21,Corona virus,"Dec 4, 2020","Dec 11, 2020",8 days,1
+Glenn Ngosso,24/25,Cruciate ligament tear,"Sep 8, 2024",,208 days,25
+Alaa Bellaarouch,24/25,Pubalgia,"Jun 25, 2024","Dec 15, 2024",174 days,15
+Alaa Bellaarouch,22/23,Arm injury,"Aug 25, 2022","Nov 6, 2022",74 days,13
+Karl-Johan Johnsson,23/24,Muscle injury,"Nov 24, 2023","Dec 7, 2023",14 days,3
+Karl-Johan Johnsson,14/15,Head injury,"Oct 19, 2014","Oct 28, 2014",10 days,2
+Mamadou Sarr,24/25,Muscle injury,"Nov 8, 2024","Nov 22, 2024",15 days,1
+Mamadou Sarr,24/25,Dead leg,"Oct 6, 2024","Oct 17, 2024",12 days,1
+Mamadou Sarr,23/24,minor knock,"Apr 4, 2024","Apr 10, 2024",7 days,1
+Mamadou Sarr,23/24,Pubalgia,"Feb 22, 2024","Mar 13, 2024",21 days,3
+Ismaël Doukouré,24/25,Injury to the ankle,"Nov 25, 2024","Dec 6, 2024",12 days,1
+Ismaël Doukouré,23/24,Knee injury,"Mar 15, 2024","Mar 30, 2024",16 days,1
+Ismaël Doukouré,23/24,Ligament stretching,"Jan 24, 2024","Feb 24, 2024",32 days,6
+Ismaël Doukouré,23/24,Injury to the ankle,"Dec 9, 2023","Jan 11, 2024",34 days,4
+Ismaël Doukouré,21/22,Patellar tendon irritation,"Feb 9, 2022","Apr 18, 2022",69 days,14
+Abakar Sylla,24/25,Groin injury,"Nov 30, 2024","Dec 15, 2024",16 days,3
+Abakar Sylla,23/24,Dead leg,"Mar 2, 2024","Mar 5, 2024",4 days,1
+Abakar Sylla,23/24,Dead leg,"Feb 24, 2024","Mar 30, 2024",36 days,7
+Abakar Sylla,22/23,Knock,"May 25, 2023","Jun 7, 2023",14 days,2
+Abakar Sylla,22/23,Injury to abdominal muscles,"Apr 13, 2023","Apr 22, 2023",10 days,1
+Abakar Sylla,22/23,Rest,"Oct 7, 2022","Oct 10, 2022",4 days,1
+Abakar Sylla,22/23,Muscle injury,"Sep 30, 2022","Oct 2, 2022",3 days,1
+Abakar Sylla,22/23,Rest,"Sep 9, 2022","Sep 12, 2022",4 days,1
+Andrew Omobamidele,24/25,Achilles tendon contusion,"Feb 17, 2025",,46 days,5
+Andrew Omobamidele,24/25,unknown injury,"Oct 24, 2024","Dec 31, 2024",69 days,11
+Andrew Omobamidele,22/23,Ankle injury,"Oct 17, 2022","Nov 17, 2022",32 days,8
+Yoni Gomis,24/25,Knee injury,"Aug 15, 2024","Aug 30, 2024",16 days,3
+Yoni Gomis,23/24,Knock,"Aug 1, 2023","Sep 22, 2023",53 days,7
+Valentín Barco,23/24,Adductor pain,"Aug 24, 2023","Aug 29, 2023",6 days,2
+Valentín Barco,21/22,Corona virus,"Aug 16, 2021","Aug 26, 2021",11 days,-
+Eduard Sobol,23/24,unknown injury,"Jul 17, 2023","Sep 12, 2023",58 days,4
+Eduard Sobol,22/23,Nose injury,"May 7, 2023","May 26, 2023",20 days,3
+Eduard Sobol,22/23,unknown injury,"Aug 20, 2022","Sep 1, 2022",13 days,2
+Eduard Sobol,20/21,unknown injury,"May 31, 2021","Jun 4, 2021",5 days,1
+Eduard Sobol,20/21,Corona virus,"Nov 16, 2020","Nov 27, 2020",12 days,3
+Thomas Delaine,24/25,Knee injury,"Aug 17, 2024","Sep 13, 2024",28 days,3
+Thomas Delaine,23/24,Injury to the ankle,"Dec 18, 2023","Jan 13, 2024",27 days,3
+Thomas Delaine,23/24,Calf injury,"Oct 30, 2023","Nov 6, 2023",8 days,1
+Thomas Delaine,22/23,Injury to the ankle,"Apr 25, 2023","May 22, 2023",28 days,4
+Thomas Delaine,22/23,Achilles tendon contusion,"Jan 11, 2023","Feb 28, 2023",49 days,8
+Thomas Delaine,22/23,Dead leg,"Dec 23, 2022","Jan 7, 2023",16 days,3
+Thomas Delaine,22/23,Hip injury,"Sep 1, 2022","Sep 20, 2022",20 days,3
+Thomas Delaine,21/22,Hamstring injury,"May 20, 2022","May 30, 2022",11 days,1
+Thomas Delaine,21/22,Dead leg,"Mar 7, 2022","Mar 21, 2022",15 days,2
+Thomas Delaine,21/22,Hairline crack in foot,"Sep 21, 2021","Oct 18, 2021",28 days,4
+Thomas Delaine,21/22,Back injury,"Aug 28, 2021","Sep 4, 2021",8 days,1
+Thomas Delaine,20/21,Dead leg,"Jan 18, 2021","Jan 30, 2021",13 days,1
+Thomas Delaine,19/20,Injury to the ankle,"Nov 10, 2019","Nov 29, 2019",20 days,1
+Thomas Delaine,19/20,Knock,"Oct 18, 2019","Nov 5, 2019",19 days,4
+Habib Diarra,24/25,Injury to the ankle,"Mar 3, 2025",,32 days,3
+Habib Diarra,23/24,ankle sprain,"Jun 11, 2024","Jul 2, 2024",22 days,-
+Habib Diarra,23/24,Facial injury,"Apr 14, 2024","Apr 20, 2024",7 days,-
+Habib Diarra,23/24,Achilles tendon contusion,"Feb 26, 2024","Mar 2, 2024",6 days,3
+Habib Diarra,23/24,Groin injury,"Oct 21, 2023","Nov 4, 2023",15 days,5
+Habib Diarra,22/23,Calf injury,"Feb 6, 2023","Mar 4, 2023",27 days,6
+Habib Diarra,21/22,Knock,"May 16, 2022","Jun 30, 2022",46 days,15
+Félix Lemaréchal,23/24,Knock,"Dec 8, 2023","Dec 13, 2023",6 days,1
+Félix Lemaréchal,23/24,Broken ankle,"Sep 19, 2023","Oct 5, 2023",17 days,2
+Diego Moreira,24/25,Knee injury,"Jan 13, 2025","Jan 24, 2025",12 days,2
+Dilane Bakwa,24/25,Knee injury,"Jan 20, 2025","Feb 12, 2025",24 days,4
+Abdoul Ouattara,24/25,Hamstring injury,"Mar 3, 2025",,32 days,3
+Abdoul Ouattara,24/25,Groin injury,"Jan 3, 2025","Jan 18, 2025",16 days,3
+Emanuel Emegha,24/25,Knee injury,"Oct 20, 2024","Dec 1, 2024",43 days,8
+Emanuel Emegha,23/24,Ill,"Aug 19, 2023","Aug 21, 2023",3 days,1
+Emanuel Emegha,22/23,Shoulder injury,"Sep 15, 2022","Oct 8, 2022",24 days,6
+Emanuel Emegha,21/22,flu,"Aug 24, 2021","Aug 27, 2021",4 days,-
+Emanuel Emegha,20/21,Corona virus,"Jan 5, 2021","Jan 11, 2021",7 days,1
+Moïse Sahi Dion,24/25,Achilles tendon rupture,"Dec 10, 2024",,115 days,16
+Moïse Sahi Dion,24/25,Knee injury,"Aug 11, 2024","Dec 1, 2024",113 days,13
+Moïse Sahi Dion,23/24,Knock,"Mar 2, 2024","Apr 3, 2024",33 days,4
+Moïse Sahi Dion,23/24,Dead leg,"Feb 6, 2024","Feb 23, 2024",18 days,3
+Moïse Sahi Dion,23/24,Hamstring injury,"Aug 1, 2023","Aug 31, 2023",31 days,3
+Moïse Sahi Dion,21/22,Knock,"May 16, 2022","Jul 31, 2022",77 days,1
+Moïse Sahi Dion,21/22,Dead leg,"Jan 10, 2022","Jan 31, 2022",22 days,3
+Moïse Sahi Dion,21/22,Hamstring injury,"Jul 29, 2021","Oct 2, 2021",66 days,9
+Alban Lafont,23/24,Muscle injury,"Feb 12, 2024","Feb 23, 2024",12 days,1
+Alban Lafont,23/24,Pneumothorax,"Aug 14, 2023","Sep 20, 2023",38 days,4
+Alban Lafont,18/19,Hamstring muscle injury,"Sep 2, 2018","Sep 18, 2018",17 days,8
+Anthony Lopes,23/24,Facial injury,"Aug 5, 2023","Aug 30, 2023",26 days,3
+Anthony Lopes,22/23,Broken finger,"Mar 1, 2023","Mar 25, 2023",25 days,3
+Anthony Lopes,21/22,Hamstring injury,"Apr 10, 2022","Apr 25, 2022",16 days,5
+Anthony Lopes,20/21,Corona virus,"Oct 8, 2020","Oct 17, 2020",10 days,2
+Anthony Lopes,13/14,Lumbar vertebra fracture,"Nov 4, 2013","Dec 11, 2013",38 days,9
+Patrik Carlgren,22/23,Broken jaw,"Nov 4, 2022","Dec 31, 2022",58 days,3
+Patrik Carlgren,15/16,Ligament injury,"Jul 2, 2015","Jul 27, 2015",26 days,8
+Nathan Zézé,24/25,Ankle injury,"Jan 10, 2025","Apr 10, 2025",91 days,13
+Nathan Zézé,24/25,contortion,"Sep 6, 2024","Sep 13, 2024",8 days,1
+Nathan Zézé,23/24,Appendicitis,"Aug 17, 2023","Oct 5, 2023",50 days,8
+Saïdou Sow,22/23,Injury to the ankle,"Sep 19, 2022","Sep 27, 2022",9 days,2
+Saïdou Sow,21/22,ankle sprain,"Feb 19, 2022","Mar 21, 2022",31 days,5
+Saïdou Sow,21/22,Knee problems,"Jan 27, 2022","Feb 2, 2022",7 days,1
+Jean-Charles Castelletto,24/25,Calf injury,"Dec 1, 2024","Dec 6, 2024",6 days,-
+Jean-Charles Castelletto,24/25,Dead leg,"Aug 26, 2024","Sep 13, 2024",19 days,1
+Jean-Charles Castelletto,22/23,Dead leg,"Feb 17, 2023","Feb 23, 2023",7 days,2
+Jean-Charles Castelletto,22/23,Virus,"Oct 28, 2022","Nov 2, 2022",6 days,1
+Jean-Charles Castelletto,21/22,Virus,"Apr 27, 2022","May 3, 2022",7 days,1
+Jean-Charles Castelletto,21/22,Ill,"Feb 26, 2022","Mar 1, 2022",4 days,1
+Jean-Charles Castelletto,21/22,Calf injury,"Sep 19, 2021","Sep 21, 2021",3 days,1
+Jean-Charles Castelletto,20/21,Virus,"Aug 10, 2020","Aug 25, 2020",16 days,1
+Nicolas Pallois,22/23,Injury to the ankle,"Apr 6, 2023","Apr 13, 2023",8 days,1
+Nicolas Pallois,22/23,Knee injury,"Feb 24, 2023","Mar 2, 2023",7 days,2
+Nicolas Pallois,22/23,Calf injury,"Feb 17, 2023","Feb 22, 2023",6 days,1
+Nicolas Pallois,22/23,Knee injury,"Jan 8, 2023","Feb 8, 2023",32 days,7
+Nicolas Pallois,21/22,Knee injury,"Apr 21, 2022","Apr 28, 2022",8 days,1
+Nicolas Pallois,21/22,strain,"Mar 12, 2022","Apr 9, 2022",29 days,3
+Nicolas Pallois,20/21,Dead leg,"Nov 15, 2020","Nov 24, 2020",10 days,1
+Nicolas Pallois,19/20,Pubalgia,"Jan 4, 2020","Feb 9, 2020",37 days,7
+Nicolas Pallois,17/18,ankle sprain,"Sep 25, 2017","Oct 20, 2017",26 days,2
+Nicolas Pallois,16/17,Injury to the ankle,"Jan 26, 2017","Jan 30, 2017",5 days,1
+Nicolas Pallois,16/17,Broken nose bone,"Dec 19, 2016","Dec 31, 2016",13 days,1
+Nicolas Pallois,15/16,Toe injury,"Nov 23, 2015","Apr 11, 2016",141 days,27
+Nicolas Pallois,14/15,Foot injury,"Mar 13, 2015","Apr 10, 2015",29 days,3
+Nicolas Cozza,20/21,Dead leg,"Jul 10, 2020","Aug 31, 2020",53 days,1
+Nicolas Cozza,19/20,Cruciate ligament tear,"Nov 16, 2019","May 31, 2020",198 days,20
+Nicolas Cozza,17/18,Groin injury,"Dec 18, 2017","Jan 10, 2018",24 days,3
+Kelvin Amian,23/24,Hamstring injury,"Feb 4, 2024","Mar 4, 2024",30 days,4
+Kelvin Amian,22/23,Injury to abdominal muscles,"Jul 13, 2022","Oct 1, 2022",81 days,8
+Kelvin Amian,21/22,unknown injury,"Oct 3, 2021","Oct 26, 2021",24 days,4
+Kelvin Amian,19/20,Foot injury,"Jan 1, 2020","Apr 30, 2020",121 days,10
+Kelvin Amian,19/20,minor knock,"May 23, 2019","May 31, 2019",9 days,1
+Fabien Centonze,24/25,Knee injury,"Feb 21, 2025",,42 days,5
+Fabien Centonze,24/25,Knee injury,"Dec 19, 2024","Jan 15, 2025",28 days,4
+Fabien Centonze,24/25,Cruciate ligament injury,"Aug 12, 2024","Nov 18, 2024",99 days,11
+Fabien Centonze,23/24,Muscle injury,"Jan 29, 2024","Feb 3, 2024",6 days,-
+Fabien Centonze,23/24,Back injury,"Dec 8, 2023","Dec 16, 2023",9 days,1
+Fabien Centonze,23/24,Hamstring injury,"Aug 10, 2023","Sep 7, 2023",29 days,4
+Fabien Centonze,22/23,Knock,"Nov 7, 2022","Nov 15, 2022",9 days,1
+Fabien Centonze,22/23,Muscle fatigue,"Sep 23, 2022","Oct 21, 2022",29 days,5
+Fabien Centonze,21/22,Dead leg,"May 2, 2022","Jun 30, 2022",60 days,3
+Fabien Centonze,21/22,Muscle tear,"Jan 7, 2022","Apr 18, 2022",102 days,13
+Marcus Coco,21/22,ankle sprain,"Feb 28, 2022","Apr 1, 2022",33 days,8
+Marcus Coco,19/20,Cruciate ligament tear,"Aug 11, 2019","Mar 1, 2020",204 days,41
+Johann Lepenant,24/25,Calf injury,"Nov 1, 2024","Nov 11, 2024",11 days,2
+Johann Lepenant,23/24,Knee injury,"Nov 19, 2023","Feb 16, 2024",90 days,14
+Johann Lepenant,21/22,Corona virus,"Jan 10, 2022","Jan 20, 2022",11 days,1
+Pedro Chirivella,22/23,Pubalgia,"Apr 3, 2023","May 21, 2023",49 days,9
+Pedro Chirivella,17/18,Cruciate ligament strain,"Dec 16, 2017","Dec 27, 2017",12 days,3
+Francis Coquelin,22/23,Cruciate ligament tear,"Feb 13, 2023","Sep 15, 2023",215 days,23
+Francis Coquelin,21/22,Achilles tendon irritation,"Nov 21, 2021","Mar 4, 2022",104 days,19
+Francis Coquelin,20/21,Ankle injury,"Feb 7, 2021","Mar 9, 2021",31 days,6
+Francis Coquelin,20/21,Torn muscle fiber,"Sep 28, 2020","Oct 15, 2020",18 days,2
+Francis Coquelin,19/20,Muscle injury,"Jun 19, 2020","Jun 26, 2020",8 days,2
+Francis Coquelin,19/20,Hamstring injury,"Feb 12, 2020","Mar 4, 2020",22 days,4
+Francis Coquelin,19/20,Muscle injury,"Oct 31, 2019","Nov 25, 2019",26 days,4
+Francis Coquelin,18/19,Muscle injury,"Mar 25, 2019","Apr 8, 2019",15 days,3
+Francis Coquelin,18/19,Achilles tendon problems,"Jan 20, 2019","Jan 25, 2019",6 days,1
+Francis Coquelin,18/19,Calf injury,"Dec 16, 2018","Jan 11, 2019",27 days,3
+Francis Coquelin,18/19,muscular problems,"Dec 3, 2018","Dec 4, 2018",2 days,1
+Francis Coquelin,17/18,Achilles tendon rupture,"Mar 16, 2018","Sep 22, 2018",191 days,15
+Francis Coquelin,17/18,Hamstring injury,"Sep 9, 2017","Oct 12, 2017",34 days,7
+Francis Coquelin,17/18,Ankle injury,"Jul 29, 2017","Aug 7, 2017",10 days,1
+Francis Coquelin,16/17,Hamstring injury,"Jan 3, 2017","Jan 16, 2017",14 days,3
+Douglas Augusto,23/24,Knee injury,"Oct 6, 2023","Nov 19, 2023",45 days,5
+Douglas Augusto,22/23,unknown injury,"Oct 8, 2022","Oct 13, 2022",6 days,1
+Douglas Augusto,21/22,Hamstring injury,"Nov 1, 2021","Dec 2, 2021",32 days,6
+Douglas Augusto,21/22,Hamstring injury,"Jul 11, 2021","Aug 25, 2021",46 days,3
+Douglas Augusto,19/20,Cruciate ligament tear,"May 25, 2020","Oct 12, 2020",141 days,19
+Douglas Augusto,19/20,Pelvic injury,"Aug 29, 2019","Sep 9, 2019",12 days,2
+Florent Mollet,24/25,Broken fibula,"Jul 20, 2024","Sep 10, 2024",53 days,3
+Florent Mollet,22/23,Ill,"Sep 26, 2022","Oct 6, 2022",11 days,1
+Florent Mollet,20/21,Ankle surgery,"Jan 23, 2021","Feb 1, 2021",10 days,1
+Florent Mollet,19/20,Thigh problems,"Aug 3, 2019","Aug 19, 2019",17 days,2
+Florent Mollet,18/19,Dead leg,"Feb 4, 2019","Feb 15, 2019",12 days,1
+Florent Mollet,18/19,heart problems,"Jan 3, 2019","Jan 8, 2019",6 days,2
+Florent Mollet,18/19,Knock,"Sep 3, 2018","Sep 25, 2018",23 days,2
+Florent Mollet,17/18,Pubalgia,"Feb 25, 2018","Mar 14, 2018",18 days,2
+Florent Mollet,17/18,Knee injury,"Jan 5, 2018","Jan 22, 2018",18 days,4
+Florent Mollet,17/18,Dead leg,"Aug 1, 2017","Aug 4, 2017",4 days,-
+Florent Mollet,16/17,Injury to the ankle,"Jan 27, 2017","Feb 7, 2017",12 days,2
+Florent Mollet,16/17,Knock,"Nov 20, 2016","Dec 1, 2016",12 days,2
+Florent Mollet,16/17,Knee injury,"Nov 3, 2016","Nov 16, 2016",14 days,1
+Florent Mollet,16/17,Dead leg,"Oct 17, 2016","Oct 27, 2016",11 days,2
+Moses Simon,23/24,Broken fibula,"Mar 27, 2024","Jul 2, 2024",98 days,10
+Moses Simon,20/21,Muscle injury,"Jan 7, 2021","Jan 20, 2021",14 days,2
+Moses Simon,20/21,Adductor pain,"Nov 1, 2020","Nov 26, 2020",26 days,5
+Moses Simon,18/19,Hamstring injury,"Aug 13, 2018","Sep 20, 2018",39 days,5
+Moses Simon,17/18,Thigh problems,"May 28, 2018","Jun 25, 2018",29 days,4
+Moses Simon,17/18,Ligament injury,"Jan 9, 2018","Mar 2, 2018",53 days,13
+Moses Simon,17/18,Foot injury,"Nov 2, 2017","Nov 17, 2017",16 days,3
+Moses Simon,16/17,Torn muscle fiber,"Sep 16, 2016","Sep 30, 2016",15 days,4
+Herba Guirassy,24/25,Injury to the ankle,"Sep 6, 2024","Oct 12, 2024",37 days,4
+Mostafa Mohamed,24/25,Hamstring injury,"Sep 6, 2024","Sep 16, 2024",11 days,2
+Mostafa Mohamed,21/22,Fitness,"Apr 11, 2022","Apr 19, 2022",9 days,1
+Mostafa Mohamed,21/22,Thigh problems,"Mar 29, 2022","Apr 11, 2022",14 days,2
+Mostafa Mohamed,20/21,Bone edema,"Jun 27, 2021","Jul 5, 2021",9 days,-
+Mostafa Mohamed,20/21,Quarantine,"Apr 21, 2021","Apr 24, 2021",4 days,2
+Mostafa Mohamed,20/21,Corona virus,"Apr 13, 2021","Apr 21, 2021",9 days,2
+Meschack Elia,24/25,unknown injury,"Dec 5, 2024","Dec 8, 2024",4 days,1
+Meschack Elia,22/23,Ill,"Aug 20, 2022","Aug 23, 2022",4 days,1
+Meschack Elia,21/22,Ankle injury,"Jan 28, 2022","Feb 24, 2022",28 days,5
+Meschack Elia,21/22,unknown injury,"Jul 29, 2021","Aug 2, 2021",5 days,1
+Meschack Elia,20/21,Knee injury,"Apr 29, 2021","May 19, 2021",21 days,4
+Meschack Elia,19/20,Syndesmotic ligament tear,"Aug 1, 2020","Sep 17, 2020",48 days,6
+Tino Kadewere,24/25,Dead leg,"Nov 8, 2024",,147 days,19
+Tino Kadewere,24/25,Calf injury,"Sep 27, 2024","Oct 7, 2024",11 days,2
+Tino Kadewere,24/25,Knock,"Sep 6, 2024","Sep 13, 2024",8 days,-
+Tino Kadewere,23/24,Calf injury,"Apr 13, 2024","Apr 25, 2024",13 days,2
+Tino Kadewere,23/24,Muscle injury,"Sep 4, 2023","Sep 22, 2023",19 days,1
+Tino Kadewere,22/23,Leg injury,"Sep 10, 2022","Oct 28, 2022",49 days,8
+Tino Kadewere,21/22,Dead leg,"Apr 15, 2022","Apr 19, 2022",5 days,1
+Tino Kadewere,21/22,Dead leg,"Feb 3, 2022","Feb 10, 2022",8 days,1
+Tino Kadewere,21/22,Leg injury,"Sep 4, 2021","Sep 26, 2021",23 days,6
+Tino Kadewere,20/21,Dead leg,"May 10, 2021","May 31, 2021",22 days,2
+Tino Kadewere,20/21,Dead leg,"Apr 6, 2021","Apr 24, 2021",19 days,4
+Tino Kadewere,19/20,Dead leg,"Feb 1, 2020","Feb 27, 2020",27 days,4
+Tino Kadewere,18/19,Torn lateral knee ligament,"Jul 4, 2018","Oct 17, 2018",106 days,19
+Tino Kadewere,16/17,Hamstring injury,"May 13, 2017","Aug 6, 2017",86 days,11
+Arthur Desmas,23/24,Ill,"Feb 24, 2024","Feb 27, 2024",4 days,1
+Arthur Desmas,22/23,Broken finger,"Mar 25, 2023","Apr 21, 2023",28 days,3
+Arthur Desmas,22/23,Metatarsal fracture,"Jan 12, 2023","Jan 29, 2023",18 days,2
+Arthur Desmas,21/22,Head injury,"Apr 18, 2022","May 15, 2022",28 days,5
+Arthur Desmas,21/22,Hand injury,"Mar 22, 2022","Apr 8, 2022",18 days,1
+Arthur Desmas,21/22,Ill,"Jan 18, 2022","Jan 21, 2022",4 days,1
+Arouna Sangante,24/25,Pelvic injury,"Feb 17, 2025","Mar 17, 2025",29 days,4
+Arouna Sangante,24/25,Adductor pain,"Oct 18, 2024","Jan 4, 2025",79 days,9
+Arouna Sangante,24/25,Muscle injury,"Aug 15, 2024","Aug 23, 2024",9 days,1
+Arouna Sangante,23/24,Leg injury,"Mar 23, 2024","Mar 30, 2024",8 days,-
+Arouna Sangante,23/24,Knee bruise,"Sep 30, 2023","Oct 7, 2023",8 days,1
+Étienne Youté Kinkoué,23/24,Muscle strain,"Dec 21, 2023","Jan 13, 2024",24 days,1
+Gautier Lloris,23/24,Hamstring injury,"Apr 13, 2024","Apr 20, 2024",8 days,1
+Gautier Lloris,23/24,Calf injury,"Feb 5, 2024","Feb 9, 2024",5 days,1
+Gautier Lloris,22/23,Calf injury,"Jan 29, 2023","Mar 25, 2023",56 days,8
+Gautier Lloris,21/22,Metatarsal fracture,"Jul 18, 2021","Nov 12, 2021",118 days,15
+Gautier Lloris,19/20,Calf injury,"Jan 3, 2020","Feb 14, 2020",43 days,8
+Gautier Lloris,19/20,Strain in the thigh and gluteal muscles,"Sep 16, 2019","Oct 20, 2019",35 days,5
+Gautier Lloris,19/20,Pubalgia,"Jul 26, 2019","Aug 26, 2019",32 days,2
+Gautier Lloris,16/17,Knock,"Dec 22, 2016","Feb 2, 2017",43 days,4
+Gautier Lloris,16/17,Knock,"Aug 13, 2016","Nov 24, 2016",104 days,18
+Gautier Lloris,15/16,Knock,"Feb 29, 2016","Mar 14, 2016",15 days,2
+Gautier Lloris,14/15,Leg injury,"Sep 23, 2014","Oct 10, 2014",18 days,2
+Gautier Lloris,14/15,Leg injury,"Aug 5, 2014","Aug 31, 2014",27 days,-
+Fodé Ballo-Touré,24/25,Injury to the ankle,"Feb 3, 2025","Feb 22, 2025",20 days,2
+Fodé Ballo-Touré,22/23,Acromioclavicular joint dislocation,"Dec 30, 2022","Jan 28, 2023",30 days,10
+Fodé Ballo-Touré,21/22,Adductor pain,"Feb 9, 2022","Feb 12, 2022",4 days,1
+Fodé Ballo-Touré,21/22,Corona virus,"Jan 12, 2022","Jan 16, 2022",5 days,2
+Fodé Ballo-Touré,21/22,Ankle problems,"Nov 2, 2021","Nov 5, 2021",4 days,1
+Fodé Ballo-Touré,21/22,Ankle injury,"Oct 23, 2021","Oct 30, 2021",8 days,2
+Fodé Ballo-Touré,20/21,Metatarsal fracture,"Sep 27, 2020","Nov 2, 2020",37 days,6
+Timothée Pembélé,23/24,Knee injury,"Sep 1, 2023","Dec 17, 2023",108 days,18
+Timothée Pembélé,21/22,Cruciate ligament injury,"Apr 11, 2022","Jan 16, 2023",281 days,34
+Timothée Pembélé,20/21,Corona virus,"Feb 4, 2021","Feb 18, 2021",15 days,4
+Oualid El Hajjam,23/24,Knock,"Aug 1, 2023","Aug 15, 2023",15 days,1
+Oualid El Hajjam,21/22,Knock,"Feb 10, 2022","Mar 10, 2022",29 days,4
+Oualid El Hajjam,18/19,Injury to the ankle,"Sep 16, 2018","Sep 20, 2018",5 days,-
+Abdoulaye Touré,24/25,Rib fracture,"Jan 13, 2025","Feb 17, 2025",36 days,5
+Abdoulaye Touré,22/23,unknown injury,"Nov 10, 2022","Mar 13, 2023",124 days,18
+Abdoulaye Touré,21/22,unknown injury,"Feb 15, 2022","Feb 23, 2022",9 days,1
+Abdoulaye Touré,20/21,Virus,"Aug 10, 2020","Sep 15, 2020",37 days,3
+Abdoulaye Touré,19/20,Ill,"Dec 4, 2019","Dec 7, 2019",4 days,1
+Abdoulaye Touré,16/17,unknown injury,"Jul 7, 2016","Oct 10, 2016",96 days,11
+Aloïs Confais,23/24,Back injury,"Aug 20, 2023","Oct 21, 2023",63 days,8
+Aloïs Confais,16/17,Head injury,"Oct 31, 2016","Dec 8, 2016",39 days,6
+Yassine Kechta,24/25,Dead leg,"Feb 24, 2025","Mar 4, 2025",9 days,1
+Yassine Kechta,22/23,Broken fibula,"Apr 2, 2023","Jun 30, 2023",90 days,28
+Daler Kuzyaev,24/25,Calf injury,"Jan 6, 2025","Mar 3, 2025",57 days,8
+Daler Kuzyaev,24/25,Groin injury,"Oct 20, 2024","Nov 3, 2024",15 days,3
+Daler Kuzyaev,22/23,Bruised knee,"Aug 31, 2022","Sep 2, 2022",3 days,1
+Daler Kuzyaev,22/23,Inner ligament injury,"Jul 22, 2022","Aug 19, 2022",29 days,4
+Daler Kuzyaev,21/22,Muscle injury,"Oct 20, 2021","Nov 22, 2021",34 days,6
+Daler Kuzyaev,18/19,Meniscus injury,"Mar 21, 2019","Jul 30, 2019",132 days,14
+Daler Kuzyaev,18/19,Rib fracture,"Feb 4, 2019","Mar 5, 2019",30 days,3
+Daler Kuzyaev,18/19,concussion,"Oct 21, 2018","Oct 23, 2018",3 days,1
+Daler Kuzyaev,17/18,ankle sprain,"Mar 12, 2018","Apr 17, 2018",37 days,4
+Mahamadou Diawara,24/25,Knee injury,"Oct 25, 2024","Nov 8, 2024",15 days,3
+Antoine Joujou,23/24,Injury to the ankle,"Sep 4, 2023","Oct 28, 2023",55 days,5
+Issa Soumaré,24/25,Groin injury,"Dec 5, 2024","Jan 11, 2025",38 days,4
+Issa Soumaré,24/25,Injury to the ankle,"Aug 15, 2024","Aug 23, 2024",9 days,1
+Josué Casimir,24/25,Hamstring injury,"Feb 15, 2025","Feb 17, 2025",3 days,1
+Josué Casimir,24/25,Ankle injury,"Dec 2, 2024","Dec 31, 2024",30 days,3
+Josué Casimir,24/25,Knee injury,"Oct 24, 2024","Nov 4, 2024",12 days,2
+Josué Casimir,24/25,Injury to the ankle,"Sep 29, 2024","Oct 10, 2024",12 days,1
+Josué Casimir,23/24,Meniscus injury,"Mar 11, 2024","Mar 30, 2024",20 days,1
+Josué Casimir,22/23,Injury to the ankle,"Feb 10, 2023","Feb 28, 2023",19 days,3
+Ilyes Housni,23/24,Knee injury,"Nov 22, 2023","Nov 30, 2023",9 days,1
+Ahmed Hassan,23/24,unknown injury,"Oct 26, 2023","Nov 26, 2023",32 days,5
+Ahmed Hassan,23/24,Fitness,"Sep 15, 2023","Oct 1, 2023",17 days,3
+Ahmed Hassan,22/23,Knee injury,"Apr 28, 2023","Sep 15, 2023",141 days,?
+Ahmed Hassan,22/23,Rib fracture,"Jul 19, 2022","Jul 23, 2022",5 days,1
+Ahmed Hassan,21/22,Tonsillitis,"Mar 12, 2022","Mar 14, 2022",3 days,1
+Ahmed Hassan,21/22,Calf strain,"Feb 8, 2022","Feb 12, 2022",5 days,1
+Ahmed Hassan,21/22,unknown injury,"Oct 29, 2021","Nov 13, 2021",16 days,3
+Ahmed Hassan,21/22,unknown injury,"Oct 12, 2021","Oct 20, 2021",9 days,1
+Ahmed Hassan,21/22,unknown injury,"Aug 18, 2021","Aug 25, 2021",8 days,1
+Ahmed Hassan,20/21,Muscle injury,"Apr 15, 2021","Apr 20, 2021",6 days,1
+Ahmed Hassan,20/21,Muscle injury,"Mar 14, 2021","Mar 26, 2021",13 days,4
+Ahmed Hassan,20/21,unknown injury,"Dec 4, 2020","Jan 2, 2021",30 days,5
+Ahmed Hassan,20/21,Corona virus,"Nov 18, 2020","Dec 3, 2020",16 days,4
+Ahmed Hassan,19/20,Injury to the ankle,"Oct 22, 2019","Dec 31, 2019",71 days,16
+Ahmed Hassan,18/19,Knee injury,"Nov 11, 2018","Dec 22, 2018",42 days,9
+André Ayew,18/19,unknown injury,"May 20, 2019","May 27, 2019",8 days,2
+André Ayew,18/19,Broken finger,"Nov 25, 2018","Dec 14, 2018",20 days,6
+André Ayew,18/19,unknown injury,"Aug 1, 2018","Aug 10, 2018",10 days,1
+André Ayew,17/18,Hamstring injury,"Jan 16, 2018","Feb 10, 2018",26 days,7
+André Ayew,17/18,Ill,"Nov 16, 2017","Nov 24, 2017",9 days,2
+André Ayew,16/17,Hamstring injury,"Aug 16, 2016","Oct 25, 2016",71 days,15
+André Ayew,14/15,Adductor injury,"Nov 20, 2014","Dec 5, 2014",16 days,3
+André Ayew,13/14,Meniscus damage,"Nov 22, 2013","Feb 6, 2014",77 days,23
+André Ayew,11/12,Shoulder injury,"Apr 24, 2012","Jul 24, 2012",92 days,7
+Elysée Logbo,24/25,Shoulder injury,"Jan 14, 2025",,80 days,10
+Elysée Logbo,23/24,Cruciate ligament tear,"Mar 10, 2024","Dec 15, 2024",281 days,25
+Elysée Logbo,23/24,Cut,"Jan 3, 2024","Feb 16, 2024",45 days,7
+Yann Kitala,24/25,Foot injury,"Oct 4, 2024","Oct 23, 2024",20 days,2
+Yann Kitala,23/24,Muscle injury,"Mar 30, 2024","May 18, 2024",50 days,7
+Yann Kitala,20/21,Broken tibia,"Aug 22, 2020","Jun 24, 2021",307 days,41
+Donovan Léon,24/25,Dead leg,"Dec 20, 2024","Jan 13, 2025",25 days,3
+Théo De Percin,24/25,Knock,"Dec 2, 2024","Jan 2, 2025",32 days,3
+Sinaly Diomandé,24/25,Adductor pain,"Feb 9, 2025","Feb 24, 2025",16 days,3
+Sinaly Diomandé,22/23,Dead leg,"Aug 18, 2022","Aug 29, 2022",12 days,2
+Sinaly Diomandé,21/22,Ankle surgery,"Mar 7, 2022","May 30, 2022",85 days,17
+Sinaly Diomandé,21/22,Injury to the ankle,"Nov 22, 2021","Jan 24, 2022",64 days,13
+Gabriel Osho,24/25,Knee injury,"Jan 1, 2025","Jan 15, 2025",15 days,2
+Gabriel Osho,23/24,Knee injury,"Mar 9, 2024","Apr 15, 2024",38 days,9
+Gabriel Osho,23/24,Knee problems,"Aug 1, 2023","Nov 1, 2023",93 days,15
+Gabriel Osho,22/23,Knee injury,"Apr 8, 2023","May 5, 2023",28 days,5
+Gabriel Osho,22/23,unknown injury,"Oct 1, 2022","Oct 20, 2022",20 days,4
+Gabriel Osho,21/22,Hamstring injury,"Mar 5, 2022","Jun 23, 2022",111 days,21
+Clément Akpa,24/25,Dead leg,"Aug 18, 2024","Sep 4, 2024",18 days,3
+Jubal,24/25,Adductor pain,"Jan 15, 2025","Jan 21, 2025",7 days,1
+Jubal,24/25,Dead leg,"Oct 5, 2024","Oct 13, 2024",9 days,1
+Jubal,23/24,Broken nose bone,"Oct 1, 2023","Oct 18, 2023",18 days,1
+Jubal,19/20,flu,"Jan 8, 2020","Jan 13, 2020",6 days,1
+Jubal,18/19,unknown injury,"Jul 1, 2018","Feb 1, 2019",216 days,24
+Jubal,17/18,unknown injury,"Feb 13, 2018","Mar 8, 2018",24 days,3
+Jubal,17/18,unknown injury,"Nov 6, 2017","Nov 20, 2017",15 days,2
+Gideon Mensah,24/25,Knee injury,"Jul 13, 2024","Sep 23, 2024",73 days,5
+Gideon Mensah,23/24,Knee injury,"Feb 18, 2024","Mar 8, 2024",20 days,2
+Gideon Mensah,22/23,Knee injury,"Apr 3, 2023","Apr 20, 2023",18 days,2
+Gideon Mensah,22/23,concussion,"Jan 12, 2023","Jan 25, 2023",14 days,4
+Gideon Mensah,22/23,Dead leg,"Oct 21, 2022","Oct 27, 2022",7 days,1
+Gideon Mensah,21/22,Quarantine,"Sep 10, 2021","Sep 17, 2021",8 days,1
+Gideon Mensah,20/21,Corona virus,"Oct 13, 2020","Oct 29, 2020",17 days,2
+Gideon Mensah,18/19,surgery,"Jul 26, 2018","Sep 27, 2018",64 days,9
+Gideon Mensah,17/18,unknown injury,"Nov 16, 2017","Jan 7, 2018",53 days,3
+Fredrik Oppegård,24/25,unknown injury,"Aug 29, 2024","Oct 7, 2024",40 days,9
+Fredrik Oppegård,23/24,surgery,"Jul 10, 2023","Sep 20, 2023",73 days,12
+Fredrik Oppegård,22/23,Knee injury,"Apr 5, 2023","Jun 30, 2023",87 days,8
+Fredrik Oppegård,22/23,unknown injury,"Aug 22, 2022","Sep 30, 2022",40 days,9
+Fredrik Oppegård,21/22,Appendectomy,"Apr 21, 2022","Jun 6, 2022",47 days,4
+Fredrik Oppegård,21/22,bruise,"Sep 30, 2021","Feb 7, 2022",131 days,21
+Fredrik Oppegård,20/21,Ill,"Feb 18, 2021","Feb 22, 2021",5 days,1
+Paul Joly,24/25,Knee injury,"Oct 6, 2024","Nov 12, 2024",38 days,4
+Ange Loïc N'Gatta,24/25,Calf injury,"Jul 28, 2024","Sep 22, 2024",57 days,5
+Ange Loïc N'Gatta,24/25,Dead leg,"Jul 28, 2024","Sep 12, 2024",47 days,3
+Ange Loïc N'Gatta,23/24,Knee injury,"Feb 1, 2024","May 30, 2024",120 days,16
+Ange Loïc N'Gatta,23/24,Knee injury,"Aug 27, 2023","Jan 16, 2024",143 days,19
+Elisha Owusu,22/23,Achilles tendon contusion,"Jan 28, 2023","May 15, 2023",108 days,19
+Elisha Owusu,22/23,Muscle injury,"Oct 21, 2022","Oct 28, 2022",8 days,2
+Elisha Owusu,22/23,Syndesmotic ligament tear,"Aug 4, 2022","Sep 12, 2022",40 days,9
+Elisha Owusu,20/21,bruise,"May 16, 2021","May 20, 2021",5 days,2
+Elisha Owusu,20/21,Corona virus,"Nov 6, 2020","Nov 20, 2020",15 days,3
+Elisha Owusu,20/21,Bruised knee,"Oct 4, 2020","Oct 26, 2020",23 days,6
+Assane Dioussé,20/21,unknown injury,"Apr 7, 2021","Apr 17, 2021",11 days,3
+Assane Dioussé,20/21,unknown injury,"Dec 12, 2020","Dec 21, 2020",10 days,3
+Assane Dioussé,20/21,Injury to the ankle,"Nov 22, 2020","Nov 28, 2020",7 days,2
+Nathan Buayi-Kiala,24/25,Cruciate ligament injury,"Jan 6, 2025","Nov 1, 2025",300 days,18
+Nathan Buayi-Kiala,23/24,Cruciate ligament injury,"Apr 21, 2024","Jan 1, 2025",256 days,21
+Han-Noah Massengo,20/21,Ankle injury,"Oct 19, 2020","Oct 26, 2020",8 days,2
+Han-Noah Massengo,20/21,Ankle injury,"Sep 13, 2020","Oct 4, 2020",22 days,5
+Kévin Danois,24/25,Dead leg,"Jan 1, 2025","Feb 3, 2025",34 days,5
+Hamed Junior Traoré,24/25,Ill,"Dec 13, 2024","Dec 29, 2024",17 days,2
+Hamed Junior Traoré,23/24,Fitness,"Jan 10, 2024","Feb 1, 2024",23 days,6
+Hamed Junior Traoré,23/24,malaria,"Dec 4, 2023","Jan 10, 2024",38 days,6
+Hamed Junior Traoré,22/23,Foot injury,"Apr 5, 2023","Jun 5, 2023",62 days,9
+Hamed Junior Traoré,22/23,Foot injury,"Feb 26, 2023","Mar 12, 2023",15 days,2
+Hamed Junior Traoré,22/23,Metatarsal fracture,"Jun 30, 2022","Oct 15, 2022",108 days,13
+Hamed Junior Traoré,21/22,minor knock,"Apr 28, 2022","May 9, 2022",12 days,2
+Hamed Junior Traoré,21/22,influenza,"Oct 14, 2021","Oct 21, 2021",8 days,1
+Hamed Junior Traoré,19/20,Ankle sprain,"Feb 10, 2020","Mar 23, 2020",43 days,2
+Zossou,24/25,Head injury,"Jan 26, 2025","Feb 4, 2025",10 days,-
+Lasso Coulibaly,24/25,Cruciate ligament injury,"Aug 28, 2024","May 15, 2025",261 days,34
+Theo Bair,22/23,Leg injury,"Jul 19, 2022","Jul 29, 2022",11 days,2
+Florian Ayé,24/25,Injury to the ankle,"Apr 30, 2024","Jun 30, 2024",62 days,3
+Florian Ayé,21/22,unknown injury,"Oct 15, 2021","Nov 19, 2021",36 days,5
+Florian Ayé,21/22,unknown injury,"Aug 21, 2021","Sep 24, 2021",35 days,5
+Yahia Fofana,22/23,Meniscus injury,"Nov 28, 2022","Feb 28, 2023",93 days,17
+Yahia Fofana,22/23,Meniscus injury,"Oct 19, 2022","Oct 26, 2022",8 days,1
+Emmanuel Biumla,24/25,Dead leg,"Nov 19, 2024","Dec 31, 2024",43 days,5
+Emmanuel Biumla,23/24,Hamstring injury,"Mar 31, 2024","May 31, 2024",62 days,8
+Emmanuel Biumla,23/24,Hamstring injury,"Feb 20, 2024","Mar 29, 2024",39 days,4
+Cédric Hountondji,24/25,Achilles tendon contusion,"Feb 1, 2025",,62 days,10
+Cédric Hountondji,24/25,Hamstring injury,"Oct 5, 2024","Dec 2, 2024",59 days,6
+Cédric Hountondji,21/22,Broken arm,"Mar 23, 2022","May 31, 2022",70 days,12
+Cédric Hountondji,21/22,Adductor injury,"Nov 7, 2021","Jan 10, 2022",65 days,11
+Cédric Hountondji,18/19,Broken shoulder,"Apr 8, 2019","May 18, 2019",41 days,6
+Cédric Hountondji,17/18,Muscle injury,"Jun 8, 2018","Mar 1, 2019",267 days,27
+Cédric Hountondji,13/14,Hip injury,"Feb 28, 2014","Mar 20, 2014",21 days,6
+Jordan Lefort,21/22,Shoulder injury,"Mar 30, 2022","Jun 30, 2022",93 days,9
+Jordan Lefort,21/22,Muscle injury,"Aug 11, 2021","Sep 8, 2021",29 days,4
+Jordan Lefort,20/21,unknown injury,"Mar 18, 2021","Apr 1, 2021",15 days,2
+Jacques Ekomié,24/25,Knee injury,"Sep 2, 2024","Sep 30, 2024",29 days,3
+Florent Hanin,18/19,unknown injury,"Sep 4, 2018","Oct 29, 2018",56 days,5
+Carlens Arcus,23/24,Ankle injury,"Dec 6, 2023","Jan 16, 2024",42 days,4
+Carlens Arcus,23/24,unknown injury,"Oct 29, 2023","Nov 2, 2023",5 days,1
+Sabanovic,23/24,Knock,"Feb 18, 2024","Mar 16, 2024",28 days,5
+Sabanovic,22/23,Dead leg,"Apr 17, 2023","May 10, 2023",24 days,3
+Sabanovic,22/23,Knock,"Jan 9, 2023","Jan 25, 2023",17 days,3
+Sabanovic,20/21,Cruciate ligament tear,"Jul 27, 2020","Jan 25, 2021",183 days,25
+Sabanovic,18/19,unknown injury,"Mar 7, 2019","Apr 22, 2019",47 days,10
+Jean-Eudes Aholou,21/22,Adductor pain,"Nov 4, 2021","Nov 9, 2021",6 days,1
+Jean-Eudes Aholou,18/19,Foot injury,"Oct 31, 2018","Feb 13, 2019",106 days,21
+Haris Belkebla,24/25,Dead leg,"Oct 18, 2024","Oct 24, 2024",7 days,1
+Haris Belkebla,21/22,Injury to the ankle,"Aug 8, 2021","Aug 31, 2021",24 days,3
+Haris Belkebla,19/20,Injury to the ankle,"Dec 15, 2019","Jan 31, 2020",48 days,6
+Haris Belkebla,19/20,Ankle injury,"Nov 20, 2019","Nov 25, 2019",6 days,1
+Yassin Belkhdim,23/24,contortion,"Jul 10, 2023","Aug 1, 2023",23 days,-
+Pierrick Capelle,21/22,unknown injury,"Apr 25, 2022","May 15, 2022",21 days,3
+Pierrick Capelle,13/14,Cruciate ligament tear,"Aug 16, 2013","Feb 16, 2014",185 days,24
+Himad Abdelli,24/25,Hamstring injury,"Feb 10, 2025","Feb 17, 2025",8 days,1
+Himad Abdelli,23/24,minor knock,"Jan 30, 2024","Feb 4, 2024",6 days,1
+Himad Abdelli,22/23,Hamstring injury,"Nov 7, 2022","Nov 30, 2022",24 days,3
+Himad Abdelli,22/23,Knee injury,"Aug 6, 2022","Aug 15, 2022",10 days,2
+Farid El Melali,20/21,Adductor injury,"Aug 31, 2020","Oct 10, 2020",41 days,4
+Farid El Melali,19/20,Cruciate ligament tear,"Jan 26, 2020","Mar 1, 2020",36 days,7
+Farid El Melali,19/20,Broken toe,"Oct 31, 2019","Dec 17, 2019",48 days,7
+Farid El Melali,19/20,Tendonitis,"Sep 18, 2019","Oct 12, 2019",25 days,4
+Jim Allevinah,23/24,Head injury,"Apr 7, 2024","Sep 9, 2024",156 days,9
+Jim Allevinah,23/24,Knock,"Nov 30, 2023","Dec 2, 2023",3 days,-
+Jim Allevinah,22/23,Groin injury,"Sep 12, 2022","Oct 3, 2022",22 days,2
+Jim Allevinah,21/22,Virus,"Mar 15, 2022","Apr 1, 2022",18 days,1
+Jim Allevinah,21/22,Foot injury,"Dec 6, 2021","Jan 9, 2022",35 days,6
+Jim Allevinah,21/22,Dead leg,"Sep 27, 2021","Oct 20, 2021",24 days,4
+Zinedine Ferhat,24/25,Muscle injury,"Oct 5, 2024","Nov 14, 2024",41 days,4
+Zinedine Ferhat,23/24,Calf injury,"Mar 31, 2024","May 11, 2024",42 days,7
+Zinedine Ferhat,22/23,unknown injury,"May 2, 2023","Jun 4, 2023",34 days,5
+Zinedine Ferhat,22/23,unknown injury,"Oct 29, 2022","Nov 12, 2022",15 days,4
+Zinedine Ferhat,20/21,Ankle injury,"Oct 6, 2020","Oct 28, 2020",23 days,4
+Zinedine Ferhat,19/20,Knee injury,"Oct 17, 2019","Nov 1, 2019",16 days,4
+Zinedine Ferhat,16/17,Adductor injury,"Aug 20, 2016","Aug 31, 2016",12 days,2
+Zinedine Ferhat,15/16,Thigh problems,"Apr 27, 2016","Jun 1, 2016",36 days,4
+Zinedine Ferhat,15/16,Leg injury,"Nov 9, 2015","Nov 22, 2015",14 days,4
+Zinedine Ferhat,14/15,unknown injury,"Dec 13, 2014","Mar 1, 2015",79 days,14
+Zinedine Ferhat,14/15,Knock,"Dec 3, 2014","Dec 22, 2014",20 days,2
+Zinedine Ferhat,14/15,ankle sprain,"Aug 17, 2014","Oct 5, 2014",50 days,7
+Justin Kalumba,24/25,Broken ankle,"Aug 11, 2024","Jan 13, 2025",156 days,18
+Estéban Lepaul,24/25,Groin injury,"Feb 18, 2025","Mar 7, 2025",18 days,3
+Bamba Dieng,24/25,Groin injury,"Feb 1, 2025","Feb 20, 2025",20 days,4
+Bamba Dieng,24/25,Injury to the ankle,"Sep 23, 2024","Oct 14, 2024",22 days,2
+Bamba Dieng,23/24,Adductor injury,"Aug 20, 2023","Nov 19, 2023",92 days,15
+Bamba Dieng,22/23,Injury to the ankle,"May 22, 2023","Jun 30, 2023",40 days,4
+Bamba Dieng,22/23,Groin injury,"May 8, 2023","May 18, 2023",11 days,1
+Bamba Dieng,21/22,Dead leg,"May 20, 2022","Jun 30, 2022",42 days,3
+Bamba Dieng,21/22,Corona virus,"Jan 4, 2022","Jan 12, 2022",9 days,2
+Ibrahima Niane,20/21,Cruciate ligament tear,"Oct 15, 2020","Apr 15, 2021",183 days,29
+Sidiki Chérif,24/25,Dead leg,"Feb 28, 2025",,35 days,4
+Sidiki Chérif,24/25,Dead leg,"Sep 24, 2024","Jan 25, 2025",124 days,15
+Adrien Hunou,18/19,Ligament injury,"Jul 24, 2018","Oct 31, 2018",100 days,14
+Gautier Larsonneur,23/24,Shoulder injury,"Oct 28, 2023","Dec 3, 2023",37 days,6
+Brice Maubleu,23/24,Ill,"Feb 23, 2024","Feb 25, 2024",3 days,1
+Brice Maubleu,23/24,Back injury,"Dec 4, 2023","Dec 30, 2023",27 days,4
+Boubacar Fall,22/23,Meniscus injury,"Mar 9, 2023","Sep 9, 2023",185 days,17
+Boubacar Fall,22/23,unknown injury,"Jul 15, 2022","Sep 2, 2022",50 days,9
+Mickaël Nade,24/25,Collateral ligament injury,"Nov 11, 2024","Dec 23, 2024",43 days,5
+Dylan Batubinsika,23/24,unknown injury,"Oct 29, 2023","Nov 30, 2023",33 days,5
+Dylan Batubinsika,22/23,Hamstring injury,"Nov 14, 2022","Jan 1, 2023",49 days,4
+Dylan Batubinsika,21/22,Corona virus,"Jan 21, 2022","Jan 30, 2022",10 days,1
+Dylan Batubinsika,21/22,unknown injury,"Aug 26, 2021","Sep 13, 2021",19 days,2
+Dylan Batubinsika,19/20,Knee injury,"Jan 20, 2020","Feb 24, 2020",36 days,7
+Yunis Abdelhamid,20/21,Thigh problems,"Feb 10, 2021","Feb 24, 2021",15 days,2
+Yunis Abdelhamid,20/21,Corona virus,"Sep 9, 2020","Sep 17, 2020",9 days,2
+Anthony Briançon,24/25,Knee injury,"Aug 16, 2024","Dec 15, 2024",122 days,15
+Anthony Briançon,22/23,Calf injury,"Apr 4, 2023","May 8, 2023",35 days,5
+Anthony Briançon,22/23,open wound,"Jan 29, 2023","Feb 18, 2023",21 days,3
+Anthony Briançon,22/23,Dead leg,"Oct 30, 2022","Dec 5, 2022",37 days,2
+Anthony Briançon,22/23,unknown injury,"Aug 2, 2022","Aug 18, 2022",17 days,2
+Anthony Briançon,21/22,Knee surgery,"Jul 10, 2021","Nov 14, 2021",128 days,16
+Anthony Briançon,20/21,Knee surgery,"Apr 5, 2021","Jun 30, 2021",87 days,7
+Anthony Briançon,20/21,Muscle injury,"Feb 22, 2021","Mar 22, 2021",29 days,5
+Anthony Briançon,20/21,Knee injury,"Dec 14, 2020","Jan 4, 2021",22 days,3
+Anthony Briançon,20/21,Knee injury,"Nov 10, 2020","Dec 10, 2020",31 days,3
+Anthony Briançon,20/21,Corona virus,"Aug 20, 2020","Sep 12, 2020",24 days,2
+Anthony Briançon,19/20,Groin injury,"Jan 16, 2020","Feb 7, 2020",23 days,4
+Pierre Cornud,24/25,Hamstring injury,"Sep 21, 2024","Nov 9, 2024",50 days,5
+Pierre Cornud,23/24,Fever,"Aug 2, 2023","Aug 4, 2023",3 days,1
+Pierre Cornud,22/23,Hamstring injury,"Feb 13, 2023","Feb 23, 2023",11 days,1
+Pierre Cornud,22/23,Hamstring injury,"Jan 6, 2023","Jan 29, 2023",24 days,4
+Léo Pétrot,24/25,Pubalgia,"Jun 4, 2024","Aug 19, 2024",77 days,1
+Léo Pétrot,22/23,unknown injury,"Oct 5, 2022","Oct 20, 2022",16 days,2
+Yvann Maçon,24/25,Knee injury,"Nov 21, 2024","Jan 26, 2025",67 days,9
+Yvann Maçon,24/25,Meniscus injury,"Sep 12, 2024","Nov 2, 2024",52 days,7
+Yvann Maçon,21/22,Knee injury,"Feb 17, 2022","Apr 19, 2022",62 days,8
+Yvann Maçon,21/22,Calf injury,"Sep 13, 2021","Oct 15, 2021",33 days,4
+Yvann Maçon,20/21,Cruciate ligament tear,"Oct 13, 2020","Apr 13, 2021",183 days,29
+Dennis Appiah,24/25,Knock,"Aug 13, 2024","Aug 23, 2024",11 days,1
+Dennis Appiah,23/24,Dead leg,"Mar 10, 2024","Apr 21, 2024",43 days,5
+Dennis Appiah,22/23,Adductor pain,"Apr 20, 2023","Apr 24, 2023",5 days,1
+Dennis Appiah,21/22,Virus,"Jan 13, 2022","Jan 20, 2022",8 days,1
+Dennis Appiah,21/22,Dead leg,"Sep 8, 2021","Sep 30, 2021",23 days,6
+Dennis Appiah,20/21,Dead leg,"Mar 1, 2021","Mar 18, 2021",18 days,2
+Dennis Appiah,19/20,Groin injury,"Feb 1, 2020","Feb 12, 2020",12 days,2
+Dennis Appiah,24/25,Strain in the thigh and gluteal muscles,"Oct 26, 2019","Nov 20, 2019",26 days,8
+Dennis Appiah,17/18,Neck injury,"Mar 22, 2018","Jul 12, 2018",113 days,39
+Dennis Appiah,16/17,Calf muscle tear,"Aug 19, 2016","Dec 27, 2016",131 days,49
+Dennis Appiah,14/15,Pubalgia,"Nov 20, 2014","Dec 15, 2014",26 days,5
+Dennis Appiah,11/12,Thigh problems,"May 7, 2012","Jun 23, 2012",48 days,12
+Louis Mouton,23/24,Foot injury,"Apr 7, 2024","May 2, 2024",26 days,4
+Louis Mouton,22/23,Ankle sprain,"Apr 24, 2023","May 22, 2023",29 days,4
+Lamine Fomba,22/23,Knee injury,"May 30, 2023","Jul 1, 2023",33 days,1
+Aïmen Moueffek,24/25,flu,"Jan 10, 2025","Jan 17, 2025",8 days,1
+Aïmen Moueffek,24/25,Knock,"Dec 6, 2024","Dec 31, 2024",26 days,3
+Aïmen Moueffek,24/25,Dead leg,"Jul 22, 2024","Aug 30, 2024",40 days,2
+Aïmen Moueffek,23/24,Dead leg,"Feb 18, 2024","Mar 8, 2024",20 days,2
+Aïmen Moueffek,23/24,Injury to the ankle,"Aug 15, 2023","Aug 22, 2023",8 days,1
+Aïmen Moueffek,22/23,Muscle injury,"Feb 13, 2023","Mar 24, 2023",40 days,7
+Aïmen Moueffek,22/23,Injury to the ankle,"Aug 13, 2022","Aug 30, 2022",18 days,4
+Aïmen Moueffek,21/22,Muscle injury,"Apr 1, 2022","May 10, 2022",40 days,6
+Aïmen Moueffek,21/22,Corona virus,"Jan 13, 2022","Jan 20, 2022",8 days,1
+Aïmen Moueffek,21/22,Broken arm,"Aug 28, 2021","Sep 15, 2021",19 days,2
+Florian Tardieu,22/23,Achilles tendon problems,"Jan 21, 2023","May 12, 2023",112 days,15
+Florian Tardieu,22/23,Heel injury,"Oct 17, 2022","Dec 15, 2022",60 days,4
+Florian Tardieu,21/22,Foot injury,"Sep 21, 2021","Nov 10, 2021",51 days,7
+Florian Tardieu,18/19,Torn ligaments,"Jul 7, 2018","Jul 30, 2018",24 days,1
+Augustine Boakye,24/25,Injury to the ankle,"Mar 27, 2025",,8 days,1
+Augustine Boakye,24/25,Dead leg,"Nov 29, 2024","Jan 3, 2025",36 days,4
+Augustine Boakye,24/25,Leg injury,"Aug 30, 2024","Sep 24, 2024",26 days,3
+Augustine Boakye,23/24,muscular problems,"May 3, 2024","May 10, 2024",8 days,1
+Augustine Boakye,23/24,Torn muscle fiber in the adductor area,"Apr 5, 2024","Apr 22, 2024",18 days,3
+Augustine Boakye,23/24,Ill,"Feb 10, 2024","Feb 12, 2024",3 days,1
+Augustine Boakye,22/23,Syndesmosis ligament tear,"Jun 5, 2023","Jul 8, 2023",34 days,1
+Augustine Boakye,22/23,Syndesmosis ligament tear,"Jan 1, 2023","Mar 31, 2023",90 days,7
+Augustine Boakye,21/22,Knee problems,"Apr 25, 2022","Jun 30, 2022",67 days,4
+Augustine Boakye,21/22,Meniscus injury,"Feb 26, 2022","Apr 24, 2022",58 days,9
+Augustine Boakye,21/22,Quarantine,"Aug 31, 2021","Sep 3, 2021",4 days,-
+Igor Miladinovic,24/25,Ill,"Aug 30, 2024","Sep 7, 2024",9 days,1
+Ben Old,24/25,Torn lateral knee ligament,"Oct 18, 2024","Mar 25, 2025",159 days,20
+Ben Old,24/25,Adductor pain,"Aug 25, 2024","Sep 7, 2024",14 days,1
+Ben Old,22/23,unknown injury,"Apr 2, 2023","Oct 1, 2023",183 days,9
+Zuriko Davitashvili,24/25,Ill,"Jan 3, 2025","Jan 5, 2025",3 days,1
+Zuriko Davitashvili,21/22,Knee injury,"Dec 11, 2021","Jan 16, 2022",37 days,1
+Zuriko Davitashvili,20/21,Corona virus,"Sep 12, 2020","Oct 12, 2020",31 days,5
+Lucas Stassin,23/24,Broken fibula,"Jan 12, 2024","Mar 14, 2024",63 days,9
+Irvin Cardona,23/24,Ill,"Dec 1, 2023","Dec 6, 2023",6 days,1
+Irvin Cardona,23/24,Knee problems,"Nov 22, 2023","Nov 30, 2023",9 days,1
+Irvin Cardona,22/23,Foot injury,"Jan 23, 2023","Mar 3, 2023",40 days,6
+Irvin Cardona,19/20,Knee problems,"Sep 11, 2019","Sep 26, 2019",16 days,3
+Irvin Cardona,19/20,Fitness,"Aug 9, 2019","Aug 18, 2019",10 days,2
+Irvin Cardona,18/19,Leg injury,"Mar 30, 2019","May 17, 2019",49 days,10
+Irvin Cardona,18/19,Hamstring injury,"Jul 16, 2018","Oct 19, 2018",96 days,11
+Irvin Cardona,17/18,Bruised back,"Feb 17, 2018","Feb 25, 2018",9 days,2
+Irvin Cardona,17/18,Leg injury,"Oct 7, 2017","Nov 24, 2017",49 days,10
+Irvin Cardona,17/18,Dead leg,"Sep 17, 2017","Sep 29, 2017",13 days,4
+Ibrahim Sissoko,24/25,Ill,"Feb 20, 2025","Feb 21, 2025",2 days,-
+Ibrahim Sissoko,23/24,Calf injury,"Mar 14, 2024","May 5, 2024",53 days,10
+Ibrahim Sissoko,20/21,Knee surgery,"Jul 1, 2020","Nov 30, 2020",153 days,14
+Ibrahima Wadji,24/25,Muscle injury,"Dec 6, 2024","Mar 5, 2025",90 days,12
+Ibrahima Wadji,24/25,Muscle injury,"Sep 11, 2024","Nov 9, 2024",60 days,7
+Ibrahima Wadji,24/25,Dead leg,"Jul 29, 2024","Aug 23, 2024",26 days,1
+Ibrahima Wadji,23/24,Dead leg,"May 1, 2024","May 31, 2024",31 days,5
+Ibrahima Wadji,23/24,Dead leg,"Feb 16, 2024","Apr 14, 2024",59 days,8
+Ibrahima Wadji,23/24,Dead leg,"Oct 28, 2023","Jan 15, 2024",80 days,11
+Ibrahima Wadji,23/24,Hamstring injury,"Sep 14, 2023","Oct 18, 2023",35 days,5
+Ibrahima Wadji,23/24,Ankle sprain,"Aug 13, 2023","Sep 13, 2023",32 days,3
+Ibrahima Wadji,22/23,Injury to the ankle,"Apr 24, 2023","May 1, 2023",8 days,1
+Ibrahima Wadji,20/21,strain,"Jun 24, 2021","Jul 10, 2021",17 days,4
+Ibrahima Wadji,18/19,Achilles tendon contusion,"Aug 26, 2018","Sep 23, 2018",29 days,4
+Ibrahima Wadji,16/17,unknown injury,"Sep 23, 2016","Oct 23, 2016",31 days,4
+Ibrahima Wadji,15/16,unknown injury,"Apr 3, 2016","Apr 9, 2016",7 days,2

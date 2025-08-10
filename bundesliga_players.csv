@@ -1,0 +1,508 @@
+player_name,date_of_birth/age,height,position
+Matej Kovar,May 17 2000 (24),196 m,Goalkeeper
+Lukas Hradecky,Nov 24 1989 (35),192 m,Goalkeeper
+Niklas Lomb,Jul 28 1993 (31),186 m,Goalkeeper
+Luca Novodomsky,Apr 26 2005 (19),,Goalkeeper
+Piero Hincapié,Jan 9 2002 (23),184 m,Centre-Back
+Edmond Tapsoba,Feb 2 1999 (26),194 m,Centre-Back
+Jonathan Tah,Feb 11 1996 (29),195 m,Centre-Back
+Jeanuël Belocian,Feb 17 2005 (20),182 m,Centre-Back
+Mario Hermoso,Jun 18 1995 (29),184 m,Centre-Back
+Alejandro Grimaldo,Sep 20 1995 (29),171 m,Left-Back
+Nordi Mukiele,Nov 1 1997 (27),187 m,Right-Back
+Arthur,Mar 17 2003 (21),174 m,Right-Back
+Granit Xhaka,Sep 27 1992 (32),186 m,Defensive Midfield
+Robert Andrich,Sep 22 1994 (30),187 m,Defensive Midfield
+Exequiel Palacios,Oct 5 1998 (26),178 m,Central Midfield
+Aleix García,Jun 28 1997 (27),173 m,Central Midfield
+Jeremie Frimpong,Dec 10 2000 (24),172 m,Right Midfield
+Nathan Tella,Jul 5 1999 (25),173 m,Right Midfield
+Florian Wirtz,May 3 2003 (21),177 m,Attacking Midfield
+Emiliano Buendía,Dec 25 1996 (28),172 m,Attacking Midfield
+Jonas Hofmann,Jul 14 1992 (32),176 m,Attacking Midfield
+Amine Adli,May 10 2000 (24),174 m,Left Winger
+Martin Terrier,Mar 4 1997 (27),184 m,Left Winger
+Victor Boniface,Dec 23 2000 (24),190 m,Centre-Forward
+Patrik Schick,Jan 24 1996 (29),191 m,Centre-Forward
+Alejo Sarco,Jan 6 2006 (19),179 m,Centre-Forward
+Alexander Nübel,Sep 30 1996 (28),193 m,Goalkeeper
+Dennis Seimen,Dec 1 2005 (19),192 m,Goalkeeper
+Fabian Bredlow,Mar 2 1995 (29),190 m,Goalkeeper
+Stefan Drljaca,Apr 20 1999 (25),192 m,Goalkeeper
+Jeff Chabot,Feb 12 1998 (27),195 m,Centre-Back
+Ameen Al-Dakhil,Mar 6 2002 (22),187 m,Centre-Back
+Dan-Axel Zagadou,Jun 3 1999 (25),196 m,Centre-Back
+Finn Jeltsch,Jul 17 2006 (18),188 m,Centre-Back
+Anrie Chase,Mar 24 2004 (20),188 m,Centre-Back
+Luca Jaquez,Jun 2 2003 (21),187 m,Centre-Back
+Maximilian Mittelstädt,Mar 18 1997 (27),180 m,Left-Back
+Ramon Hendriks,Jul 18 2001 (23),189 m,Left-Back
+Josha Vagnoman,Dec 11 2000 (24),190 m,Right-Back
+Leonidas Stergiou,Mar 3 2002 (22),181 m,Right-Back
+Pascal Stenzel,Mar 20 1996 (28),183 m,Right-Back
+Angelo Stiller,Apr 4 2001 (23),183 m,Defensive Midfield
+Atakan Karazor,Oct 13 1996 (28),191 m,Defensive Midfield
+Yannik Keitel,Feb 15 2000 (25),186 m,Defensive Midfield
+Nikolas Nartey,Feb 22 2000 (25),186 m,Central Midfield
+Enzo Millot,Jul 17 2002 (22),175 m,Attacking Midfield
+Laurin Ulrich,Jan 31 2005 (20),180 m,Attacking Midfield
+Chris Führich,Jan 9 1998 (27),181 m,Left Winger
+Jacob Bruun Larsen,Sep 19 1998 (26),183 m,Left Winger
+Justin Diehl,Nov 27 2004 (20),174 m,Left Winger
+Jarzinho Malanga,Jul 10 2006 (18),179 m,Left Winger
+Jamie Leweling,Feb 26 2001 (24),185 m,Right Winger
+Fabian Rieder,Feb 16 2002 (23),179 m,Right Winger
+Luca Raimund,Apr 9 2005 (19),188 m,Right Winger
+Nick Woltemade,Feb 14 2002 (23),198 m,Second Striker
+Ermedin Demirovic,Mar 25 1998 (26),185 m,Centre-Forward
+Deniz Undav,Jul 19 1996 (28),179 m,Centre-Forward
+El Bilal Touré,Oct 3 2001 (23),185 m,Centre-Forward
+Wahid Faghir,Jul 29 2003 (21),186 m,Centre-Forward
+Mohamed Sankoh,Oct 16 2003 (21),183 m,Centre-Forward
+Thomas Kastanaras,Jan 9 2003 (22),186 m,Centre-Forward
+Manuel Neuer,Mar 27 1986 (38),193 m,Goalkeeper
+Daniel Peretz,Jul 10 2000 (24),190 m,Goalkeeper
+Jonas Urbig,Aug 8 2003 (21),189 m,Goalkeeper
+Sven Ulreich,Aug 3 1988 (36),192 m,Goalkeeper
+Dayot Upamecano,Oct 27 1998 (26),186 m,Centre-Back
+Min-jae Kim,Nov 15 1996 (28),190 m,Centre-Back
+Hiroki Ito,May 12 1999 (25),188 m,Centre-Back
+Eric Dier,Jan 15 1994 (31),191 m,Centre-Back
+Tarek Buchmann,Feb 28 2005 (19),188 m,Centre-Back
+Alphonso Davies,Nov 2 2000 (24),185 m,Left-Back
+Raphaël Guerreiro,Dec 22 1993 (31),170 m,Left-Back
+Josip Stanisic,Apr 2 2000 (24),187 m,Right-Back
+Sacha Boey,Sep 13 2000 (24),178 m,Right-Back
+Joshua Kimmich,Feb 8 1995 (30),177 m,Defensive Midfield
+Aleksandar Pavlovic,May 3 2004 (20),188 m,Defensive Midfield
+João Palhinha,Jul 9 1995 (29),190 m,Defensive Midfield
+Konrad Laimer,May 27 1997 (27),180 m,Central Midfield
+Leon Goretzka,Feb 6 1995 (30),189 m,Central Midfield
+Jamal Musiala,Feb 26 2003 (22),184 m,Attacking Midfield
+Serge Gnabry,Jul 14 1995 (29),176 m,Left Winger
+Kingsley Coman,Jun 13 1996 (28),181 m,Left Winger
+Michael Olise,Dec 12 2001 (23),184 m,Right Winger
+Leroy Sané,Jan 11 1996 (29),183 m,Right Winger
+Thomas Müller,Sep 13 1989 (35),185 m,Second Striker
+Gabriel Vidovic,Dec 1 2003 (21),180 m,Second Striker
+Harry Kane,Jul 28 1993 (31),188 m,Centre-Forward
+Maarten Vandevoordt,Feb 26 2002 (23),192 m,Goalkeeper
+Péter Gulácsi,May 6 1990 (34),193 m,Goalkeeper
+Leopold Zingerle,Apr 10 1994 (30),182 m,Goalkeeper
+Castello Lukeba,Dec 17 2002 (22),184 m,Centre-Back
+El Chadaille Bitshiabu,May 16 2005 (19),196 m,Centre-Back
+Willi Orbán,Nov 3 1992 (32),186 m,Centre-Back
+Lukas Klostermann,Jun 3 1996 (28),189 m,Centre-Back
+David Raum,Apr 22 1998 (26),181 m,Left-Back
+Lutsharel Geertruida,Jul 18 2000 (24),184 m,Right-Back
+Benjamin Henrichs,Feb 23 1997 (28),185 m,Right-Back
+Kosta Nedeljkovic,Dec 16 2005 (19),184 m,Right-Back
+Ridle Baku,Apr 8 1998 (26),176 m,Right-Back
+Arthur Vermeeren,Feb 7 2005 (20),180 m,Defensive Midfield
+Xaver Schlager,Sep 28 1997 (27),174 m,Central Midfield
+Amadou Haidara,Jan 31 1998 (27),178 m,Central Midfield
+Nicolas Seiwald,May 4 2001 (23),180 m,Central Midfield
+Assan Ouédraogo,May 9 2006 (18),191 m,Central Midfield
+Kevin Kampl,Oct 9 1990 (34),178 m,Central Midfield
+Xavi Simons,Apr 21 2003 (21),179 m,Attacking Midfield
+Christoph Baumgartner,Aug 1 1999 (25),180 m,Attacking Midfield
+Viggo Gebel,Nov 22 2007 (17),175 m,Attacking Midfield
+Antonio Nusa,Apr 17 2005 (19),183 m,Left Winger
+Tidiam Gomis,Aug 8 2006 (18),183 m,Left Winger
+Loïs Openda,Feb 16 2000 (25),177 m,Centre-Forward
+Benjamin Sesko,May 31 2003 (21),195 m,Centre-Forward
+Yussuf Poulsen,Jun 15 1994 (30),192 m,Centre-Forward
+Gregor Kobel,Dec 6 1997 (27),196 m,Goalkeeper
+Marcel Lotka,May 25 2001 (23),190 m,Goalkeeper
+Alexander Meyer,Apr 13 1991 (33),195 m,Goalkeeper
+Silas Ostrzinski,Nov 19 2003 (21),198 m,Goalkeeper
+Nico Schlotterbeck,Dec 1 1999 (25),191 m,Centre-Back
+Waldemar Anton,Jul 20 1996 (28),189 m,Centre-Back
+Niklas Süle,Sep 3 1995 (29),195 m,Centre-Back
+Filippo Mané,Mar 8 2005 (19),188 m,Centre-Back
+Ramy Bensebaini,Apr 16 1995 (29),187 m,Left-Back
+Daniel Svensson,Feb 12 2002 (23),183 m,Left-Back
+Almugera Kabar,Jun 6 2006 (18),186 m,Left-Back
+Yan Couto,Jun 3 2002 (22),168 m,Right-Back
+Julian Ryerson,Nov 17 1997 (27),183 m,Right-Back
+Salih Özcan,Jan 11 1998 (27),183 m,Defensive Midfield
+Emre Can,Jan 12 1994 (31),186 m,Defensive Midfield
+Felix Nmecha,Oct 10 2000 (24),190 m,Central Midfield
+Carney Chukwuemeka,Oct 20 2003 (21),188 m,Central Midfield
+Marcel Sabitzer,Mar 17 1994 (30),178 m,Central Midfield
+Pascal Groß,Jun 15 1991 (33),181 m,Central Midfield
+Kjell Wätjen,Feb 16 2006 (19),184 m,Central Midfield
+Julian Brandt,May 2 1996 (28),185 m,Attacking Midfield
+Giovanni Reyna,Nov 13 2002 (22),185 m,Attacking Midfield
+Jamie Gittens,Aug 8 2004 (20),178 m,Left Winger
+Julien Duranville,May 5 2006 (18),173 m,Left Winger
+Karim Adeyemi,Jan 18 2002 (23),180 m,Right Winger
+Cole Campbell,Feb 20 2006 (19),170 m,Right Winger
+Serhou Guirassy,Mar 12 1996 (28),187 m,Centre-Forward
+Maximilian Beier,Oct 17 2002 (22),185 m,Centre-Forward
+Kevin Trapp,Jul 8 1990 (34),189 m,Goalkeeper
+Kauã Santos,Apr 11 2003 (21),198 m,Goalkeeper
+Jens Grahl,Sep 22 1988 (36),192 m,Goalkeeper
+Arthur Theate,May 25 2000 (24),185 m,Centre-Back
+Robin Koch,Jul 17 1996 (28),192 m,Centre-Back
+Tuta,Jul 4 1999 (25),185 m,Centre-Back
+Aurèle Amenda,Jul 31 2003 (21),197 m,Centre-Back
+Nnamdi Collins,Jan 10 2004 (21),191 m,Centre-Back
+Nathaniel Brown,Jun 16 2003 (21),180 m,Left-Back
+Niels Nkounkou,Nov 1 2000 (24),180 m,Left-Back
+Rasmus Kristensen,Jul 11 1997 (27),187 m,Right-Back
+Timothy Chandler,Mar 29 1990 (34),187 m,Right-Back
+Ellyes Skhiri,May 10 1995 (29),185 m,Defensive Midfield
+Hugo Larsson,Jun 27 2004 (20),187 m,Central Midfield
+Mahmoud Dahoud,Jan 1 1996 (29),178 m,Central Midfield
+Oscar Højlund,Jan 4 2005 (20),187 m,Central Midfield
+Junior Dina Ebimbe,Nov 21 2000 (24),184 m,Right Midfield
+Farès Chaïbi,Nov 28 2002 (22),183 m,Attacking Midfield
+Can Uzun,Nov 11 2005 (19),186 m,Attacking Midfield
+Mario Götze,Jun 3 1992 (32),176 m,Attacking Midfield
+Krisztián Lisztes,May 6 2005 (19),183 m,Attacking Midfield
+Jean-Mattéo Bahoya,May 7 2005 (19),180 m,Left Winger
+Ansgar Knauff,Jan 10 2002 (23),180 m,Right Winger
+Hugo Ekitiké,Jun 20 2002 (22),190 m,Centre-Forward
+Elye Wahi,Jan 2 2003 (22),181 m,Centre-Forward
+Igor Matanovic,Mar 31 2003 (21),194 m,Centre-Forward
+Michy Batshuayi,Oct 2 1993 (31),185 m,Centre-Forward
+Oliver Baumann,Jun 2 1990 (34),187 m,Goalkeeper
+Luca Philipp,Nov 28 2000 (24),192 m,Goalkeeper
+Jakob Busk,Sep 12 1993 (31),189 m,Goalkeeper
+Lúkas Petersson,Feb 9 2004 (21),195 m,Goalkeeper
+Ozan Kabak,Mar 25 2000 (24),187 m,Centre-Back
+Leo Østigård,Nov 28 1999 (25),183 m,Centre-Back
+Robin Hranac,Jan 29 2000 (25),190 m,Centre-Back
+Arthur Chaves,Jan 29 2001 (24),188 m,Centre-Back
+Kevin Akpoguma,Apr 19 1995 (29),192 m,Centre-Back
+Stanley Nsoki,Apr 9 1999 (25),184 m,Centre-Back
+Alexander Prass,May 26 2001 (23),180 m,Left-Back
+David Jurásek,Aug 7 2000 (24),183 m,Left-Back
+Christopher Lenz,Sep 22 1994 (30),180 m,Left-Back
+Valentin Gendrey,Jun 21 2000 (24),179 m,Right-Back
+Pavel Kaderabek,Apr 25 1992 (32),182 m,Right-Back
+Anton Stach,Nov 15 1998 (26),194 m,Defensive Midfield
+Diadié Samassékou,Jan 11 1996 (29),177 m,Defensive Midfield
+Tom Bischof,Jun 28 2005 (19),176 m,Central Midfield
+Umut Tohumcu,Aug 11 2004 (20),175 m,Central Midfield
+Grischa Prömel,Jan 9 1995 (30),184 m,Central Midfield
+Dennis Geiger,Jun 10 1998 (26),173 m,Central Midfield
+Finn Becker,Jun 8 2000 (24),177 m,Central Midfield
+Florian Micheler,May 17 2005 (19),185 m,Central Midfield
+Andrej Kramaric,Jun 19 1991 (33),177 m,Attacking Midfield
+Bazoumana Touré,Mar 2 2006 (18),,Left Winger
+Marius Bülter,Mar 29 1993 (31),188 m,Left Winger
+Adam Hlozek,Jul 25 2002 (22),188 m,Second Striker
+Gift Orban,Jul 17 2002 (22),178 m,Centre-Forward
+Max Moerstedt,Jan 15 2006 (19),194 m,Centre-Forward
+Haris Tabakovic,Jun 20 1994 (30),194 m,Centre-Forward
+Erencan Yardımcı,Feb 4 2002 (23),188 m,Centre-Forward
+Ihlas Bebou,Apr 23 1994 (30),185 m,Centre-Forward
+David Mokwa,May 3 2004 (20),180 m,Centre-Forward
+Michael Zetterer,Jul 12 1995 (29),187 m,Goalkeeper
+Mio Backhaus,Apr 16 2004 (20),194 m,Goalkeeper
+Markus Kolke,Aug 18 1990 (34),187 m,Goalkeeper
+Marco Friedl,Mar 16 1998 (26),187 m,Centre-Back
+Niklas Stark,Apr 14 1995 (29),190 m,Centre-Back
+Milos Veljkovic,Sep 26 1995 (29),188 m,Centre-Back
+Amos Pieper,Jan 17 1998 (27),192 m,Centre-Back
+Julián Malatini,May 31 2001 (23),191 m,Centre-Back
+Anthony Jung,Nov 3 1991 (33),186 m,Centre-Back
+Derrick Köhn,Feb 4 1999 (26),180 m,Left-Back
+Felix Agu,Sep 27 1999 (25),180 m,Left-Back
+Issa Kaboré,May 12 2001 (23),180 m,Right-Back
+Mitchell Weiser,Apr 21 1994 (30),177 m,Right-Back
+Senne Lynen,Feb 19 1999 (26),185 m,Defensive Midfield
+Skelly Alvero,May 4 2002 (22),202 m,Defensive Midfield
+Jens Stage,Nov 8 1996 (28),187 m,Central Midfield
+Leonardo Bittencourt,Dec 19 1993 (31),171 m,Central Midfield
+Romano Schmid,Jan 27 2000 (25),168 m,Attacking Midfield
+Leon Opitz,Apr 11 2005 (19),183 m,Attacking Midfield
+Patrice Covic,Jun 25 2007 (17),,Attacking Midfield
+Marco Grüll,Jul 6 1998 (26),182 m,Left Winger
+Abdenego Nankishi,Jul 6 2002 (22),178 m,Left Winger
+Justin Njinmah,Nov 15 2000 (24),185 m,Right Winger
+Marvin Ducksch,Mar 7 1994 (30),188 m,Centre-Forward
+André Silva,Nov 6 1995 (29),186 m,Centre-Forward
+Keke Topp,Mar 25 2004 (20),192 m,Centre-Forward
+Oliver Burke,Apr 7 1997 (27),188 m,Centre-Forward
+Noah Atubolu,May 25 2002 (22),190 m,Goalkeeper
+Florian Müller,Nov 13 1997 (27),190 m,Goalkeeper
+Jannik Huth,Apr 15 1994 (30),185 m,Goalkeeper
+Philipp Lienhart,Jul 11 1996 (28),189 m,Centre-Back
+Matthias Ginter,Jan 19 1994 (31),189 m,Centre-Back
+Max Rosenfelder,Feb 10 2003 (22),186 m,Centre-Back
+Bruno Ogbus,Dec 17 2005 (19),185 m,Centre-Back
+Manuel Gulde,Feb 12 1991 (34),184 m,Centre-Back
+Christian Günter,Feb 28 1993 (31),184 m,Left-Back
+Jordy Makengo,Aug 3 2001 (23),191 m,Left-Back
+Kiliann Sildillia,May 16 2002 (22),186 m,Right-Back
+Lukas Kübler,Aug 30 1992 (32),182 m,Right-Back
+Nicolas Höfler,Mar 9 1990 (34),181 m,Defensive Midfield
+Maximilian Eggestein,Dec 8 1996 (28),181 m,Central Midfield
+Patrick Osterhage,Feb 1 2000 (25),186 m,Central Midfield
+Johan Manzambi,Oct 14 2005 (19),182 m,Central Midfield
+Merlin Röhl,Jul 5 2002 (22),192 m,Attacking Midfield
+Daniel-Kofi Kyereh,Mar 8 1996 (28),179 m,Attacking Midfield
+Niklas Beste,Jan 4 1999 (26),175 m,Left Winger
+Vincenzo Grifo,Apr 7 1993 (31),180 m,Left Winger
+Florent Muslija,Jul 6 1998 (26),172 m,Left Winger
+Ritsu Doan,Jun 16 1998 (26),172 m,Right Winger
+Eren Dinkçi,Dec 13 2001 (23),188 m,Right Winger
+Maximilian Philipp,Mar 1 1994 (30),183 m,Second Striker
+Junior Adamu,Jun 6 2001 (23),183 m,Centre-Forward
+Michael Gregoritsch,Apr 18 1994 (30),193 m,Centre-Forward
+Lucas Höler,Jul 10 1994 (30),184 m,Centre-Forward
+Nediljko Labrovic,Oct 10 1999 (25),196 m,Goalkeeper
+Finn Dahmen,Mar 27 1998 (26),186 m,Goalkeeper
+Daniel Klein,Mar 13 2001 (23),194 m,Goalkeeper
+Chrislain Matsima,May 15 2002 (22),193 m,Centre-Back
+Keven Schlotterbeck,Apr 28 1997 (27),188 m,Centre-Back
+Cédric Zesiger,Jun 24 1998 (26),194 m,Centre-Back
+Jeffrey Gouweleeuw,Jul 10 1991 (33),188 m,Centre-Back
+Reece Oxford,Dec 16 1998 (26),190 m,Centre-Back
+Noahkai Banks,Dec 1 2006 (18),193 m,Centre-Back
+Dimitrios Giannoulis,Oct 17 1995 (29),178 m,Left-Back
+Mads Pedersen,Sep 1 1996 (28),178 m,Left-Back
+Marius Wolf,May 27 1995 (29),188 m,Right-Back
+Robert Gumny,Jun 4 1998 (26),182 m,Right-Back
+Henri Koudossou,Sep 3 1999 (25),180 m,Right-Back
+Kristijan Jakic,May 14 1997 (27),184 m,Defensive Midfield
+Mahmut Kücüksahin,Apr 7 2004 (20),182 m,Defensive Midfield
+Frank Onyeka,Jan 1 1998 (27),183 m,Central Midfield
+Arne Maier,Jan 8 1999 (26),186 m,Central Midfield
+Elvis Rexhbecaj,Nov 1 1997 (27),182 m,Central Midfield
+Alexis Claude-Maurice,Jun 6 1998 (26),176 m,Attacking Midfield
+Fredrik Jensen,Sep 9 1997 (27),183 m,Attacking Midfield
+Mert Kömür,Jul 17 2005 (19),183 m,Attacking Midfield
+Yusuf Kabadayi,Feb 2 2004 (21),186 m,Left Winger
+Mergim Berisha,May 11 1998 (26),188 m,Centre-Forward
+Phillip Tietz,Jul 9 1997 (27),190 m,Centre-Forward
+Samuel Essende,Jan 23 1998 (27),193 m,Centre-Forward
+Steve Mounié,Sep 29 1994 (30),189 m,Centre-Forward
+Kamil Grabara,Jan 8 1999 (26),195 m,Goalkeeper
+Marius Müller,Jul 12 1993 (31),192 m,Goalkeeper
+Pavao Pervan,Nov 13 1987 (37),194 m,Goalkeeper
+Niklas Klinger,Oct 13 1995 (29),187 m,Goalkeeper
+Konstantinos Koulierakis,Nov 28 2003 (21),188 m,Centre-Back
+Sebastiaan Bornauw,Mar 22 1999 (25),191 m,Centre-Back
+Denis Vavro,Apr 10 1996 (28),189 m,Centre-Back
+Mathys Angély,Apr 21 2007 (17),190 m,Centre-Back
+David Odogu,Jun 3 2006 (18),191 m,Centre-Back
+Joakim Maehle,May 20 1997 (27),185 m,Left-Back
+Rogério,Jan 13 1998 (27),178 m,Left-Back
+Mads Roerslev,Jun 24 1999 (25),184 m,Right-Back
+Kilian Fischer,Oct 12 2000 (24),182 m,Right-Back
+Aster Vranckx,Oct 4 2002 (22),183 m,Central Midfield
+Mattias Svanberg,Jan 5 1999 (26),185 m,Central Midfield
+Maximilian Arnold,May 27 1994 (30),184 m,Central Midfield
+Yannick Gerhardt,Mar 13 1994 (30),184 m,Central Midfield
+Kevin Paredes,May 7 2003 (21),175 m,Left Midfield
+Lovro Majer,Jan 17 1998 (27),178 m,Attacking Midfield
+Bence Dárdai,Jan 24 2006 (19),189 m,Attacking Midfield
+Bennit Bröger,Jul 1 2006 (18),181 m,Attacking Midfield
+Jakub Kaminski,Jun 5 2002 (22),179 m,Left Winger
+Andreas Skov Olsen,Dec 29 1999 (25),187 m,Right Winger
+Patrick Wimmer,May 30 2001 (23),182 m,Right Winger
+Mohamed Amoura,May 9 2000 (24),170 m,Centre-Forward
+Jonas Wind,Feb 7 1999 (26),190 m,Centre-Forward
+Tiago Tomás,Jun 16 2002 (22),180 m,Centre-Forward
+Lukas Nmecha,Dec 14 1998 (26),185 m,Centre-Forward
+Kevin Behrens,Feb 3 1991 (34),185 m,Centre-Forward
+Bartosz Bialek,Nov 11 2001 (23),191 m,Centre-Forward
+Robin Zentner,Oct 28 1994 (30),195 m,Goalkeeper
+Daniel Batz,Jan 12 1991 (34),191 m,Goalkeeper
+Lasse Rieß,Jul 27 2001 (23),191 m,Goalkeeper
+Andreas Hanche-Olsen,Jan 17 1997 (28),185 m,Centre-Back
+Moritz Jenz,Apr 30 1999 (25),190 m,Centre-Back
+Maxim Leitsch,May 18 1998 (26),189 m,Centre-Back
+Stefan Bell,Aug 24 1991 (33),192 m,Centre-Back
+Danny da Costa,Jul 13 1993 (31),187 m,Centre-Back
+Maxim Dal,Jan 26 2006 (19),188 m,Centre-Back
+Phillipp Mwene,Jan 29 1994 (31),170 m,Left-Back
+Silvan Widmer,Mar 5 1993 (31),183 m,Right-Back
+Nikolas Veratschnig,Jan 24 2003 (22),180 m,Right-Back
+Kaishu Sano,Dec 30 2000 (24),176 m,Defensive Midfield
+Lennard Maloney,Oct 8 1999 (25),188 m,Defensive Midfield
+Dominik Kohr,Jan 31 1994 (31),183 m,Defensive Midfield
+Nadiem Amiri,Oct 27 1996 (28),180 m,Central Midfield
+Anthony Caci,Jul 1 1997 (27),184 m,Right Midfield
+Paul Nebel,Oct 10 2002 (22),169 m,Attacking Midfield
+Hyun-seok Hong,Jun 16 1999 (25),177 m,Attacking Midfield
+Jae-sung Lee,Aug 10 1992 (32),180 m,Attacking Midfield
+Arnaud Nordin,Jun 17 1998 (26),170 m,Right Winger
+Armindo Sieb,Feb 17 2003 (22),175 m,Second Striker
+Jonathan Burkardt,Jul 11 2000 (24),183 m,Centre-Forward
+Nelson Weiper,Mar 17 2005 (19),192 m,Centre-Forward
+Jonas Omlin,Jan 10 1994 (31),190 m,Goalkeeper
+Moritz Nicolas,Oct 21 1997 (27),193 m,Goalkeeper
+Tobias Sippel,Mar 22 1988 (36),183 m,Goalkeeper
+Ko Itakura,Jan 27 1997 (28),188 m,Centre-Back
+Nico Elvedi,Sep 30 1996 (28),189 m,Centre-Back
+Marvin Friedrich,Dec 13 1995 (29),193 m,Centre-Back
+Fabio Chiarodia,Jun 5 2005 (19),186 m,Centre-Back
+Luca Netz,May 15 2003 (21),184 m,Left-Back
+Lukas Ullrich,Mar 16 2004 (20),180 m,Left-Back
+Joe Scally,Dec 31 2002 (22),184 m,Right-Back
+Stefan Lainer,Aug 27 1992 (32),175 m,Right-Back
+Julian Weigl,Sep 8 1995 (29),186 m,Defensive Midfield
+Niklas Swider,Jan 5 2007 (18),188 m,Defensive Midfield
+Rocco Reitz,May 29 2002 (22),176 m,Central Midfield
+Philipp Sander,Feb 21 1998 (27),186 m,Central Midfield
+Florian Neuhaus,Mar 16 1997 (27),185 m,Central Midfield
+Kevin Stöger,Aug 27 1993 (31),175 m,Attacking Midfield
+Robin Hack,Aug 27 1998 (26),178 m,Left Winger
+Yvandro Borges Sanches,May 24 2004 (20),180 m,Left Winger
+Franck Honorat,Aug 11 1996 (28),180 m,Right Winger
+Nathan Ngoumou,Mar 14 2000 (24),185 m,Right Winger
+Tim Kleindienst,Aug 31 1995 (29),194 m,Centre-Forward
+Alassane Pléa,Mar 10 1993 (31),181 m,Centre-Forward
+Tomas Cvancara,Aug 13 2000 (24),190 m,Centre-Forward
+Shio Fukuda,Apr 8 2004 (20),178 m,Centre-Forward
+Frederik Rönnow,Aug 4 1992 (32),188 m,Goalkeeper
+Alexander Schwolow,Jun 2 1992 (32),190 m,Goalkeeper
+Carl Klaus,Jan 16 1994 (31),189 m,Goalkeeper
+Diogo Leite,Jan 23 1999 (26),190 m,Centre-Back
+Danilho Doekhi,Jun 30 1998 (26),190 m,Centre-Back
+Leopold Querfeld,Dec 20 2003 (21),190 m,Centre-Back
+Kevin Vogt,Sep 23 1991 (33),194 m,Centre-Back
+Oluwaseun Ogbemudia,Jul 18 2006 (18),188 m,Centre-Back
+Tom Rothe,Oct 29 2004 (20),193 m,Left-Back
+Jérôme Roussillon,Jan 6 1993 (32),175 m,Left-Back
+Josip Juranovic,Aug 16 1995 (29),173 m,Right-Back
+Christopher Trimmel,Feb 24 1987 (38),189 m,Right-Back
+Aljoscha Kemlein,Aug 2 2004 (20),187 m,Defensive Midfield
+Lucas Tousart,Apr 29 1997 (27),184 m,Defensive Midfield
+Rani Khedira,Jan 27 1994 (31),189 m,Defensive Midfield
+András Schäfer,Apr 13 1999 (25),178 m,Central Midfield
+László Bénes,Sep 9 1997 (27),181 m,Central Midfield
+Janik Haberer,Apr 2 1994 (30),187 m,Central Midfield
+Robert Skov,May 20 1996 (28),185 m,Left Midfield
+Woo-yeong Jeong,Sep 20 1999 (25),179 m,Attacking Midfield
+David Preu,Oct 26 2004 (20),172 m,Left Winger
+Tim Skarke,Sep 7 1996 (28),181 m,Right Winger
+Benedict Hollerbach,May 17 2001 (23),181 m,Centre-Forward
+Marin Ljubicic,Feb 28 2002 (22),183 m,Centre-Forward
+Kevin Volland,Jul 30 1992 (32),179 m,Centre-Forward
+Andrej Ilic,Apr 3 2000 (24),189 m,Centre-Forward
+Ivan Prtajin,May 14 1996 (28),189 m,Centre-Forward
+Patrick Drewes,Feb 4 1993 (32),194 m,Goalkeeper
+Timo Horn,May 12 1993 (31),192 m,Goalkeeper
+Paul Grave,Apr 10 2001 (23),193 m,Goalkeeper
+Bernardo,May 14 1995 (29),186 m,Centre-Back
+Tim Oermann,Oct 6 2003 (21),189 m,Centre-Back
+Erhan Masovic,Nov 22 1998 (26),189 m,Centre-Back
+Jakov Medic,Sep 7 1998 (26),193 m,Centre-Back
+Ivan Ordets,Jul 8 1992 (32),195 m,Centre-Back
+Mohammed Tolba,Jul 19 2004 (20),185 m,Centre-Back
+Maximilian Wittek,Aug 21 1995 (29),173 m,Left-Back
+Felix Passlack,May 29 1998 (26),170 m,Right-Back
+Cristian Gamboa,Oct 24 1989 (35),175 m,Right-Back
+Ibrahima Sissoko,Oct 27 1997 (27),193 m,Defensive Midfield
+Anthony Losilla,Mar 10 1986 (38),185 m,Defensive Midfield
+Niklas Jahn,Jul 26 2004 (20),172 m,Defensive Midfield
+Tom Krauß,Jun 22 2001 (23),182 m,Central Midfield
+Matus Bero,Sep 6 1995 (29),181 m,Central Midfield
+Mats Pannewig,Oct 28 2004 (20),195 m,Central Midfield
+Koji Miyoshi,Mar 26 1997 (27),167 m,Right Midfield
+Dani de Wit,Jan 28 1998 (27),184 m,Attacking Midfield
+Lennart Koerdt,Jan 7 2005 (20),187 m,Attacking Midfield
+Georgios Masouras,Jan 1 1994 (31),184 m,Left Winger
+Gerrit Holtmann,Mar 25 1995 (29),185 m,Left Winger
+Samuel Bamba,Feb 13 2004 (21),179 m,Right Winger
+Myron Boadu,Jan 14 2001 (24),181 m,Centre-Forward
+Moritz Broschinski,Sep 23 2000 (24),190 m,Centre-Forward
+Philipp Hofmann,Mar 30 1993 (31),195 m,Centre-Forward
+Nikola Vasilj,Dec 2 1995 (29),193 m,Goalkeeper
+Ben Voll,Dec 9 2000 (24),195 m,Goalkeeper
+Eric Oelschlägel,Sep 20 1995 (29),193 m,Goalkeeper
+Sascha Burchert,Oct 30 1989 (35),187 m,Goalkeeper
+Sören Ahlers,Sep 9 1997 (27),194 m,Goalkeeper
+Eric Smith,Jan 8 1997 (28),192 m,Centre-Back
+Hauke Wahl,Apr 15 1994 (30),189 m,Centre-Back
+Siebe Van der Heyden,May 30 1998 (26),185 m,Centre-Back
+Karol Mets,May 16 1993 (31),191 m,Centre-Back
+David Nemeth,Mar 18 2001 (23),191 m,Centre-Back
+Adam Dzwigala,Sep 25 1995 (29),185 m,Centre-Back
+Muhammad Dahaba,Mar 7 2005 (19),194 m,Centre-Back
+Philipp Treu,Dec 3 2000 (24),173 m,Left-Back
+Lars Ritzka,May 7 1998 (26),185 m,Left-Back
+Manolis Saliakas,Sep 12 1996 (28),177 m,Right-Back
+Fin Stevens,Apr 10 2003 (21),179 m,Right-Back
+James Sands,Jul 6 2000 (24),186 m,Defensive Midfield
+Marwin Schmitz,Jan 7 2007 (18),180 m,Defensive Midfield
+Robert Wagner,Jul 14 2003 (21),181 m,Central Midfield
+Connor Metcalfe,Nov 5 1999 (25),183 m,Central Midfield
+Jackson Irvine,Mar 7 1993 (31),189 m,Central Midfield
+Carlo Boukhalfa,May 3 1999 (25),186 m,Central Midfield
+Erik Ahlstrand,Oct 14 2001 (23),184 m,Central Midfield
+Elias Saad,Dec 27 1999 (25),185 m,Left Winger
+Noah Weißhaupt,Sep 20 2001 (23),181 m,Left Winger
+Romeo Aigbekaen,Jun 22 2004 (20),189 m,Left Winger
+Oladapo Afolayan,Sep 11 1997 (27),180 m,Right Winger
+Morgan Guilavogui,Mar 10 1998 (26),189 m,Right Winger
+Danel Sinani,Apr 5 1997 (27),185 m,Right Winger
+Scott Banks,Sep 26 2001 (23),183 m,Right Winger
+Johannes Eggestein,May 8 1998 (26),183 m,Centre-Forward
+Andreas Albers,Mar 23 1990 (34),193 m,Centre-Forward
+Simon Zoller,Jun 26 1991 (33),179 m,Centre-Forward
+Abdoulie Ceesay,Jan 5 2004 (21),185 m,Centre-Forward
+Timon Weiner,Jan 18 1999 (26),191 m,Goalkeeper
+Thomas Dähne,Jan 4 1994 (31),193 m,Goalkeeper
+Marcel Engelhardt,Apr 5 1993 (31),191 m,Goalkeeper
+Tyler Doğan,Nov 18 2005 (19),187 m,Goalkeeper
+Marko Ivezic,Dec 2 2001 (23),191 m,Centre-Back
+Colin Kleine-Bekel,Jan 24 2003 (22),192 m,Centre-Back
+Timo Becker,Mar 25 1997 (27),190 m,Centre-Back
+Max Geschwill,Jul 7 2001 (23),185 m,Centre-Back
+Marco Komenda,Nov 26 1996 (28),184 m,Centre-Back
+Carl Johansson,May 23 1994 (30),194 m,Centre-Back
+David Zec,Jan 5 2000 (25),190 m,Centre-Back
+Ivan Nekic,Dec 24 2000 (24),185 m,Centre-Back
+John Tolkin,Jul 31 2002 (22),170 m,Left-Back
+Dominik Javorcek,Nov 2 2002 (22),183 m,Left-Back
+Lasse Rosenboom,Jan 19 2002 (23),190 m,Right-Back
+Patrick Erras,Jan 21 1995 (30),196 m,Defensive Midfield
+Marvin Schulz,Jan 15 1995 (30),186 m,Defensive Midfield
+Armin Gigovic,Apr 6 2002 (22),187 m,Central Midfield
+Magnus Knudsen,Jun 15 2001 (23),186 m,Central Midfield
+Nicolai Remberg,Jun 19 2000 (24),188 m,Central Midfield
+Lewis Holtby,Sep 18 1990 (34),176 m,Central Midfield
+Aurel Wagbe,Feb 4 2004 (21),191 m,Left Midfield
+Finn Porath,Feb 23 1997 (28),180 m,Attacking Midfield
+Steven Skrzybski,Nov 18 1992 (32),174 m,Attacking Midfield
+Andu Kelati,Aug 13 2002 (22),181 m,Left Winger
+Alexander Bernhardsson,Sep 8 1998 (26),185 m,Right Winger
+Shuto Machino,Sep 30 1999 (25),185 m,Centre-Forward
+Benedikt Pichler,Jul 20 1997 (27),188 m,Centre-Forward
+Phil Harres,Mar 25 2002 (22),193 m,Centre-Forward
+Fiete Arp,Jan 6 2000 (25),186 m,Centre-Forward
+Kevin Müller,Mar 15 1991 (33),190 m,Goalkeeper
+Frank Feller,Jan 7 2004 (21),183 m,Goalkeeper
+Vitus Eicher,Nov 5 1990 (34),191 m,Goalkeeper
+Paul Tschernuth,Jan 20 2002 (23),186 m,Goalkeeper
+Benedikt Gimber,Feb 19 1997 (28),187 m,Centre-Back
+Patrick Mainka,Nov 6 1994 (30),194 m,Centre-Back
+Tim Siersleben,Mar 9 2000 (24),187 m,Centre-Back
+Thomas Keller,Aug 5 1999 (25),186 m,Centre-Back
+Jonas Föhrenbach,Jan 26 1996 (29),184 m,Left-Back
+Frans Krätzig,Jan 14 2003 (22),177 m,Left-Back
+Omar Traoré,Feb 4 1998 (27),187 m,Right-Back
+Marnon Busch,Dec 8 1994 (30),182 m,Right-Back
+Niklas Dorsch,Jan 15 1998 (27),178 m,Defensive Midfield
+Julian Niehues,Apr 17 2001 (23),195 m,Defensive Midfield
+Luka Janes,Jan 19 2004 (21),183 m,Defensive Midfield
+Norman Theuerkauf,Jan 24 1987 (38),183 m,Defensive Midfield
+Jan Schöppner,Jun 12 1999 (25),190 m,Central Midfield
+Luca Kerber,Mar 10 2002 (22),184 m,Central Midfield
+Paul Wanner,Dec 23 2005 (19),185 m,Attacking Midfield
+Adrian Beck,Jun 9 1997 (27),186 m,Attacking Midfield
+Leo Scienza,Sep 13 1998 (26),175 m,Left Winger
+Mathias Honsak,Dec 20 1996 (28),188 m,Left Winger
+Christopher Negele,Apr 11 2005 (19),172 m,Left Winger
+Sirlord Conteh,Jul 9 1996 (28),178 m,Right Winger
+Marvin Pieringer,Oct 4 1999 (25),191 m,Centre-Forward
+Maximilian Breunig,Aug 14 2000 (24),195 m,Centre-Forward
+Budu Zivzivadze,Mar 10 1994 (30),189 m,Centre-Forward
+Stefan Schimmer,Apr 28 1994 (30),185 m,Centre-Forward

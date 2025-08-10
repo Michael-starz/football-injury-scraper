@@ -1,0 +1,590 @@
+player_name,date_of_birth/age,height,position
+Aynsley Pears,Apr 23 1998 (26),185 m,Goalkeeper
+Balázs Tóth,Sep 4 1997 (27),189 m,Goalkeeper
+Scott Wharton,Oct 3 1997 (27),182 m,Centre-Back
+Hayden Carter,Dec 17 1999 (25),188 m,Centre-Back
+Dion Sanderson,Dec 15 1999 (25),188 m,Centre-Back
+Dominic Hyam,Dec 20 1995 (29),188 m,Centre-Back
+Danny Batth,Sep 21 1990 (34),191 m,Centre-Back
+Harry Pickering,Dec 29 1998 (26),173 m,Left-Back
+Owen Beck,Aug 9 2002 (22),177 m,Left-Back
+Yuri Ribeiro,Jan 24 1997 (28),178 m,Left-Back
+Callum Brittain,Mar 12 1998 (27),179 m,Right-Back
+Joe Rankin-Costello,Jul 26 1999 (25),183 m,Right-Back
+Lewis Travis,Oct 16 1997 (27),183 m,Defensive Midfield
+John Buckley,Oct 13 1999 (25),173 m,Central Midfield
+Sondre Tronstad,Aug 26 1995 (29),174 m,Central Midfield
+Adam Forshaw,Oct 8 1991 (33),175 m,Central Midfield
+Todd Cantwell,Feb 27 1998 (27),180 m,Attacking Midfield
+Andreas Weimann,Aug 5 1991 (33),179 m,Attacking Midfield
+Tyrhys Dolan,Dec 28 2001 (23),170 m,Right Winger
+Amario Cozier-Duberry,May 29 2005 (19),170 m,Right Winger
+Ryan Hedges,Jul 8 1995 (29),185 m,Right Winger
+Emmanuel Dennis,Nov 15 1997 (27),175 m,Centre-Forward
+Makhtar Gueye,Dec 4 1997 (27),195 m,Centre-Forward
+Yuki Ohashi,Jul 27 1996 (28),181 m,Centre-Forward
+Harry Leonard,Sep 12 2003 (21),184 m,Centre-Forward
+Cauley Woodrow,Dec 2 1994 (30),184 m,Centre-Forward
+Augustus Kargbo,Aug 24 1999 (25),172 m,Centre-Forward
+Max O'Leary,Oct 10 1996 (28),189 m,Goalkeeper
+Stefan Bajic,Dec 23 2001 (23),188 m,Goalkeeper
+Lewis Thomas,Sep 20 1997 (27),185 m,Goalkeeper
+Luke McNally,Sep 20 1999 (25),193 m,Centre-Back
+Zak Vyner,May 14 1997 (27),187 m,Centre-Back
+Rob Dickie,Mar 3 1996 (29),191 m,Centre-Back
+Cameron Pring,Jan 22 1998 (27),185 m,Left-Back
+Haydon Roberts,May 10 2002 (22),184 m,Left-Back
+George Tanner,Nov 16 1999 (25),181 m,Right-Back
+Ross McCrorie,Mar 18 1998 (27),187 m,Right-Back
+Max Bird,Sep 18 2000 (24),183 m,Defensive Midfield
+Marcus McGuane,Feb 2 1999 (26),178 m,Defensive Midfield
+Jason Knight,Feb 13 2001 (24),173 m,Central Midfield
+Joe Williams,Dec 8 1996 (28),185 m,Central Midfield
+Ayman Benarous,Jul 27 2003 (21),,Central Midfield
+Mark Sykes,Aug 4 1997 (27),182 m,Right Midfield
+Scott Twine,Jul 14 1999 (25),174 m,Attacking Midfield
+George Earthy,Sep 5 2004 (20),180 m,Attacking Midfield
+Anis Mehmeti,Jan 9 2001 (24),180 m,Left Winger
+Sam Bell,May 23 2002 (22),178 m,Left Winger
+Yu Hirakawa,Jan 3 2001 (24),172 m,Right Winger
+Sinclair Armstrong,Jun 22 2003 (21),182 m,Centre-Forward
+Harry Cornick,Apr 9 1995 (29),180 m,Centre-Forward
+Nahki Wells,Jun 1 1990 (34),170 m,Centre-Forward
+Ethan Horvath,Jun 9 1995 (29),195 m,Goalkeeper
+Jak Alnwick,Jun 17 1993 (31),187 m,Goalkeeper
+Matthew Turner,Mar 27 2002 (23),194 m,Goalkeeper
+Jesper Daland,Jan 6 2000 (25),191 m,Centre-Back
+Calum Chambers,Jan 20 1995 (30),182 m,Centre-Back
+Dimitrios Goutas,Apr 4 1994 (30),189 m,Centre-Back
+Will Fish,Feb 17 2003 (22),185 m,Centre-Back
+Jamilu Collins,Aug 5 1994 (30),183 m,Left-Back
+Joel Bagan,Sep 3 2001 (23),188 m,Left-Back
+Perry Ng,Jun 24 1996 (28),180 m,Right-Back
+Sivert Mannsverk,May 8 2002 (22),185 m,Defensive Midfield
+David Turnbull,Jul 10 1999 (25),185 m,Central Midfield
+Joe Ralls,Oct 12 1993 (31),178 m,Central Midfield
+Alex Robertson,Apr 17 2003 (21),182 m,Central Midfield
+Aaron Ramsey,Dec 26 1990 (34),178 m,Central Midfield
+Andy Rinomhota,Apr 21 1997 (27),175 m,Central Midfield
+Callum O'Dowda,Apr 23 1995 (29),180 m,Left Midfield
+Rubin Colwill,Apr 27 2002 (22),189 m,Attacking Midfield
+Cian Ashford,Sep 24 2004 (20),179 m,Attacking Midfield
+Will Alves,May 4 2005 (19),,Attacking Midfield
+Chris Willock,Jan 31 1998 (27),178 m,Left Winger
+Yakou Méïté,Feb 11 1996 (29),185 m,Left Winger
+Anwar El Ghazi,May 3 1995 (29),189 m,Right Winger
+Ollie Tanner,May 13 2002 (22),177 m,Right Winger
+,,,
+Yousef Salech,Jan 17 2002 (23),195 m,Centre-Forward
+Callum Robinson,Feb 2 1995 (30),178 m,Centre-Forward
+Isaak Davies,Sep 25 2001 (23),175 m,Centre-Forward
+Oliver Dovin,Jul 11 2002 (22),188 m,Goalkeeper
+Brad Collins,Feb 18 1997 (28),184 m,Goalkeeper
+Ben Wilson,Aug 9 1992 (32),186 m,Goalkeeper
+Cian Tyler,Mar 22 2002 (23),188 m,Goalkeeper
+Liam Kitching,Sep 25 1999 (25),186 m,Centre-Back
+Joel Latibeaudiere,Jan 6 2000 (25),180 m,Centre-Back
+Bobby Thomas,Jan 30 2001 (24),186 m,Centre-Back
+Luis Binks,Sep 2 2001 (23),190 m,Centre-Back
+Jay Dasilva,Apr 22 1998 (26),170 m,Left-Back
+Jake Bidwell,Mar 21 1993 (32),183 m,Left-Back
+Broad,Sep 15 2005 (19),,Left-Back
+Milan van Ewijk,Sep 8 2000 (24),175 m,Right-Back
+Ben Sheaf,Feb 5 1998 (27),185 m,Defensive Midfield
+Matt Grimes,Jul 15 1995 (29),178 m,Defensive Midfield
+Josh Eccles,Apr 6 2000 (24),181 m,Central Midfield
+Jack Rudoni,Jun 14 2001 (23),185 m,Central Midfield
+Victor Torp,Jul 30 1999 (25),178 m,Central Midfield
+Jamie Allen,Jan 29 1995 (30),180 m,Central Midfield
+Ryan Howley,Nov 23 2003 (21),187 m,Central Midfield
+Tatsuhiro Sakamoto,Oct 22 1996 (28),170 m,Right Midfield
+Jack Burroughs,Mar 21 2001 (24),188 m,Right Midfield
+Jamie Paterson,Dec 20 1991 (33),175 m,Attacking Midfield
+Ephron Mason-Clark,Aug 25 1999 (25),178 m,Left Winger
+Raphael Borges Rodrigues,Sep 11 2003 (21),173 m,Left Winger
+Haji Wright,Mar 27 1998 (27),193 m,Centre-Forward
+Ellis Simms,Jan 5 2001 (24),191 m,Centre-Forward
+Brandon Thomas-Asante,Dec 29 1998 (26),182 m,Centre-Forward
+Norman Bassette,Nov 9 2004 (20),186 m,Centre-Forward
+Jacob Widell Zetterström,Jul 11 1998 (26),197 m,Goalkeeper
+Josh Vickers,Dec 1 1995 (29),193 m,Goalkeeper
+Rohan Luthra,May 6 2002 (22),,Goalkeeper
+Nat Phillips,Mar 21 1997 (28),190 m,Centre-Back
+Matt Clarke,Sep 22 1996 (28),185 m,Centre-Back
+Sondre Langås,Feb 2 2001 (24),190 m,Centre-Back
+Curtis Nelson,May 21 1993 (31),183 m,Centre-Back
+Jake Rooney,Aug 22 2003 (21),188 m,Centre-Back
+Callum Elder,Jan 27 1995 (30),180 m,Left-Back
+Craig Forsyth,Feb 24 1989 (36),189 m,Left-Back
+Ryan Nyambe,Dec 4 1997 (27),183 m,Right-Back
+Kane Wilson,Mar 11 2000 (25),178 m,Right-Back
+David Ozoh,May 6 2005 (19),189 m,Defensive Midfield
+Liam Thompson,Apr 29 2002 (22),173 m,Defensive Midfield
+Darren Robinson,Dec 29 2004 (20),177 m,Defensive Midfield
+Kenzo Goudmijn,Dec 18 2001 (23),176 m,Central Midfield
+Ben Osborn,Aug 5 1994 (30),176 m,Central Midfield
+Ebou Adams,Jan 15 1996 (29),178 m,Central Midfield
+Harrison Armstrong,Jan 19 2007 (18),185 m,Central Midfield
+Jeff Hendrick,Jan 31 1992 (33),185 m,Central Midfield
+Joe Ward,Aug 22 1995 (29),167 m,Right Midfield
+Marcus Harness,Feb 24 1996 (29),182 m,Attacking Midfield
+Corey Blackett-Taylor,Sep 23 1997 (27),180 m,Left Winger
+Tom Barkhuizen,Jul 4 1993 (31),175 m,Left Winger
+Nathaniel Méndez-Laing,Apr 15 1992 (32),178 m,Right Winger
+Jerry Yates,Nov 10 1996 (28),175 m,Centre-Forward
+Kemar Roofe,Jan 6 1993 (32),178 m,Centre-Forward
+Lars-Jørgen Salvesen,Feb 19 1996 (29),186 m,Centre-Forward
+Kayden Jackson,Feb 22 1994 (31),181 m,Centre-Forward
+Conor Washington,May 18 1992 (32),178 m,Centre-Forward
+Dajaune Brown,Oct 16 2005 (19),182 m,Centre-Forward
+Ivor Pandur,Mar 25 2000 (25),187 m,Goalkeeper
+Lo-Tutala,Feb 13 2003 (22),191 m,Goalkeeper
+Harvey Cartwright,May 9 2002 (22),192 m,Goalkeeper
+Alfie Jones,Oct 7 1997 (27),191 m,Centre-Back
+Charlie Hughes,Oct 16 2003 (21),185 m,Centre-Back
+John Egan,Oct 20 1992 (32),185 m,Centre-Back
+Sean McLoughlin,Nov 13 1996 (28),191 m,Centre-Back
+Finley Burns,Jun 17 2003 (21),196 m,Centre-Back
+Matty Jacob,Jun 3 2001 (23),180 m,Left-Back
+Cody Drameh,Dec 8 2001 (23),181 m,Right-Back
+Lewie Coyle,Oct 15 1995 (29),173 m,Right-Back
+Óscar Zambrano,Apr 20 2004 (20),176 m,Defensive Midfield
+Steven Alzate,Sep 8 1998 (26),180 m,Central Midfield
+Gustavo Puerta,Jul 23 2003 (21),173 m,Central Midfield
+Regan Slater,Sep 11 1999 (25),171 m,Central Midfield
+Eliot Matazo,Feb 15 2002 (23),170 m,Central Midfield
+Lincoln,Nov 7 1998 (26),178 m,Attacking Midfield
+Matt Crooks,Jan 20 1994 (31),191 m,Attacking Midfield
+Kasey Palmer,Nov 9 1996 (28),182 m,Attacking Midfield
+Harry Vaughan,Apr 6 2004 (20),170 m,Attacking Midfield
+Liam Millar,Sep 27 1999 (25),181 m,Left Winger
+Doğukan Sinik,Jan 21 1999 (26),180 m,Left Winger
+Louie Barry,Jun 21 2003 (21),174 m,Left Winger
+Mohamed Belloumi,Jun 1 2002 (22),177 m,Right Winger
+Abu Kamara,Jul 21 2003 (21),183 m,Right Winger
+Nordin Amrabat,Mar 31 1987 (37),179 m,Right Winger
+Joe Gelhardt,May 4 2002 (22),179 m,Centre-Forward
+João Pedro,Mar 9 1992 (33),184 m,Centre-Forward
+Mason Burstow,Aug 4 2003 (21),187 m,Centre-Forward
+Kyle Joseph,Sep 10 2001 (23),186 m,Centre-Forward
+Illan Meslier,Mar 2 2000 (25),197 m,Goalkeeper
+Karl Darlow,Oct 8 1990 (34),190 m,Goalkeeper
+Alex Cairns,Jan 4 1993 (32),183 m,Goalkeeper
+Pascal Struijk,Aug 11 1999 (25),190 m,Centre-Back
+Joe Rodon,Oct 22 1997 (27),193 m,Centre-Back
+Maximilian Wöber,Feb 4 1998 (27),188 m,Centre-Back
+Junior Firpo,Aug 22 1996 (28),184 m,Left-Back
+Isaac Schmidt,Dec 7 1999 (25),172 m,Left-Back
+Jayden Bogle,Jul 27 2000 (24),178 m,Right-Back
+Sam Byram,Sep 16 1993 (31),183 m,Right-Back
+Ethan Ampadu,Sep 14 2000 (24),182 m,Defensive Midfield
+Ilia Gruev,May 6 2000 (24),185 m,Defensive Midfield
+Josuha Guilavogui,Sep 19 1990 (34),188 m,Defensive Midfield
+Ao Tanaka,Sep 10 1998 (26),180 m,Central Midfield
+Joe Rothwell,Jan 11 1995 (30),185 m,Central Midfield
+Brenden Aaronson,Oct 22 2000 (24),177 m,Attacking Midfield
+Manor Solomon,Jul 24 1999 (25),170 m,Left Winger
+Largie Ramazani,Feb 27 2001 (24),168 m,Left Winger
+Wilfried Gnonto,Nov 5 2003 (21),170 m,Right Winger
+Daniel James,Nov 10 1997 (27),171 m,Right Winger
+Joël Piroe,Aug 2 1999 (25),185 m,Centre-Forward
+Patrick Bamford,Sep 5 1993 (31),185 m,Centre-Forward
+Mateo Joseph,Oct 19 2003 (21),185 m,Centre-Forward
+Mark Travers,May 18 1999 (25),191 m,Goalkeeper
+Seny Dieng,Nov 23 1994 (30),193 m,Goalkeeper
+Tom Glover,Dec 24 1997 (27),196 m,Goalkeeper
+Sol Brynn,Oct 30 2000 (24),184 m,Goalkeeper
+Dael Fry,Aug 30 1997 (27),190 m,Centre-Back
+Rav van den Berg,Jul 7 2004 (20),191 m,Centre-Back
+Darragh Lenihan,Mar 16 1994 (31),187 m,Centre-Back
+George Edmundson,Aug 15 1997 (27),190 m,Centre-Back
+Ryan Giles,Jan 26 2000 (25),183 m,Left-Back
+Neto Borges,Sep 13 1996 (28),185 m,Left-Back
+Alex Bangura,Jul 13 1999 (25),183 m,Left-Back
+Anfernee Dijksteel,Oct 27 1996 (28),183 m,Right-Back
+Luke Ayling,Aug 25 1991 (33),183 m,Right-Back
+Hayden Hackney,Jun 26 2002 (22),178 m,Defensive Midfield
+Dan Barlaser,Jan 18 1997 (28),184 m,Defensive Midfield
+Riley McGree,Nov 2 1998 (26),178 m,Central Midfield
+Aidan Morris,Nov 16 2001 (23),175 m,Central Midfield
+Jonathan Howson,May 21 1988 (36),180 m,Central Midfield
+Finn Azaz,Sep 7 2000 (24),185 m,Attacking Midfield
+Samuel Iling-Junior,Oct 4 2003 (21),182 m,Left Winger
+Delano Burgzorg,Nov 7 1998 (26),186 m,Left Winger
+Morgan Whittaker,Jan 7 2001 (24),183 m,Right Winger
+Ben Doak,Nov 11 2005 (19),173 m,Right Winger
+Tommy Conway,Aug 6 2002 (22),185 m,Centre-Forward
+Kelechi Iheanacho,Oct 3 1996 (28),185 m,Centre-Forward
+Marcus Forss,Jun 18 1999 (25),182 m,Centre-Forward
+Sonny Finch,Aug 5 2005 (19),180 m,Centre-Forward
+Lukas Jensen,Mar 18 1999 (26),198 m,Goalkeeper
+Liam Roberts,Nov 21 1994 (30),195 m,Goalkeeper
+Jake Cooper,Feb 3 1995 (30),199 m,Centre-Back
+Japhet Tanganga,Mar 31 1999 (25),184 m,Centre-Back
+Wes Harding,Oct 20 1996 (28),181 m,Centre-Back
+Tristan Crama,Nov 8 2001 (23),192 m,Centre-Back
+Shaun Hutchinson,Nov 23 1990 (34),188 m,Centre-Back
+Joe Bryan,Sep 17 1993 (31),170 m,Left-Back
+Murray Wallace,Jan 10 1993 (32),188 m,Left-Back
+Calum Scanlon,Feb 14 2005 (20),,Left-Back
+Zak Sturge,Jun 15 2004 (20),,Left-Back
+Danny McNamara,Dec 27 1998 (26),180 m,Right-Back
+Ryan Wintle,Jun 13 1997 (27),180 m,Defensive Midfield
+Luke Cundle,Apr 26 2002 (22),171 m,Central Midfield
+Billy Mitchell,Apr 7 2001 (23),178 m,Central Midfield
+Casper De Norre,Feb 7 1997 (28),175 m,Central Midfield
+George Saville,Jun 1 1993 (31),176 m,Central Midfield
+Daniel Kelly,Oct 3 2005 (19),180 m,Central Midfield
+Ryan Leonard,May 24 1992 (32),185 m,Central Midfield
+Alfie Massey,Jan 18 2006 (19),183 m,Central Midfield
+George Honeyman,Sep 8 1994 (30),173 m,Attacking Midfield
+Aidomo Emakhu,Oct 26 2003 (21),180 m,Left Winger
+Baker-Boaitey,Jan 9 2004 (21),,Left Winger
+Camiel Neghli,Nov 6 2001 (23),179 m,Right Winger
+Femi Azeez,Jun 5 2001 (23),181 m,Right Winger
+Duncan Watmore,Mar 8 1994 (31),175 m,Right Winger
+Aaron Connolly,Jan 28 2000 (25),174 m,Centre-Forward
+Mihailo Ivanovic,Nov 29 2004 (20),191 m,Centre-Forward
+Josh Coburn,Dec 6 2002 (22),193 m,Centre-Forward
+Macaulay Langstaff,Feb 3 1997 (28),178 m,Centre-Forward
+Zak Lovelace,Jan 23 2006 (19),182 m,Centre-Forward
+Ajay Matthews,Jun 11 2006 (18),,Centre-Forward
+Angus Gunn,Jan 22 1996 (29),196 m,Goalkeeper
+George Long,Nov 5 1993 (31),193 m,Goalkeeper
+Vicente Reyes,Nov 19 2003 (21),196 m,Goalkeeper
+Daniel Barden,Jan 2 2001 (24),195 m,Goalkeeper
+Callum Doyle,Oct 3 2003 (21),190 m,Centre-Back
+José Córdoba,Jun 3 2001 (23),185 m,Centre-Back
+Shane Duffy,Jan 1 1992 (33),193 m,Centre-Back
+Ruairi McConville,May 1 2005 (19),193 m,Centre-Back
+Ben Chrisene,Jan 12 2004 (21),183 m,Left-Back
+Lucien Mahovo,Jun 7 2005 (19),,Left-Back
+Jack Stacey,Apr 6 1996 (28),180 m,Right-Back
+Kellen Fisher,May 5 2004 (20),182 m,Right-Back
+Jacob Lungi Sørensen,Mar 3 1998 (27),184 m,Defensive Midfield
+Jacob Wright,Sep 21 2005 (19),178 m,Defensive Midfield
+Marcelino Núñez,Mar 1 2000 (25),173 m,Central Midfield
+Amankwah Forson,Dec 31 2002 (22),173 m,Central Midfield
+Anis Slimane,Mar 16 2001 (24),188 m,Central Midfield
+Liam Gibbs,Dec 16 2002 (22),178 m,Central Midfield
+Kenny McLean,Jan 8 1992 (33),180 m,Central Midfield
+Emiliano Marcondes,Mar 9 1995 (30),182 m,Attacking Midfield
+Gabe Forsyth,Aug 4 2006 (18),184 m,Attacking Midfield
+Borja Sainz,Feb 21 2001 (24),174 m,Left Winger
+Lewis Dobbin,Jan 3 2003 (22),175 m,Left Winger
+Onel Hernández,Feb 1 1993 (32),172 m,Left Winger
+Matej Jurasek,Aug 30 2003 (21),181 m,Right Winger
+Tony Springett,Sep 22 2002 (22),174 m,Right Winger
+Oscar Schwartau,May 17 2006 (18),186 m,Second Striker
+Josh Sargent,Feb 20 2000 (25),185 m,Centre-Forward
+Ante Crnac,Dec 17 2003 (21),190 m,Centre-Forward
+Jamie Cumming,Sep 4 1999 (25),185 m,Goalkeeper
+Matt Ingram,Dec 18 1993 (31),191 m,Goalkeeper
+Simon Eastwood,Jun 26 1989 (35),188 m,Goalkeeper
+Jacob Knightbridge,Jan 25 2004 (21),,Goalkeeper
+Michal Helik,Sep 9 1995 (29),191 m,Centre-Back
+Ciaron Brown,Jan 14 1998 (27),185 m,Centre-Back
+Elliott Moore,Mar 16 1997 (28),196 m,Centre-Back
+Ben Nelson,Mar 18 2004 (21),193 m,Centre-Back
+Jordan Thorniley,Nov 24 1996 (28),181 m,Centre-Back
+Greg Leigh,Sep 30 1994 (30),181 m,Left-Back
+Joe Bennett,Mar 28 1990 (35),178 m,Left-Back
+Hidde ter Avest,May 20 1997 (27),182 m,Right-Back
+Peter Kioso,Aug 15 1999 (25),183 m,Right-Back
+Sam Long,Jan 16 1995 (30),180 m,Right-Back
+Will Vaulks,Sep 13 1993 (31),180 m,Defensive Midfield
+Alex Matos,Oct 3 2004 (20),175 m,Central Midfield
+Cameron Brannagan,May 9 1996 (28),180 m,Central Midfield
+Idris El Mizouni,Sep 26 2000 (24),185 m,Central Midfield
+Josh McEachran,Mar 1 1993 (32),178 m,Central Midfield
+Rúben Rodrigues,Aug 2 1996 (28),181 m,Attacking Midfield
+Marselino Ferdinan,Sep 9 2004 (20),178 m,Attacking Midfield
+Siriki Dembélé,Sep 7 1996 (28),173 m,Left Winger
+Przemyslaw Placheta,Mar 23 1998 (27),178 m,Left Winger
+Tyler Goodrham,Aug 7 2003 (21),170 m,Right Winger
+Matt Phillips,Mar 13 1991 (34),183 m,Right Winger
+Stanley Mills,Oct 25 2003 (21),180 m,Right Winger
+Ole Romeny,Jun 20 2000 (24),185 m,Centre-Forward
+Mark Harris,Dec 29 1998 (26),182 m,Centre-Forward
+Tom Bradshaw,Jul 27 1992 (32),178 m,Centre-Forward
+Max Woltman,Aug 20 2003 (21),,Centre-Forward
+Conor Hazard,Mar 5 1998 (27),198 m,Goalkeeper
+Daniel Grimshaw,Jan 16 1998 (27),185 m,Goalkeeper
+Zak Baker,Nov 19 2004 (20),187 m,Goalkeeper
+Maksym Taloverov,Jun 28 2000 (24),196 m,Centre-Back
+Julio Pleguezuelo,Jan 26 1997 (28),180 m,Centre-Back
+Nikola Katic,Oct 10 1996 (28),194 m,Centre-Back
+Kornél Szűcs,Sep 24 2001 (23),190 m,Centre-Back
+Brendan Galloway,Mar 17 1996 (29),186 m,Centre-Back
+Victor Pálsson,Apr 30 1991 (33),186 m,Centre-Back
+Tymoteusz Puchacz,Jan 23 1999 (26),183 m,Left-Back
+Nathanael Ogbeta,Apr 28 2001 (23),184 m,Left-Back
+Saxon Earley,Oct 11 2002 (22),177 m,Left-Back
+Bali Mumba,Oct 8 2001 (23),168 m,Right-Back
+Matthew Sorinola,Feb 19 2001 (24),173 m,Right-Back
+Joe Edwards,Oct 31 1990 (34),173 m,Right-Back
+Adam Randell,Oct 1 2000 (24),175 m,Defensive Midfield
+Jordan Houghton,Nov 5 1995 (29),183 m,Defensive Midfield
+Malachi Boateng,Jul 5 2002 (22),182 m,Defensive Midfield
+Darko Gyabi,Feb 18 2004 (21),196 m,Central Midfield
+Callum Wright,May 2 2000 (24),182 m,Central Midfield
+Michael Baidoo,May 14 1999 (25),174 m,Attacking Midfield
+Rami Al Hajj,Sep 17 2001 (23),180 m,Attacking Midfield
+Caleb Roberts,Oct 24 2005 (19),,Attacking Midfield
+Freddie Issaka,Jul 28 2006 (18),177 m,Left Winger
+Mustapha Bundu,Feb 28 1997 (28),189 m,Right Winger
+Michael Obafemi,Jul 6 2000 (24),170 m,Centre-Forward
+Ryan Hardie,Mar 17 1997 (28),188 m,Centre-Forward
+Muhamed Tijani,Jul 26 2000 (24),191 m,Centre-Forward
+Nicolas Schmid,Feb 22 1997 (28),195 m,Goalkeeper
+Ben Killip,Nov 24 1995 (29),188 m,Goalkeeper
+Jordan Archer,Apr 12 1993 (31),190 m,Goalkeeper
+Toby Steward,Feb 12 2005 (20),193 m,Goalkeeper
+Rob Atkinson,Jul 13 1998 (26),193 m,Centre-Back
+Hayden Matthews,Jun 19 2004 (20),195 m,Centre-Back
+Conor Shaughnessy,Jun 30 1996 (28),191 m,Centre-Back
+Ibane Bowat,Sep 15 2002 (22),190 m,Centre-Back
+Ryley Towler,May 6 2002 (22),187 m,Centre-Back
+Regan Poole,Jun 18 1998 (26),180 m,Centre-Back
+Milosevic,Jan 30 1992 (33),193 m,Centre-Back
+Jacob Farrell,Nov 19 2002 (22),180 m,Left-Back
+Cohen Bramall,Apr 2 1996 (28),178 m,Left-Back
+Connor Ogilvie,Feb 14 1996 (29),184 m,Left-Back
+Jordan Williams,Oct 22 1999 (25),179 m,Right-Back
+Terry Devlin,Nov 6 2003 (21),180 m,Right-Back
+Zak Swanson,Sep 28 2000 (24),189 m,Right-Back
+Isaac Hayden,Mar 22 1995 (30),187 m,Defensive Midfield
+Abdoulaye Kamara,Nov 6 2004 (20),185 m,Defensive Midfield
+Freddie Potts,Sep 12 2003 (21),183 m,Defensive Midfield
+Andre Dozzell,May 2 1999 (25),178 m,Central Midfield
+Marlon Pack,Mar 25 1991 (34),188 m,Central Midfield
+Matt Ritchie,Sep 10 1989 (35),173 m,Right Midfield
+Adil Aouchiche,Jul 15 2002 (22),181 m,Attacking Midfield
+Josh Murphy,Feb 24 1995 (30),173 m,Left Winger
+Kaide Gordon,Oct 5 2004 (20),173 m,Right Winger
+Paddy Lane,Feb 18 2001 (24),177 m,Right Winger
+Harvey Blair,Sep 14 2003 (21),,Right Winger
+Callum Lang,Sep 8 1998 (26),183 m,Second Striker
+Colby Bishop,Nov 4 1996 (28),180 m,Centre-Forward
+Kusini Yengi,Jan 15 1999 (26),190 m,Centre-Forward
+Mark O'Mahony,Jan 14 2005 (20),182 m,Centre-Forward
+Christian Saydee,May 10 2002 (22),184 m,Centre-Forward
+Thomas Waddingham,Apr 5 2005 (19),185 m,Centre-Forward
+Freddie Woodman,Mar 4 1997 (28),188 m,Goalkeeper
+David Cornell,Mar 28 1991 (34),186 m,Goalkeeper
+James Pradic,Feb 7 2005 (20),185 m,Goalkeeper
+Jordan Storey,Sep 2 1997 (27),188 m,Centre-Back
+Ryan Porteous,Mar 25 1999 (26),188 m,Centre-Back
+Liam Lindsay,Oct 12 1995 (29),191 m,Centre-Back
+Lewis Gibson,Jul 19 2000 (24),185 m,Centre-Back
+Jack Whatmough,Aug 19 1996 (28),184 m,Centre-Back
+Patrick Bauer,Oct 28 1992 (32),192 m,Centre-Back
+Andrew Hughes,Jun 5 1992 (32),188 m,Left-Back
+Pasiek,Oct 8 2005 (19),,Left-Back
+Jayden Meghoma,Jun 28 2006 (18),176 m,Left-Back
+Kaine Kesler-Hayden,Oct 23 2002 (22),175 m,Right-Back
+Brad Potts,Jul 3 1994 (30),188 m,Right-Back
+Josh Seary,Sep 10 2004 (20),180 m,Right-Back
+Ben Whiteman,Jun 17 1996 (28),185 m,Central Midfield
+Ali McCann,Dec 4 1999 (25),176 m,Central Midfield
+Stefán Teitur Thórdarson,Oct 16 1998 (26),189 m,Central Midfield
+Ryan Ledson,Aug 19 1997 (27),178 m,Central Midfield
+Taylor,Feb 15 2005 (20),173 m,Central Midfield
+Robbie Brady,Jan 14 1992 (33),176 m,Left Midfield
+Sam Greenwood,Jan 26 2002 (23),180 m,Attacking Midfield
+Mads Frøkjaer-Jensen,Jul 29 1999 (25),186 m,Attacking Midfield
+Emil Riis,Jun 24 1998 (26),190 m,Centre-Forward
+Milutin Osmajic,Jul 25 1999 (25),186 m,Centre-Forward
+Will Keane,Jan 11 1993 (32),188 m,Centre-Forward
+Ched Evans,Dec 28 1988 (36),183 m,Centre-Forward
+Paul Nardi,May 18 1994 (30),188 m,Goalkeeper
+Joe Walsh,Apr 1 2002 (22),193 m,Goalkeeper
+Nathan Shepperd,Sep 10 2000 (24),187 m,Goalkeeper
+Ronnie Edwards,Mar 28 2003 (22),185 m,Centre-Back
+Jimmy Dunne,Oct 19 1997 (27),191 m,Centre-Back
+Jake Clarke-Salter,Sep 22 1997 (27),188 m,Centre-Back
+Steve Cook,Apr 19 1991 (33),185 m,Centre-Back
+Liam Morrison,Apr 7 2003 (21),183 m,Centre-Back
+,Feb 28 2006 (19),183 m,Left-Back
+Kenneth Paal,Jun 24 1997 (27),174 m,Left-Back
+Morgan Fox,Sep 21 1993 (31),185 m,Left-Back
+Harrison Ashby,Nov 14 2001 (23),179 m,Right-Back
+Sam Field,May 8 1998 (26),191 m,Defensive Midfield
+Jack Colback,Oct 24 1989 (35),177 m,Defensive Midfield
+Nicolas Madsen,Mar 17 2000 (25),192 m,Central Midfield
+Jonathan Varane,Sep 9 2001 (23),190 m,Central Midfield
+Kieran Morgan,Mar 17 2006 (19),185 m,Central Midfield
+Lorent Talla,Jan 1 2005 (20),178 m,Central Midfield
+Ilias Chair,Oct 30 1997 (27),171 m,Attacking Midfield
+Vale,Sep 11 2003 (21),181 m,Attacking Midfield
+Karamoko Dembélé,Feb 22 2003 (22),167 m,Attacking Midfield
+Lucas Andersen,Sep 13 1994 (30),184 m,Attacking Midfield
+Koki Saito,Aug 10 2001 (23),170 m,Left Winger
+Daniel Bennie,Apr 13 2006 (18),181 m,Left Winger
+Min-hyeok Yang,Apr 16 2006 (18),176 m,Right Winger
+Paul Smyth,Sep 10 1997 (27),175 m,Right Winger
+Zan Celar,Mar 14 1999 (26),186 m,Centre-Forward
+Michael Frey,Jul 19 1994 (30),188 m,Centre-Forward
+Alfie Lloyd,Apr 30 2003 (21),180 m,Centre-Forward
+Rayan Kolli,Feb 10 2005 (20),180 m,Centre-Forward
+James Beadle,Jul 16 2004 (20),201 m,Goalkeeper
+Ben Hamer,Nov 20 1987 (37),193 m,Goalkeeper
+Pierce Charles,Jul 21 2005 (19),,Goalkeeper
+Di'Shon Bernard,Oct 14 2000 (24),188 m,Centre-Back
+Akin Famewo,Nov 9 1998 (26),188 m,Centre-Back
+Dominic Iorfa,Jun 24 1995 (29),188 m,Centre-Back
+Michael Ihiekwe,Nov 20 1992 (32),185 m,Centre-Back
+Max Lowe,May 11 1997 (27),175 m,Left-Back
+Ryo Hatsuse,Jul 10 1997 (27),180 m,Left-Back
+Yan Valery,Feb 22 1999 (26),185 m,Right-Back
+Pol Valentín,Feb 21 1997 (28),181 m,Right-Back
+Liam Palmer,Sep 19 1991 (33),188 m,Right-Back
+Shea Charles,Nov 5 2003 (21),189 m,Defensive Midfield
+Nathaniel Chalobah,Dec 12 1994 (30),185 m,Defensive Midfield
+Stuart Armstrong,Mar 30 1992 (32),183 m,Central Midfield
+Barry Bannan,Dec 1 1989 (35),169 m,Central Midfield
+Marvin Johnson,Dec 1 1990 (34),178 m,Left Midfield
+Svante Ingelsson,Jun 14 1998 (26),189 m,Attacking Midfield
+Josh Windass,Jan 9 1994 (31),175 m,Attacking Midfield
+Ibrahim Cissoko,Mar 26 2003 (22),188 m,Left Winger
+Djeidi Gassama,Sep 10 2003 (21),177 m,Left Winger
+Olaf Kobacki,Jul 10 2001 (23),178 m,Left Winger
+Anthony Musaba,Dec 6 2000 (24),182 m,Right Winger
+Iké Ugbo,Sep 21 1998 (26),184 m,Centre-Forward
+Jamal Lowe,Jul 21 1994 (30),183 m,Centre-Forward
+Callum Paterson,Oct 13 1994 (30),183 m,Centre-Forward
+Michael Smith,Oct 17 1991 (33),191 m,Centre-Forward
+Charlie McNeill,Sep 9 2003 (21),181 m,Centre-Forward
+Viktor Johansson,Sep 14 1998 (26),187 m,Goalkeeper
+Jack Bonham,Sep 14 1993 (31),192 m,Goalkeeper
+Frank Fielding,Apr 4 1988 (36),185 m,Goalkeeper
+Ben Wilmot,Nov 4 1999 (25),188 m,Centre-Back
+Ashley Phillips,Jun 26 2005 (19),196 m,Centre-Back
+Bosun Lawal,May 30 2003 (21),190 m,Centre-Back
+Ben Gibson,Jan 15 1993 (32),185 m,Centre-Back
+Michael Rose,Oct 11 1995 (29),188 m,Centre-Back
+Jaden Dixon,May 7 2007 (17),,Centre-Back
+Josh Wilson-Esbrand,Dec 26 2002 (22),176 m,Left-Back
+Eric-Junior Bocat,Jul 16 1999 (25),184 m,Left-Back
+Enda Stevens,Jul 9 1990 (34),183 m,Left-Back
+Junior Tchamadeu,Dec 22 2003 (21),180 m,Right-Back
+Wouter Burger,Feb 16 2001 (24),191 m,Defensive Midfield
+Ben Pearson,Jan 4 1995 (30),176 m,Defensive Midfield
+Lewis Baker,Apr 25 1995 (29),182 m,Central Midfield
+Souleymane Sidibé,Feb 10 2007 (18),184 m,Central Midfield
+Jordan Thompson,Jan 3 1997 (28),180 m,Central Midfield
+Tatsuki Seko,Dec 22 1997 (27),175 m,Central Midfield
+Andrew Moran,Oct 15 2003 (21),177 m,Attacking Midfield
+Jun-ho Bae,Aug 21 2003 (21),180 m,Attacking Midfield
+André Vidigal,Aug 17 1998 (26),176 m,Left Winger
+Lewis Koumas,Sep 19 2005 (19),182 m,Left Winger
+Million Manhoef,Jan 3 2002 (23),179 m,Right Winger
+Lynden Gooch,Dec 24 1995 (29),173 m,Right Winger
+Ali Al-Hamadi,Mar 1 2002 (23),187 m,Centre-Forward
+Ryan Mmaee,Nov 1 1997 (27),185 m,Centre-Forward
+Sam Gallagher,Sep 15 1995 (29),193 m,Centre-Forward
+Emre Tezgel,Sep 19 2005 (19),182 m,Centre-Forward
+Nathan Lowe,Sep 18 2005 (19),193 m,Centre-Forward
+Anthony Patterson,May 10 2000 (24),189 m,Goalkeeper
+Blondy Nna Noukeu,Sep 17 2001 (23),195 m,Goalkeeper
+Simon Moore,May 19 1990 (34),191 m,Goalkeeper
+Chris Mepham,Nov 5 1997 (27),190 m,Centre-Back
+Daniel Ballard,Sep 22 1999 (25),187 m,Centre-Back
+Jenson Seelt,May 23 2003 (21),192 m,Centre-Back
+Luke O'Nien,Nov 21 1994 (30),174 m,Centre-Back
+Aji Alese,Jan 17 2001 (24),192 m,Centre-Back
+Joe Anderson,Feb 6 2001 (24),,Centre-Back
+Dennis Cirkin,Apr 6 2002 (22),182 m,Left-Back
+Leo Fuhr Hjelde,Aug 26 2003 (21),190 m,Left-Back
+Niall Huggins,Dec 18 2000 (24),173 m,Left-Back
+Trai Hume,Mar 18 2002 (23),180 m,Right-Back
+Salis Abdul Samed,Mar 26 2000 (25),179 m,Defensive Midfield
+Jobe Bellingham,Sep 23 2005 (19),191 m,Central Midfield
+Enzo Le Fée,Feb 3 2000 (25),173 m,Central Midfield
+Chris Rigg,Jun 18 2007 (17),177 m,Central Midfield
+Dan Neil,Dec 13 2001 (23),185 m,Central Midfield
+Alan Browne,Apr 15 1995 (29),179 m,Central Midfield
+Milan Aleksic,Aug 30 2005 (19),179 m,Central Midfield
+Romaine Mundle,Apr 24 2003 (21),,Left Winger
+Tom Watson,Apr 8 2006 (18),190 m,Left Winger
+Patrick Roberts,Feb 5 1997 (28),167 m,Right Winger
+Ian Poveda,Feb 9 2000 (25),167 m,Right Winger
+Wilson Isidor,Aug 27 2000 (24),186 m,Centre-Forward
+Eliezer Mayenda,May 8 2005 (19),180 m,Centre-Forward
+Ahmed Abdullahi,Jun 19 2004 (20),,Centre-Forward
+Danns,Jan 16 2006 (19),183 m,Centre-Forward
+Lawrence Vigouroux,Nov 19 1993 (31),194 m,Goalkeeper
+Jon McLaughlin,Sep 9 1987 (37),191 m,Goalkeeper
+Ben Cabango,May 30 2000 (24),186 m,Centre-Back
+Hannes Delcroix,Feb 28 1999 (26),183 m,Centre-Back
+Harry Darling,Aug 8 1999 (25),189 m,Centre-Back
+Josh Tymon,May 22 1999 (25),180 m,Left-Back
+Kristian Pedersen,Aug 4 1994 (30),189 m,Left-Back
+Nathan Tjoe-A-On,Dec 22 2001 (23),182 m,Left-Back
+Josh Key,Nov 19 1999 (25),178 m,Right-Back
+Cyrus Christie,Sep 30 1992 (32),188 m,Right-Back
+Kyle Naughton,Nov 17 1988 (36),181 m,Right-Back
+Sam Parker,Jul 7 2006 (18),178 m,Right-Back
+Lewis O'Brien,Oct 14 1998 (26),173 m,Central Midfield
+Gonçalo Franco,Nov 17 2000 (24),176 m,Central Midfield
+Jay Fulton,Apr 1 1994 (30),185 m,Central Midfield
+Joe Allen,Mar 14 1990 (35),170 m,Central Midfield
+Oliver Cooper,Dec 14 1999 (25),176 m,Attacking Midfield
+Ji-sung Eom,May 9 2002 (22),176 m,Left Winger
+Josh Ginnelly,Mar 24 1997 (28),175 m,Left Winger
+Myles Peart-Harris,Sep 18 2002 (22),187 m,Left Winger
+Florian Bianchini,Jun 25 2001 (23),182 m,Right Winger
+Ronald,Jun 14 2001 (23),177 m,Right Winger
+Zan Vipotnik,Mar 18 2002 (23),185 m,Centre-Forward
+Liam Cullen,Apr 23 1999 (25),178 m,Centre-Forward
+Daniel Bachmann,Jul 9 1994 (30),191 m,Goalkeeper
+Egil Selvik,Jul 30 1997 (27),192 m,Goalkeeper
+Jonathan Bond,May 19 1993 (31),193 m,Goalkeeper
+Alfie Marriott,Mar 26 2004 (21),,Goalkeeper
+Francisco Sierralta,May 6 1997 (27),192 m,Centre-Back
+Mattie Pollock,Sep 28 2001 (23),190 m,Centre-Back
+James Abankwah,Jan 16 2004 (21),188 m,Centre-Back
+Kévin Keben,Jan 26 2004 (21),187 m,Centre-Back
+Angelo Ogbonna,May 23 1988 (36),191 m,Centre-Back
+Caleb Wiley,Dec 22 2004 (20),180 m,Left-Back
+Yasser Larouci,Jan 1 2001 (24),176 m,Left-Back
+James Morris,Nov 23 2001 (23),183 m,Left-Back
+Ryan Andrews,Aug 26 2004 (20),,Right-Back
+Jeremy Ngakia,Sep 7 2000 (24),184 m,Right-Back
+Edo Kayembe,Jun 3 1998 (26),183 m,Defensive Midfield
+Imrân Louza,May 1 1999 (25),178 m,Central Midfield
+Pierre Dwomoh,Jun 21 2004 (20),188 m,Central Midfield
+Tom Dele-Bashiru,Sep 17 1999 (25),178 m,Central Midfield
+Moussa Sissoko,Aug 16 1989 (35),187 m,Central Midfield
+Giorgi Chakvetadze,Aug 29 1999 (25),183 m,Attacking Midfield
+Kwadwo Baah,Jan 27 2003 (22),182 m,Left Winger
+Tom Ince,Jan 30 1992 (33),178 m,Right Winger
+Rocco Vata,Apr 18 2005 (19),184 m,Second Striker
+Vakoun Bayo,Jan 10 1997 (28),184 m,Centre-Forward
+Mamadou Doumbia,Feb 18 2006 (19),192 m,Centre-Forward
+Josh Griffiths,Sep 5 2001 (23),197 m,Goalkeeper
+Joe Wildsmith,Dec 28 1995 (29),189 m,Goalkeeper
+Ted Cann,Dec 27 2000 (24),195 m,Goalkeeper
+Mason Holgate,Oct 22 1996 (28),187 m,Centre-Back
+Semi Ajayi,Nov 9 1993 (31),193 m,Centre-Back
+Torbjørn Heggem,Jan 12 1999 (26),192 m,Centre-Back
+Kyle Bartley,May 22 1991 (33),194 m,Centre-Back
+Gianluca Frabotta,Jun 24 1999 (25),187 m,Left-Back
+Darnell Furlong,Oct 31 1995 (29),183 m,Right-Back
+Ousmane Diakité,Jul 25 2000 (24),189 m,Defensive Midfield
+Alex Mowatt,Feb 13 1995 (30),177 m,Central Midfield
+Jayson Molumby,Aug 6 1999 (25),176 m,Central Midfield
+John Swift,Jun 23 1995 (29),182 m,Central Midfield
+Isaac Price,Sep 26 2003 (21),188 m,Central Midfield
+Tom Fellows,Jul 25 2003 (21),183 m,Right Midfield
+Callum Styles,Mar 27 2000 (25),167 m,Left Midfield
+Mikey Johnston,Apr 19 1999 (25),176 m,Left Winger
+Grady Diangana,Apr 19 1998 (26),180 m,Right Winger
+Jed Wallace,Mar 29 1994 (30),178 m,Right Winger
+Adam Armstrong,Feb 10 1997 (28),173 m,Centre-Forward
+Josh Maja,Dec 27 1998 (26),181 m,Centre-Forward
+Karlan Grant,Sep 18 1997 (27),183 m,Centre-Forward
+Daryl Dike,Jun 3 2000 (24),187 m,Centre-Forward
+Will Lankshear,Apr 20 2005 (19),189 m,Centre-Forward
+Devante Cole,May 10 1995 (29),184 m,Centre-Forward
+Tammer Bany,Oct 19 2003 (21),181 m,Centre-Forward

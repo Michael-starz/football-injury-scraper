@@ -1,0 +1,493 @@
+player_name,date_of_birth/age,height,position
+Thibaut Courtois,May 11 1992 (32),200 m,Goalkeeper
+Andriy Lunin,Feb 11 1999 (26),191 m,Goalkeeper
+Éder Militão,Jan 18 1998 (27),186 m,Centre-Back
+Antonio Rüdiger,Mar 3 1993 (31),190 m,Centre-Back
+David Alaba,Jun 24 1992 (32),180 m,Centre-Back
+Raúl Asencio,Feb 13 2003 (22),184 m,Centre-Back
+Jesús Vallejo,Jan 5 1997 (28),184 m,Centre-Back
+Ferland Mendy,Jun 8 1995 (29),180 m,Left-Back
+Fran García,Aug 14 1999 (25),169 m,Left-Back
+Daniel Carvajal,Jan 11 1992 (33),173 m,Right-Back
+Lucas Vázquez,Jul 1 1991 (33),173 m,Right-Back
+Aurélien Tchouaméni,Jan 27 2000 (25),188 m,Defensive Midfield
+Federico Valverde,Jul 22 1998 (26),182 m,Central Midfield
+Eduardo Camavinga,Nov 10 2002 (22),182 m,Central Midfield
+Luka Modric,Sep 9 1985 (39),172 m,Central Midfield
+Dani Ceballos,Aug 7 1996 (28),179 m,Central Midfield
+Jude Bellingham,Jun 29 2003 (21),186 m,Attacking Midfield
+Vinicius Junior,Jul 12 2000 (24),176 m,Left Winger
+Rodrygo,Jan 9 2001 (24),174 m,Right Winger
+Arda Güler,Feb 25 2005 (19),175 m,Right Winger
+Brahim Díaz,Aug 3 1999 (25),170 m,Right Winger
+Kylian Mbappé,Dec 20 1998 (26),178 m,Centre-Forward
+Endrick,Jul 21 2006 (18),173 m,Centre-Forward
+Marc-André ter Stegen,Apr 30 1992 (32),187 m,Goalkeeper
+Iñaki Peña,Mar 2 1999 (25),184 m,Goalkeeper
+Wojciech Szczesny,Apr 18 1990 (34),195 m,Goalkeeper
+Pau Cubarsí,Jan 22 2007 (18),184 m,Centre-Back
+Ronald Araujo,Mar 7 1999 (25),192 m,Centre-Back
+Andreas Christensen,Apr 10 1996 (28),187 m,Centre-Back
+Eric García,Jan 9 2001 (24),182 m,Centre-Back
+Iñigo Martínez,May 17 1991 (33),182 m,Centre-Back
+Alejandro Balde,Oct 18 2003 (21),175 m,Left-Back
+Gerard Martín,Feb 26 2002 (22),186 m,Left-Back
+Jules Koundé,Nov 12 1998 (26),180 m,Right-Back
+Héctor Fort,Aug 2 2006 (18),185 m,Right-Back
+Marc Casadó,Sep 14 2003 (21),172 m,Defensive Midfield
+Marc Bernal,May 26 2007 (17),191 m,Defensive Midfield
+Pedri,Nov 25 2002 (22),174 m,Central Midfield
+Gavi,Aug 5 2004 (20),173 m,Central Midfield
+Fermín López,May 11 2003 (21),174 m,Central Midfield
+Frenkie de Jong,May 12 1997 (27),181 m,Central Midfield
+Dani Olmo,May 7 1998 (26),179 m,Attacking Midfield
+Pablo Torre,Apr 3 2003 (21),173 m,Attacking Midfield
+Raphinha,Dec 14 1996 (28),176 m,Left Winger
+Ansu Fati,Oct 31 2002 (22),178 m,Left Winger
+Lamine Yamal,Jul 13 2007 (17),180 m,Right Winger
+Ferran Torres,Feb 29 2000 (24),184 m,Right Winger
+Robert Lewandowski,Aug 21 1988 (36),185 m,Centre-Forward
+Pau Víctor,Nov 26 2001 (23),184 m,Centre-Forward
+Jan Oblak,Jan 7 1993 (32),188 m,Goalkeeper
+Juan Musso,May 6 1994 (30),191 m,Goalkeeper
+Robin Le Normand,Nov 11 1996 (28),187 m,Centre-Back
+José María Giménez,Jan 20 1995 (30),185 m,Centre-Back
+Clément Lenglet,Jun 17 1995 (29),186 m,Centre-Back
+Axel Witsel,Jan 12 1989 (36),186 m,Centre-Back
+César Azpilicueta,Aug 28 1989 (35),178 m,Centre-Back
+Reinildo Mandava,Jan 21 1994 (31),180 m,Left-Back
+Javi Galán,Nov 19 1994 (30),172 m,Left-Back
+Nahuel Molina,Apr 6 1998 (26),175 m,Right-Back
+Pablo Barrios,Jun 15 2003 (21),181 m,Central Midfield
+Conor Gallagher,Feb 6 2000 (25),182 m,Central Midfield
+Rodrigo De Paul,May 24 1994 (30),180 m,Central Midfield
+Koke,Jan 8 1992 (33),176 m,Central Midfield
+Marcos Llorente,Jan 30 1995 (30),184 m,Right Midfield
+Thomas Lemar,Nov 12 1995 (29),171 m,Attacking Midfield
+Samuel Lino,Dec 23 1999 (25),177 m,Left Winger
+Rodrigo Riquelme,Apr 2 2000 (24),174 m,Left Winger
+Ángel Correa,Mar 9 1995 (29),171 m,Right Winger
+Giuliano Simeone,Dec 18 2002 (22),173 m,Right Winger
+Julián Alvarez,Jan 31 2000 (25),170 m,Centre-Forward
+Alexander Sørloth,Dec 5 1995 (29),195 m,Centre-Forward
+Antoine Griezmann,Mar 21 1991 (33),176 m,Centre-Forward
+Álex Remiro,Mar 24 1995 (29),191 m,Goalkeeper
+Unai Marrero,Oct 9 2001 (23),189 m,Goalkeeper
+Nayef Aguerd,Mar 30 1996 (28),190 m,Centre-Back
+Igor Zubeldia,Mar 30 1997 (27),181 m,Centre-Back
+Jon Pacheco,Jan 8 2001 (24),184 m,Centre-Back
+Aritz Elustondo,Mar 28 1994 (30),180 m,Centre-Back
+Jon Martín,Apr 23 2006 (18),187 m,Centre-Back
+Javi López,Mar 25 2002 (22),183 m,Left-Back
+Aihen Muñoz,Aug 16 1997 (27),175 m,Left-Back
+Jon Aramburu,Jul 23 2002 (22),176 m,Right-Back
+Hamari Traoré,Jan 27 1992 (33),175 m,Right-Back
+Álvaro Odriozola,Dec 14 1995 (29),176 m,Right-Back
+Martín Zubimendi,Feb 2 1999 (26),181 m,Defensive Midfield
+Beñat Turrientes,Jan 31 2002 (23),181 m,Central Midfield
+Luka Sucic,Sep 8 2002 (22),185 m,Central Midfield
+Jon Ander Olasagasti,Aug 16 2000 (24),176 m,Central Midfield
+Brais Méndez,Jan 7 1997 (28),184 m,Attacking Midfield
+Arsen Zakharyan,May 26 2003 (21),183 m,Attacking Midfield
+Pablo Marín,Jul 3 2003 (21),178 m,Attacking Midfield
+Ander Barrenetxea,Dec 27 2001 (23),175 m,Left Winger
+Sheraldo Becker,Feb 9 1995 (30),180 m,Left Winger
+Takefusa Kubo,Jun 4 2001 (23),173 m,Right Winger
+Sergio Gómez,Sep 4 2000 (24),171 m,Right Winger
+Mikel Oyarzabal,Apr 21 1997 (27),181 m,Centre-Forward
+Orri Óskarsson,Aug 29 2004 (20),186 m,Centre-Forward
+Fran Vieites,May 7 1999 (25),196 m,Goalkeeper
+Adrián,Jan 3 1987 (38),190 m,Goalkeeper
+Natan,Feb 6 2001 (24),188 m,Centre-Back
+Diego Llorente,Aug 16 1993 (31),186 m,Centre-Back
+Marc Bartra,Jan 15 1991 (34),184 m,Centre-Back
+Romain Perraud,Sep 22 1997 (27),173 m,Left-Back
+Ricardo Rodríguez,Aug 25 1992 (32),182 m,Left-Back
+Aitor Ruibal,Mar 22 1996 (28),176 m,Right-Back
+Héctor Bellerín,Mar 19 1995 (29),178 m,Right-Back
+Youssouf Sabaly,Mar 5 1993 (31),173 m,Right-Back
+Ángel Ortiz,Jul 25 2004 (20),167 m,Right-Back
+Johnny Cardoso,Sep 20 2001 (23),186 m,Defensive Midfield
+Marc Roca,Nov 26 1996 (28),184 m,Defensive Midfield
+William Carvalho,Apr 7 1992 (32),187 m,Defensive Midfield
+Giovani Lo Celso,Apr 9 1996 (28),177 m,Central Midfield
+Sergi Altimira,Aug 25 2001 (23),188 m,Central Midfield
+Mateo Flores,Apr 7 2004 (20),,Central Midfield
+Pablo Fornals,Feb 22 1996 (29),178 m,Attacking Midfield
+Isco,Apr 21 1992 (32),176 m,Attacking Midfield
+Abde Ezzalzouli,Dec 17 2001 (23),177 m,Left Winger
+Jesús Rodríguez,Nov 21 2005 (19),185 m,Left Winger
+Antony,Feb 24 2000 (24),172 m,Right Winger
+Vitor Roque,Feb 28 2005 (19),174 m,Centre-Forward
+Cucho Hernández,Apr 20 1999 (25),176 m,Centre-Forward
+Chimy Ávila,Feb 6 1994 (31),172 m,Centre-Forward
+Cédric Bakambu,Apr 11 1991 (33),182 m,Centre-Forward
+Álvaro Fernández,Apr 13 1998 (26),185 m,Goalkeeper
+Ørjan Nyland,Sep 10 1990 (34),192 m,Goalkeeper
+Loïc Badé,Apr 11 2000 (24),191 m,Centre-Back
+Kike Salas,Apr 23 2002 (22),188 m,Centre-Back
+Marcão,Jun 5 1996 (28),185 m,Centre-Back
+Tanguy Nianzou,Jun 7 2002 (22),191 m,Centre-Back
+Adrià Pedrosa,May 13 1998 (26),172 m,Left-Back
+Juanlu Sánchez,Aug 15 2003 (21),186 m,Right-Back
+José Ángel Carmona,Jan 29 2002 (23),184 m,Right-Back
+Lucien Agoumé,Feb 9 2002 (23),185 m,Defensive Midfield
+Nemanja Gudelj,Nov 16 1991 (33),187 m,Defensive Midfield
+Albert Sambi Lokonga,Oct 22 1999 (25),183 m,Central Midfield
+Djibril Sow,Feb 6 1997 (28),184 m,Central Midfield
+Saúl Ñíguez,Nov 21 1994 (30),184 m,Central Midfield
+Manu Bueno,Jul 27 2004 (20),178 m,Central Midfield
+Stanis Idumbo,Jun 29 2005 (19),171 m,Attacking Midfield
+Rubén Vargas,Aug 5 1998 (26),179 m,Left Winger
+Chidera Ejuke,Jan 2 1998 (27),176 m,Left Winger
+Dodi Lukébakio,Sep 24 1997 (27),187 m,Right Winger
+Suso,Nov 19 1993 (31),177 m,Right Winger
+Peque Fernández,Oct 4 2002 (22),172 m,Second Striker
+Isaac Romero,May 18 2000 (24),183 m,Centre-Forward
+Akor Adams,Jan 29 2000 (25),190 m,Centre-Forward
+Sergio Herrera,Jun 5 1993 (31),192 m,Goalkeeper
+Aitor Fernández,May 3 1991 (33),182 m,Goalkeeper
+Enzo Boyomo,Oct 7 2001 (23),184 m,Centre-Back
+Jorge Herrando,Feb 28 2001 (23),192 m,Centre-Back
+Alejandro Catena,Oct 28 1994 (30),194 m,Centre-Back
+Unai García,Feb 3 1992 (33),186 m,Centre-Back
+Abel Bretones,Aug 21 2000 (24),188 m,Left-Back
+Juan Cruz,Jul 28 1992 (32),182 m,Left-Back
+Jesús Areso,Jul 2 1999 (25),182 m,Right-Back
+Rubén Peña,Jul 18 1991 (33),170 m,Right-Back
+Lucas Torró,Jul 19 1994 (30),190 m,Defensive Midfield
+Iker Muñoz,Sep 5 2002 (22),180 m,Defensive Midfield
+Jon Moncayola,May 13 1998 (26),182 m,Central Midfield
+Pablo Ibáñez,Sep 20 1998 (26),179 m,Central Midfield
+Aimar Oroz,Nov 27 2001 (23),177 m,Attacking Midfield
+Bryan Zaragoza,Sep 9 2001 (23),164 m,Left Winger
+Moi Gómez,Jun 23 1994 (30),176 m,Left Winger
+José Manuel Arnáiz,Apr 15 1995 (29),173 m,Left Winger
+Rubén García,Jul 14 1993 (31),172 m,Right Winger
+Kike Barja,Apr 1 1997 (27),179 m,Right Winger
+Ante Budimir,Jul 22 1991 (33),190 m,Centre-Forward
+Raúl García,Nov 3 2000 (24),192 m,Centre-Forward
+Unai Simón,Jun 11 1997 (27),190 m,Goalkeeper
+Julen Agirrezabala,Dec 26 2000 (24),187 m,Goalkeeper
+Dani Vivian,Jul 5 1999 (25),184 m,Centre-Back
+Aitor Paredes,Apr 29 2000 (24),185 m,Centre-Back
+Yeray Álvarez,Jan 24 1995 (30),182 m,Centre-Back
+Unai Núñez,Jan 30 1997 (28),186 m,Centre-Back
+Yuri Berchiche,Feb 10 1990 (35),181 m,Left-Back
+Adama Boiro,Jun 22 2002 (22),183 m,Left-Back
+Andoni Gorosabel,Aug 4 1996 (28),174 m,Right-Back
+Iñigo Lekue,May 4 1993 (31),180 m,Right-Back
+Óscar de Marcos,Apr 14 1989 (35),182 m,Right-Back
+Mikel Vesga,Apr 8 1993 (31),191 m,Defensive Midfield
+Beñat Prados,Feb 8 2001 (24),180 m,Central Midfield
+Mikel Jauregizar,Nov 13 2003 (21),177 m,Central Midfield
+Iñigo Ruiz de Galarreta,Aug 6 1993 (31),175 m,Central Midfield
+Oihan Sancet,Apr 25 2000 (24),188 m,Attacking Midfield
+Unai Gómez,May 25 2003 (21),183 m,Attacking Midfield
+Nico Williams,Jul 12 2002 (22),181 m,Left Winger
+Álex Berenguer,Jul 4 1995 (29),175 m,Left Winger
+Álvaro Djaló,Aug 16 1999 (25),175 m,Left Winger
+Iñaki Williams,Jun 15 1994 (30),186 m,Right Winger
+Gorka Guruzeta,Sep 12 1996 (28),188 m,Centre-Forward
+Maroan Sannadi,Feb 1 2001 (24),192 m,Centre-Forward
+Antonio Sivera,Aug 11 1996 (28),185 m,Goalkeeper
+Jesús Owono,Mar 1 2001 (23),181 m,Goalkeeper
+Adrián Rodríguez,Dec 12 2000 (24),195 m,Goalkeeper
+Abdel Abqar,Mar 10 1999 (25),188 m,Centre-Back
+Santiago Mouriño,Feb 13 2002 (23),186 m,Centre-Back
+Moussa Diarra,Nov 10 2000 (24),185 m,Centre-Back
+Adrián Pica,Apr 25 2002 (22),190 m,Centre-Back
+Facundo Garcés,Sep 5 1999 (25),189 m,Centre-Back
+Aleksandar Sedlar,Dec 13 1991 (33),180 m,Centre-Back
+Manu Sánchez,Aug 24 2000 (24),171 m,Left-Back
+Nahuel Tenaglia,Feb 21 1996 (29),181 m,Right-Back
+Hugo Novoa,Jan 24 2003 (22),182 m,Right-Back
+Antonio Blanco,Jul 23 2000 (24),176 m,Defensive Midfield
+Carlos Protesoni,Mar 30 1998 (26),185 m,Defensive Midfield
+Ander Guevara,Jul 7 1997 (27),180 m,Central Midfield
+Jon Guridi,Feb 28 1995 (29),179 m,Central Midfield
+Carles Aleñá,Jan 5 1998 (27),180 m,Central Midfield
+Joan Jordán,Jul 6 1994 (30),185 m,Central Midfield
+Carlos Martín,Apr 22 2002 (22),180 m,Left Winger
+Tomás Conechny,Mar 30 1998 (26),176 m,Left Winger
+Carlos Vicente,Apr 23 1999 (25),179 m,Right Winger
+Toni Martínez,Jun 30 1997 (27),187 m,Centre-Forward
+Asier Villalibre,Sep 30 1997 (27),182 m,Centre-Forward
+Kike García,Nov 25 1989 (35),186 m,Centre-Forward
+Pau Cabanes,Feb 17 2005 (20),179 m,Centre-Forward
+Iván Villar,Jul 9 1997 (27),186 m,Goalkeeper
+Vicente Guaita,Jan 10 1987 (38),190 m,Goalkeeper
+Carl Starfelt,Jun 1 1995 (29),187 m,Centre-Back
+Javi Rodríguez,Jun 27 2003 (21),178 m,Centre-Back
+Carlos Domínguez,Feb 11 2001 (24),187 m,Centre-Back
+Marcos Alonso,Dec 28 1990 (34),188 m,Left-Back
+Mihailo Ristic,Oct 31 1995 (29),180 m,Left-Back
+Óscar Mingueza,May 13 1999 (25),184 m,Right-Back
+Javier Manquillo,May 5 1994 (30),178 m,Right-Back
+Sergio Carreira,Oct 13 2000 (24),170 m,Right-Back
+Damián Rodríguez,Mar 17 2003 (21),180 m,Defensive Midfield
+Jailson,Sep 7 1995 (29),187 m,Defensive Midfield
+Fran Beltrán,Feb 3 1999 (26),165 m,Central Midfield
+Hugo Sotelo,Dec 19 2003 (21),180 m,Central Midfield
+Ilaix Moriba,Jan 19 2003 (22),185 m,Central Midfield
+Hugo Álvarez,Jul 2 2003 (21),176 m,Left Winger
+Williot Swedberg,Feb 1 2004 (21),187 m,Left Winger
+Alfon González,May 4 1999 (25),172 m,Left Winger
+Franco Cervi,May 26 1994 (30),166 m,Left Winger
+Fer López,May 24 2004 (20),188 m,Right Winger
+Iker Losada,Aug 1 2001 (23),175 m,Second Striker
+Borja Iglesias,Jan 17 1993 (32),187 m,Centre-Forward
+Iago Aspas,Aug 1 1987 (37),176 m,Centre-Forward
+Pablo Durán,May 25 2001 (23),176 m,Centre-Forward
+Giorgi Mamardashvili,Sep 29 2000 (24),197 m,Goalkeeper
+Stole Dimitrievski,Dec 25 1993 (31),188 m,Goalkeeper
+Jaume Doménech,Nov 5 1990 (34),185 m,Goalkeeper
+Cristhian Mosquera,Jun 27 2004 (20),191 m,Centre-Back
+Yarek Gasiorowski,Jan 12 2005 (20),192 m,Centre-Back
+César Tárrega,Feb 26 2002 (22),194 m,Centre-Back
+Mouctar Diakhaby,Dec 19 1996 (28),192 m,Centre-Back
+José Gayà,May 25 1995 (29),172 m,Left-Back
+Jesús Vázquez,Jan 2 2003 (22),182 m,Left-Back
+Max Aarons,Jan 4 2000 (25),177 m,Right-Back
+Correia,Mar 9 1999 (25),176 m,Right-Back
+Dimitri Foulquier,Mar 23 1993 (31),183 m,Right-Back
+Pepelu,Aug 11 1998 (26),186 m,Defensive Midfield
+Enzo Barrenechea,May 22 2001 (23),186 m,Defensive Midfield
+Hugo Guillamón,Jan 31 2000 (25),178 m,Defensive Midfield
+Javi Guerra,May 13 2003 (21),187 m,Central Midfield
+André Almeida,May 30 2000 (24),176 m,Attacking Midfield
+Iván Jaime,Sep 26 2000 (24),180 m,Attacking Midfield
+Martín Tejón,Apr 12 2004 (20),165 m,Attacking Midfield
+Luis Rioja,Oct 16 1993 (31),176 m,Left Winger
+Sergi Canós,Feb 2 1997 (28),177 m,Left Winger
+Diego López,May 13 2002 (22),172 m,Right Winger
+Fran Pérez,Sep 9 2002 (22),176 m,Right Winger
+Hugo Duro,Nov 10 1999 (25),177 m,Centre-Forward
+Umar Sadiq,Feb 2 1997 (28),191 m,Centre-Forward
+Rafa Mir,Jun 18 1997 (27),191 m,Centre-Forward
+Diego Conde,Oct 28 1998 (26),188 m,Goalkeeper
+Luiz Júnior,Jan 14 2001 (24),192 m,Goalkeeper
+Iker Álvarez,Jul 25 2001 (23),190 m,Goalkeeper
+Logan Costa,Apr 1 2001 (23),190 m,Centre-Back
+Willy Kambwala,Aug 25 2004 (20),192 m,Centre-Back
+Eric Bailly,Apr 12 1994 (30),187 m,Centre-Back
+Raúl Albiol,Sep 4 1985 (39),190 m,Centre-Back
+Pau Navarro,Apr 25 2005 (19),185 m,Centre-Back
+Sergi Cardona,Jul 8 1999 (25),186 m,Left-Back
+Alfonso Pedraza,Apr 9 1996 (28),184 m,Left-Back
+Juan Foyth,Jan 12 1998 (27),187 m,Right-Back
+Kiko Femenía,Feb 2 1991 (34),174 m,Right-Back
+Pape Gueye,Jan 24 1999 (26),189 m,Defensive Midfield
+Santi Comesaña,Oct 5 1996 (28),188 m,Central Midfield
+Dani Parejo,Apr 16 1989 (35),182 m,Central Midfield
+Tajon Buchanan,Feb 8 1999 (26),183 m,Right Midfield
+Denis Suárez,Jan 6 1994 (31),176 m,Attacking Midfield
+Álex Baena,Jul 20 2001 (23),174 m,Left Winger
+Yéremy Pino,Oct 20 2002 (22),172 m,Right Winger
+Ilias Akhomach,Apr 16 2004 (20),175 m,Right Winger
+Nicolas Pépé,May 29 1995 (29),183 m,Right Winger
+Thierno Barry,Oct 21 2002 (22),195 m,Centre-Forward
+Ayoze Pérez,Jul 29 1993 (31),178 m,Centre-Forward
+Gerard Moreno,Apr 7 1992 (32),180 m,Centre-Forward
+David Soria,Apr 4 1993 (31),192 m,Goalkeeper
+Jiri Letacek,Jan 9 1999 (26),196 m,Goalkeeper
+Omar Alderete,Dec 26 1996 (28),188 m,Centre-Back
+Djené,Dec 31 1991 (33),178 m,Centre-Back
+Juan Berrocal,Feb 5 1999 (26),187 m,Centre-Back
+Domingos Duarte,Mar 10 1995 (29),192 m,Centre-Back
+Juan Bernat,Mar 1 1993 (31),170 m,Left-Back
+Diego Rico,Feb 23 1993 (32),183 m,Left-Back
+Fabrizio Angileri,Mar 15 1994 (30),185 m,Left-Back
+Juan Iglesias,Jul 3 1998 (26),187 m,Right-Back
+Allan Nyom,May 10 1988 (36),189 m,Right-Back
+Ramón Terrats,Oct 18 2000 (24),181 m,Defensive Midfield
+Mauro Arambarri,Sep 30 1995 (29),175 m,Central Midfield
+Luis Milla,Oct 7 1994 (30),175 m,Central Midfield
+Yellu Santiago,May 25 2004 (20),192 m,Central Midfield
+Christantus Uche,May 19 2003 (21),190 m,Attacking Midfield
+Alberto Risco,Aug 30 2005 (19),,Attacking Midfield
+Juanmi,May 20 1993 (31),172 m,Left Winger
+Coba da Costa,Jul 26 2002 (22),,Left Winger
+Álex Sola,Jun 9 1999 (25),178 m,Right Winger
+Carles Pérez,Feb 16 1998 (27),173 m,Right Winger
+Peter Federico,Jul 25 2002 (22),180 m,Right Winger
+Borja Mayoral,Apr 5 1997 (27),182 m,Centre-Forward
+Bertuğ Yıldırım,Jul 12 2002 (22),191 m,Centre-Forward
+Álvaro Rodríguez,Jul 14 2004 (20),193 m,Centre-Forward
+Augusto Batalla,Apr 30 1996 (28),186 m,Goalkeeper
+Dani Cárdenas,Mar 28 1997 (27),186 m,Goalkeeper
+Abdul Mumin,Jun 6 1998 (26),188 m,Centre-Back
+Florian Lejeune,May 20 1991 (33),190 m,Centre-Back
+Pelayo Fernández,Apr 29 2003 (21),193 m,Centre-Back
+Aridane Hernández,Mar 23 1989 (35),188 m,Centre-Back
+Pep Chavarría,Apr 10 1998 (26),174 m,Left-Back
+Alfonso Espino,Jan 5 1992 (33),172 m,Left-Back
+Andrei Rațiu,Jun 20 1998 (26),183 m,Right-Back
+Iván Balliu,Jan 1 1992 (33),172 m,Right-Back
+Gerard Gumbau,Dec 18 1994 (30),188 m,Defensive Midfield
+Óscar Valentín,Aug 20 1994 (30),177 m,Central Midfield
+Unai López,Oct 30 1995 (29),170 m,Central Midfield
+Pedro Díaz,Jun 5 1998 (26),180 m,Central Midfield
+Pathé Ciss,Mar 16 1994 (30),186 m,Central Midfield
+Randy Nteka,Dec 6 1997 (27),189 m,Attacking Midfield
+Joni Montiel,Sep 3 1998 (26),173 m,Attacking Midfield
+Oscar Trejo,Apr 26 1988 (36),180 m,Attacking Midfield
+Álvaro García,Oct 27 1992 (32),167 m,Left Winger
+Jorge de Frutos,Feb 20 1997 (28),173 m,Right Winger
+Adrián Embarba,May 7 1992 (32),173 m,Right Winger
+Isi Palazón,Dec 27 1994 (30),169 m,Second Striker
+Sergio Camello,Feb 10 2001 (24),182 m,Centre-Forward
+Raúl de Tomás,Oct 17 1994 (30),180 m,Centre-Forward
+Sergi Guardiola,May 29 1991 (33),185 m,Centre-Forward
+Dominik Greif,Apr 6 1997 (27),197 m,Goalkeeper
+Leo Román,Jul 6 2000 (24),189 m,Goalkeeper
+Iván Cuéllar,May 27 1984 (40),187 m,Goalkeeper
+Martin Valjent,Dec 11 1995 (29),187 m,Centre-Back
+José Copete,Oct 10 1999 (25),190 m,Centre-Back
+Antonio Raíllo,Oct 8 1991 (33),187 m,Centre-Back
+David López,Feb 3 2003 (22),195 m,Centre-Back
+Toni Lato,Nov 21 1997 (27),171 m,Left-Back
+Johan Mojica,Aug 21 1992 (32),185 m,Left-Back
+Pablo Maffeo,Jul 12 1997 (27),172 m,Right-Back
+Mateu Morey,Mar 2 2000 (24),173 m,Right-Back
+Samú Costa,Nov 27 2000 (24),185 m,Defensive Midfield
+Omar Mascarell,Feb 2 1993 (32),181 m,Defensive Midfield
+Sergi Darder,Dec 22 1993 (31),180 m,Central Midfield
+Manu Morlanes,Jan 12 1999 (26),178 m,Central Midfield
+Antonio Sánchez,Apr 22 1997 (27),179 m,Central Midfield
+Robert Navarro,Apr 12 2002 (22),178 m,Attacking Midfield
+Dani Rodríguez,Jun 6 1988 (36),178 m,Attacking Midfield
+Chiquinho,Feb 5 2000 (25),179 m,Left Winger
+Takuma Asano,Nov 10 1994 (30),173 m,Right Winger
+Valery Fernández,Nov 23 1999 (25),182 m,Right Winger
+Vedat Muriqi,Apr 24 1994 (30),194 m,Centre-Forward
+Cyle Larin,Apr 17 1995 (29),188 m,Centre-Forward
+Abdón Prats,Dec 7 1992 (32),181 m,Centre-Forward
+Dinko Horkas,Mar 10 1999 (25),189 m,Goalkeeper
+Jasper Cillessen,Apr 22 1989 (35),187 m,Goalkeeper
+Mika Mármol,Jul 1 2001 (23),181 m,Centre-Back
+Scott McKenna,Nov 12 1996 (28),189 m,Centre-Back
+Alex Suárez,Mar 18 1993 (31),180 m,Centre-Back
+Juanma Herzog,May 13 2004 (20),186 m,Centre-Back
+Álex Muñoz,Jul 30 1994 (30),187 m,Left-Back
+Andy Pelmard,Mar 12 2000 (24),180 m,Right-Back
+Viti Rozada,Sep 16 1997 (27),172 m,Right-Back
+Marvin Park,Jul 3 2000 (24),177 m,Right-Back
+Stefan Bajcetic,Oct 22 2004 (20),185 m,Defensive Midfield
+Dário Essugo,Mar 14 2005 (19),178 m,Defensive Midfield
+Javi Muñoz,Feb 28 1995 (29),177 m,Central Midfield
+Enzo Loiodice,Nov 27 2000 (24),177 m,Central Midfield
+José Campaña,May 31 1993 (31),179 m,Central Midfield
+Alberto Moleiro,Sep 30 2003 (21),171 m,Attacking Midfield
+Kirian Rodríguez,Mar 5 1996 (28),178 m,Attacking Midfield
+Manu Fuster,Oct 22 1997 (27),169 m,Left Winger
+Benito Ramírez,Jul 11 1995 (29),179 m,Left Winger
+Adnan Januzaj,Feb 5 1995 (30),186 m,Right Winger
+Fábio Silva,Jul 19 2002 (22),185 m,Centre-Forward
+Oli McBurnie,Jun 4 1996 (28),188 m,Centre-Forward
+Sandro Ramírez,Jul 9 1995 (29),174 m,Centre-Forward
+Marc Cardona,Jul 8 1995 (29),182 m,Centre-Forward
+Jaime Mata,Oct 24 1988 (36),186 m,Centre-Forward
+Paulo Gazzaniga,Jan 2 1992 (33),195 m,Goalkeeper
+Juan Carlos,Jan 20 1988 (37),187 m,Goalkeeper
+Vladyslav Krapyvtsov,Jun 25 2005 (19),188 m,Goalkeeper
+Ladislav Krejci,Apr 20 1999 (25),191 m,Centre-Back
+Alejandro Francés,Aug 1 2002 (22),182 m,Centre-Back
+David López,Oct 9 1989 (35),185 m,Centre-Back
+Daley Blind,Mar 9 1990 (34),180 m,Centre-Back
+Juanpe,Apr 30 1991 (33),190 m,Centre-Back
+Miguel Gutiérrez,Jul 27 2001 (23),180 m,Left-Back
+Arnau Martínez,Apr 25 2003 (21),182 m,Right-Back
+Arthur Melo,Aug 12 1996 (28),172 m,Defensive Midfield
+Oriol Romeu,Sep 24 1991 (33),183 m,Defensive Midfield
+Yangel Herrera,Jan 7 1998 (27),184 m,Central Midfield
+Donny van de Beek,Apr 18 1997 (27),184 m,Central Midfield
+Jhon Solís,Oct 3 2004 (20),186 m,Central Midfield
+Iván Martín,Feb 14 1999 (26),178 m,Attacking Midfield
+Gabriel Misehouy,Jul 18 2005 (19),173 m,Attacking Midfield
+Bryan Gil,Feb 11 2001 (24),175 m,Left Winger
+Arnaut Danjuma,Jan 31 1997 (28),178 m,Left Winger
+Min-su Kim,Jan 19 2006 (19),177 m,Left Winger
+Viktor Tsygankov,Nov 15 1997 (27),178 m,Right Winger
+Yáser Asprilla,Nov 19 2003 (21),176 m,Right Winger
+Portu,May 21 1992 (32),167 m,Right Winger
+Abel Ruiz,Jan 28 2000 (25),182 m,Centre-Forward
+Bojan Miovski,Jun 24 1999 (25),189 m,Centre-Forward
+Cristhian Stuani,Oct 12 1986 (38),184 m,Centre-Forward
+Karl Hein,Apr 13 2002 (22),193 m,Goalkeeper
+André Ferreira,May 29 1996 (28),193 m,Goalkeeper
+Eray Cömert,Feb 4 1998 (27),183 m,Centre-Back
+Javi Sánchez,Mar 14 1997 (27),189 m,Centre-Back
+Joseph Aidoo,Sep 29 1995 (29),181 m,Centre-Back
+Cenk Özkacar,Oct 6 2000 (24),190 m,Centre-Back
+David Torres,Mar 5 2003 (21),182 m,Centre-Back
+Adam Aznou,Jun 2 2006 (18),178 m,Left-Back
+Antonio Candela,Apr 27 2000 (24),185 m,Right-Back
+Luis Pérez,Feb 4 1995 (30),173 m,Right-Back
+Florian Grillitsch,Aug 7 1995 (29),187 m,Defensive Midfield
+Stanko Juric,Aug 16 1996 (28),188 m,Defensive Midfield
+Mario Martín,Mar 5 2004 (20),177 m,Defensive Midfield
+Tamás Nikitscher,Nov 3 1999 (25),193 m,Central Midfield
+Selim Amallah,Nov 15 1996 (28),185 m,Attacking Midfield
+Chuki,Apr 29 2004 (20),,Attacking Midfield
+Raúl Moro,Dec 5 2002 (22),169 m,Left Winger
+Darwin Machís,Feb 7 1993 (32),171 m,Left Winger
+Kenedy,Feb 8 1996 (29),180 m,Left Winger
+Amath Ndiaye,Jul 16 1996 (28),173 m,Right Winger
+Anuar,Jan 15 1995 (30),173 m,Right Winger
+Iván Sánchez,Sep 23 1992 (32),169 m,Right Winger
+Juanmi Latasa,Mar 23 2001 (23),192 m,Centre-Forward
+Mamadou Sylla,Mar 20 1994 (30),180 m,Centre-Forward
+Marcos André,Oct 20 1996 (28),185 m,Centre-Forward
+Juan Soriano,Aug 23 1997 (27),185 m,Goalkeeper
+Marko Dmitrovic,Jan 24 1992 (33),189 m,Goalkeeper
+Alvin Abajas,May 12 2003 (21),,Goalkeeper
+Jorge Sáenz,Nov 17 1996 (28),188 m,Centre-Back
+Sergio González,Apr 20 1992 (32),189 m,Centre-Back
+Matija Nastasić,Mar 28 1993 (31),187 m,Centre-Back
+Javi Hernández,May 2 1998 (26),180 m,Left-Back
+Borna Barisic,Nov 10 1992 (32),186 m,Left-Back
+Enric Franquesa,Feb 26 1997 (27),175 m,Left-Back
+Valentin Rosier,Aug 19 1996 (28),175 m,Right-Back
+Adrià Altimira,Mar 28 2001 (23),170 m,Right-Back
+Renato Tapia,Jul 28 1995 (29),185 m,Defensive Midfield
+Yvan Neyou,Jan 3 1997 (28),180 m,Defensive Midfield
+Julián Chicco,Jan 13 1998 (27),187 m,Defensive Midfield
+Seydouba Cissé,Feb 10 2001 (24),178 m,Central Midfield
+Darko Brasanac,Feb 12 1992 (33),178 m,Central Midfield
+Óscar Rodríguez,Jun 28 1998 (26),174 m,Attacking Midfield
+Roberto López,Apr 24 2000 (24),179 m,Attacking Midfield
+Juan Cruz,Apr 25 2000 (24),180 m,Left Winger
+Duk,Feb 16 2000 (25),182 m,Left Winger
+Munir El Haddadi,Sep 1 1995 (29),177 m,Right Winger
+Dani Raba,Oct 29 1995 (29),185 m,Right Winger
+Miguel de la Fuente,Sep 3 1999 (25),182 m,Centre-Forward
+Diego García,Apr 18 2000 (24),188 m,Centre-Forward
+Joan García,May 4 2001 (23),191 m,Goalkeeper
+Fernando Pacheco,May 18 1992 (32),187 m,Goalkeeper
+Ángel Fortuño,Oct 5 2001 (23),183 m,Goalkeeper
+Marash Kumbulla,Feb 8 2000 (25),191 m,Centre-Back
+Fernando Calero,Sep 14 1995 (29),184 m,Centre-Back
+Leandro Cabrera,Jun 17 1991 (33),190 m,Centre-Back
+Sergi Gómez,Mar 28 1992 (32),185 m,Centre-Back
+Pablo Ramón,Jun 30 2001 (23),184 m,Centre-Back
+Carlos Romero,Oct 29 2001 (23),,Left-Back
+Brian Oliván,Apr 1 1994 (30),175 m,Left-Back
+Omar El Hilali,Sep 12 2003 (21),183 m,Right-Back
+Álvaro Tejero,Jul 20 1996 (28),174 m,Right-Back
+Urko González de Zarate,Mar 20 2001 (23),189 m,Defensive Midfield
+Alex Král,May 19 1998 (26),186 m,Central Midfield
+José Gragera,May 14 2000 (24),186 m,Central Midfield
+Álvaro Aguado,May 1 1996 (28),175 m,Central Midfield
+Pol Lozano,Oct 6 1999 (25),176 m,Central Midfield
+Edu Expósito,Aug 1 1996 (28),178 m,Central Midfield
+Justin Smith,Feb 4 2003 (22),189 m,Central Midfield
+Rafel Bauzà,Jan 30 2005 (20),183 m,Central Midfield
+Javi Puado,May 25 1998 (26),177 m,Left Winger
+Pere Milla,Sep 23 1992 (32),180 m,Left Winger
+Jofre Carreras,Jun 17 2001 (23),175 m,Right Winger
+Antoniu Roca,Sep 5 2002 (22),,Right Winger
+Alejo Veliz,Sep 19 2003 (21),186 m,Centre-Forward
+Walid Cheddira,Jan 22 1998 (27),187 m,Centre-Forward
+Roberto Fernández,Jul 3 2002 (22),186 m,Centre-Forward
+Omar Sadik,Mar 22 2004 (20),,Centre-Forward

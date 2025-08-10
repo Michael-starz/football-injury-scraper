@@ -1,0 +1,474 @@
+player_name,date_of_birth/age,height,position
+Gianluigi Donnarumma,Feb 25 1999 (26),196 m,Goalkeeper
+Matvey Safonov,Feb 25 1999 (26),192 m,Goalkeeper
+Arnau Tenas,May 30 2001 (23),185 m,Goalkeeper
+Willian Pacho,Oct 16 2001 (23),187 m,Centre-Back
+Marquinhos,May 14 1994 (30),183 m,Centre-Back
+Lucas Beraldo,Nov 24 2003 (21),182 m,Centre-Back
+Presnel Kimpembe,Aug 13 1995 (29),183 m,Centre-Back
+El Hannach,Dec 7 2006 (18),183 m,Centre-Back
+Nuno Mendes,Jun 19 2002 (22),183 m,Left-Back
+Lucas Hernández,Feb 14 1996 (29),184 m,Left-Back
+Achraf Hakimi,Nov 4 1998 (26),181 m,Right-Back
+Yoram Zague,May 15 2006 (18),168 m,Right-Back
+João Neves,Sep 27 2004 (20),174 m,Defensive Midfield
+Vitinha,Feb 13 2000 (25),172 m,Central Midfield
+Warren Zaïre-Emery,Mar 8 2006 (19),178 m,Central Midfield
+Fabián Ruiz,Apr 3 1996 (29),189 m,Central Midfield
+Senny Mayulu,May 17 2006 (18),183 m,Central Midfield
+Khvicha Kvaratskhelia,Feb 12 2001 (24),183 m,Left Winger
+Bradley Barcola,Sep 2 2002 (22),182 m,Left Winger
+Désiré Doué,Jun 3 2005 (19),181 m,Left Winger
+Ousmane Dembélé,May 15 1997 (27),178 m,Right Winger
+Kang-in Lee,Feb 19 2001 (24),174 m,Right Winger
+Mbaye,Jan 24 2008 (17),,Right Winger
+Gonçalo Ramos,Jun 20 2001 (23),185 m,Centre-Forward
+Radoslaw Majecki,Nov 16 1999 (25),193 m,Goalkeeper
+Philipp Köhn,Apr 2 1998 (27),190 m,Goalkeeper
+Yann Lienard,Mar 16 2003 (22),194 m,Goalkeeper
+Wilfried Singo,Dec 25 2000 (24),190 m,Centre-Back
+Thilo Kehrer,Sep 21 1996 (28),186 m,Centre-Back
+Mohammed Salisu,Apr 17 1999 (25),188 m,Centre-Back
+Christian Mawissa,Apr 18 2005 (19),184 m,Centre-Back
+Caio Henrique,Jul 31 1997 (27),178 m,Left-Back
+Kassoum Ouattara,Oct 14 2004 (20),176 m,Left-Back
+Vanderson,Jun 21 2001 (23),173 m,Right-Back
+Jordan Teze,Sep 30 1999 (25),183 m,Right-Back
+Denis Zakaria,Nov 20 1996 (28),190 m,Defensive Midfield
+Soungoutou Magassa,Oct 8 2003 (21),190 m,Defensive Midfield
+Moatasem Al-Musrati,Apr 6 1996 (28),189 m,Defensive Midfield
+Lamine Camara,Jan 1 2004 (21),173 m,Central Midfield
+Edan Diop,Aug 28 2004 (20),173 m,Central Midfield
+Aleksandr Golovin,May 30 1996 (28),178 m,Attacking Midfield
+Eliesse Ben Seghir,Feb 16 2005 (20),178 m,Left Winger
+Takumi Minamino,Jan 16 1995 (30),172 m,Left Winger
+Michal,Jun 22 2005 (19),,Left Winger
+Maghnes Akliouche,Feb 25 2002 (23),183 m,Right Winger
+Krépin Diatta,Feb 25 1999 (26),175 m,Right Winger
+Mika Biereth,Feb 8 2003 (22),187 m,Centre-Forward
+Folarin Balogun,Jul 3 2001 (23),178 m,Centre-Forward
+George Ilenikhena,Aug 16 2006 (18),185 m,Centre-Forward
+Breel Embolo,Feb 14 1997 (28),187 m,Centre-Forward
+Marco Bizot,Mar 10 1991 (34),193 m,Goalkeeper
+Grégoire Coudert,Apr 3 1999 (26),192 m,Goalkeeper
+Noah Jauny,Aug 26 2004 (20),194 m,Goalkeeper
+Soumaïla Coulibaly,Oct 14 2003 (21),191 m,Centre-Back
+Brendan Chardonnet,Dec 22 1994 (30),181 m,Centre-Back
+Abdoulaye Ndiaye,Apr 10 2002 (22),195 m,Centre-Back
+Julien Le Cardinal,Aug 3 1997 (27),184 m,Centre-Back
+Bradley Locko,May 6 2002 (22),180 m,Left-Back
+Jordan Amavi,Mar 9 1994 (31),176 m,Left-Back
+Massadio Haidara,Dec 2 1992 (32),179 m,Left-Back
+Justin Bourgault,Sep 14 2005 (19),185 m,Left-Back
+Luck Zogbé,Mar 24 2005 (20),178 m,Right-Back
+Kenny Lala,Oct 3 1991 (33),178 m,Right-Back
+Pierre Lees-Melou,May 25 1993 (31),185 m,Defensive Midfield
+Edimilson Fernandes,Apr 15 1996 (28),187 m,Defensive Midfield
+Jonas Martin,Apr 9 1990 (34),184 m,Defensive Midfield
+Hamidou Makalou,Jul 15 2006 (18),164 m,Defensive Midfield
+Mahdi Camara,Jun 30 1998 (26),178 m,Central Midfield
+Hugo Magnetti,May 30 1998 (26),180 m,Central Midfield
+Romain Faivre,Jul 14 1998 (26),180 m,Right Midfield
+Kamory Doumbia,Feb 18 2003 (22),170 m,Attacking Midfield
+Abdallah Sima,Jun 17 2001 (23),188 m,Left Winger
+Ibrahim Salah,Aug 30 2001 (23),186 m,Left Winger
+Mathias Pereira Lage,Nov 30 1996 (28),180 m,Left Winger
+Romain Del Castillo,Mar 29 1996 (29),172 m,Right Winger
+Mama Baldé,Nov 6 1995 (29),176 m,Centre-Forward
+Ludovic Ajorque,Feb 25 1994 (31),196 m,Centre-Forward
+Lucas Chevalier,Nov 6 2001 (23),189 m,Goalkeeper
+Vito Mannone,Mar 2 1988 (37),188 m,Goalkeeper
+Marc-Aurèle Caillard,May 12 1994 (30),192 m,Goalkeeper
+Bafodé Diakité,Jan 6 2001 (24),184 m,Centre-Back
+Alexsandro,Aug 9 1999 (25),191 m,Centre-Back
+Samuel Umtiti,Nov 14 1993 (31),182 m,Centre-Back
+Aïssa Mandi,Oct 22 1991 (33),186 m,Centre-Back
+Gabriel Gudmundsson,Apr 29 1999 (25),180 m,Left-Back
+Mitchel Bakker,Jun 20 2000 (24),189 m,Left-Back
+Ismaily,Jan 11 1990 (35),177 m,Left-Back
+Tiago Santos,Jul 23 2002 (22),175 m,Right-Back
+Thomas Meunier,Sep 12 1991 (33),191 m,Right-Back
+Ngal'ayel Mukau,Nov 3 2004 (20),186 m,Defensive Midfield
+Nabil Bentaleb,Nov 24 1994 (30),187 m,Defensive Midfield
+Benjamin André,Aug 3 1990 (34),180 m,Defensive Midfield
+Ayyoub Bouaddi,Oct 2 2007 (17),186 m,Central Midfield
+André Gomes,Jul 30 1993 (31),190 m,Central Midfield
+Ethan Mbappé,Dec 29 2006 (18),180 m,Central Midfield
+Angel Gomes,Aug 31 2000 (24),166 m,Attacking Midfield
+Hákon Arnar Haraldsson,Apr 10 2003 (21),178 m,Attacking Midfield
+Rémy Cabella,Mar 8 1990 (35),172 m,Attacking Midfield
+Osame Sahraoui,Jun 11 2001 (23),170 m,Left Winger
+Edon Zhegrova,Mar 31 1999 (26),180 m,Right Winger
+Jonathan David,Jan 14 2000 (25),178 m,Centre-Forward
+Matías Fernández-Pardo,Feb 3 2005 (20),188 m,Centre-Forward
+Chuba Akpom,Oct 9 1995 (29),183 m,Centre-Forward
+Marcin Bulka,Oct 4 1999 (25),199 m,Goalkeeper
+Maxime Dupé,Mar 4 1993 (32),188 m,Goalkeeper
+Teddy Boulhendi,Apr 9 2001 (23),185 m,Goalkeeper
+Youssouf Ndayishimiye,Oct 27 1998 (26),183 m,Centre-Back
+Moïse Bombito,Mar 30 2000 (25),190 m,Centre-Back
+Mohamed Abdelmonem,Feb 1 1999 (26),183 m,Centre-Back
+Dante,Oct 18 1983 (41),188 m,Centre-Back
+Amidou Doumbouya,Aug 5 2007 (17),182 m,Centre-Back
+Melvin Bard,Nov 6 2000 (24),173 m,Left-Back
+Ali Abdi,Dec 20 1993 (31),183 m,Left-Back
+Jonathan Clauss,Sep 25 1992 (32),178 m,Right-Back
+Antoine Mendy,May 27 2004 (20),187 m,Right-Back
+Pablo Rosario,Jan 7 1997 (28),185 m,Defensive Midfield
+Baptiste Santamaria,Mar 9 1995 (30),183 m,Defensive Midfield
+Hicham Boudaoui,Sep 23 1999 (25),175 m,Central Midfield
+Tanguy Ndombélé,Dec 28 1996 (28),181 m,Central Midfield
+Morgan Sanson,Aug 18 1994 (30),180 m,Central Midfield
+Tom Louchet,May 4 2003 (21),178 m,Right Midfield
+Jérémie Boga,Jan 3 1997 (28),172 m,Left Winger
+Sofiane Diop,Jun 9 2000 (24),175 m,Left Winger
+Mohamed-Ali Cho,Jan 19 2004 (21),182 m,Right Winger
+Badredine Bouanani,Dec 8 2004 (20),177 m,Right Winger
+Evann Guessand,Jul 1 2001 (23),188 m,Centre-Forward
+Terem Moffi,May 25 1999 (25),188 m,Centre-Forward
+Youssoufa Moukoko,Nov 20 2004 (20),179 m,Centre-Forward
+Gaëtan Laborde,May 3 1994 (30),181 m,Centre-Forward
+Victor Orakpo,Jan 14 2006 (19),194 m,Centre-Forward
+Lucas Perri,Dec 10 1997 (27),197 m,Goalkeeper
+Rémy Descamps,Jun 25 1996 (28),196 m,Goalkeeper
+Diarra,Nov 11 2002 (22),190 m,Goalkeeper
+Moussa Niakhaté,Mar 8 1996 (29),190 m,Centre-Back
+Duje Caleta-Car,Sep 17 1996 (28),193 m,Centre-Back
+Warmed Omari,Apr 23 2000 (24),188 m,Centre-Back
+Abner,May 27 2000 (24),181 m,Left-Back
+Nicolás Tagliafico,Aug 31 1992 (32),171 m,Left-Back
+Ainsley Maitland-Niles,Aug 29 1997 (27),180 m,Right-Back
+Saël Kumbedi,Mar 26 2005 (20),175 m,Right-Back
+Clinton Mata,Nov 7 1992 (32),180 m,Right-Back
+Tanner Tessmann,Sep 24 2001 (23),188 m,Defensive Midfield
+Nemanja Matic,Aug 1 1988 (36),194 m,Defensive Midfield
+Paul Akouokou,Dec 20 1997 (27),181 m,Defensive Midfield
+Corentin Tolisso,Aug 3 1994 (30),181 m,Central Midfield
+Jordan Veretout,Mar 1 1993 (32),177 m,Central Midfield
+Thiago Almada,Apr 26 2001 (23),171 m,Attacking Midfield
+Malick Fofana,Mar 31 2005 (20),169 m,Left Winger
+Rayan Cherki,Aug 17 2003 (21),177 m,Right Winger
+Ernest Nuamah,Nov 1 2003 (21),178 m,Right Winger
+Georges Mikautadze,Oct 31 2000 (24),176 m,Centre-Forward
+Alexandre Lacazette,May 28 1991 (33),175 m,Centre-Forward
+Molebe,Sep 18 2007 (17),,Centre-Forward
+Mathew Ryan,Apr 8 1992 (32),184 m,Goalkeeper
+Hervé Koffi,Oct 16 1996 (28),186 m,Goalkeeper
+Denis Petric,May 24 1988 (36),186 m,Goalkeeper
+Facundo Medina,May 28 1999 (25),184 m,Centre-Back
+Malang Sarr,Jan 23 1999 (26),183 m,Centre-Back
+Jonathan Gradit,Nov 24 1992 (32),180 m,Centre-Back
+Juma Bah,Apr 11 2006 (18),195 m,Centre-Back
+Nidal Celik,Jul 17 2006 (18),192 m,Centre-Back
+Jhoanner Chávez,Apr 25 2002 (22),182 m,Left-Back
+Deiver Machado,Sep 2 1993 (31),180 m,Left-Back
+Ruben Aguilar,Apr 26 1993 (31),172 m,Right-Back
+Hamzat Ojediran,Nov 14 2003 (21),179 m,Defensive Midfield
+Nampalys Mendy,Jun 23 1992 (32),168 m,Defensive Midfield
+Tom Pouilly,Jun 18 2003 (21),180 m,Defensive Midfield
+Andy Diouf,May 17 2003 (21),187 m,Central Midfield
+Neil El Aynaoui,Jul 2 2001 (23),185 m,Central Midfield
+Anass Zaroury,Nov 7 2000 (24),176 m,Attacking Midfield
+Angelo Fulgini,Aug 20 1996 (28),182 m,Attacking Midfield
+Adrien Thomasson,Dec 10 1993 (31),175 m,Attacking Midfield
+Jeremy Agbonifo,Oct 24 2005 (19),178 m,Right Winger
+M'Bala Nzola,Aug 18 1996 (28),185 m,Centre-Forward
+Martín Satriano,Feb 20 2001 (24),187 m,Centre-Forward
+Wesley Saïd,Apr 19 1995 (29),171 m,Centre-Forward
+Florian Sotoca,Oct 25 1990 (34),187 m,Centre-Forward
+Rémy Labeau Lascary,Mar 3 2003 (22),184 m,Centre-Forward
+Goduine Koyalipou,Feb 15 2000 (25),184 m,Centre-Forward
+Gerónimo Rulli,May 20 1992 (32),189 m,Goalkeeper
+Jeffrey de Lange,Apr 1 1998 (27),190 m,Goalkeeper
+Rubén Blanco,Jul 25 1995 (29),188 m,Goalkeeper
+Van Neck,Mar 7 2004 (21),191 m,Goalkeeper
+Leonardo Balerdi,Jan 26 1999 (26),187 m,Centre-Back
+Luiz Felipe,Mar 22 1997 (28),187 m,Centre-Back
+Derek Cornelius,Nov 25 1997 (27),187 m,Centre-Back
+Chancel Mbemba,Aug 8 1994 (30),182 m,Centre-Back
+Quentin Merlin,May 16 2002 (22),174 m,Left-Back
+Ulisses Garcia,Jan 11 1996 (29),182 m,Left-Back
+Amar Dedic,Aug 18 2002 (22),180 m,Right-Back
+Amir Murillo,Feb 11 1996 (29),184 m,Right-Back
+Pol Lirola,Aug 13 1997 (27),183 m,Right-Back
+Pierre-Emile Højbjerg,Aug 5 1995 (29),185 m,Defensive Midfield
+Ismaël Bennacer,Dec 1 1997 (27),175 m,Defensive Midfield
+Geoffrey Kondogbia,Feb 15 1993 (32),188 m,Defensive Midfield
+Adrien Rabiot,Apr 3 1995 (30),191 m,Central Midfield
+Valentin Rongier,Dec 7 1994 (30),172 m,Central Midfield
+Bilal Nadir,Nov 28 2003 (21),179 m,Central Midfield
+Amine Harit,Jun 18 1997 (27),180 m,Attacking Midfield
+Darryl Bakola,Nov 30 2007 (17),178 m,Attacking Midfield
+Luis Henrique,Dec 14 2001 (23),181 m,Left Winger
+Jonathan Rowe,Apr 30 2003 (21),173 m,Left Winger
+Mason Greenwood,Oct 1 2001 (23),181 m,Right Winger
+Amine Gouiri,Feb 16 2000 (25),181 m,Centre-Forward
+Neal Maupay,Aug 14 1996 (28),171 m,Centre-Forward
+Faris Moumbagna,Jul 1 2000 (24),185 m,Centre-Forward
+Yehvann Diouf,Nov 16 1999 (25),190 m,Goalkeeper
+Alexandre Olliero,Feb 15 1996 (29),193 m,Goalkeeper
+Ludovic Butelle,Apr 3 1983 (42),188 m,Goalkeeper
+Joseph Okumu,May 26 1997 (27),190 m,Centre-Back
+Cédric Kipré,Dec 9 1996 (28),193 m,Centre-Back
+Malcolm Jeng,Mar 9 2005 (20),190 m,Centre-Back
+Abdoul Koné,Apr 22 2005 (19),192 m,Centre-Back
+Sergio Akieme,Dec 16 1997 (27),175 m,Left-Back
+Nhoa Sangui,Feb 27 2006 (19),178 m,Left-Back
+Aurélio Buta,Feb 10 1997 (28),172 m,Right-Back
+Hiroki Sekine,Aug 11 2002 (22),187 m,Right-Back
+Gabriel Moscardo,Sep 28 2005 (19),185 m,Defensive Midfield
+Mory Gbane,Dec 25 2000 (24),188 m,Defensive Midfield
+Amadou Koné,May 14 2005 (19),,Defensive Midfield
+Valentin Atangana,Aug 25 2005 (19),176 m,Central Midfield
+Yaya Fofana,Jun 12 2004 (20),180 m,Central Midfield
+Teddy Teuma,Sep 30 1993 (31),176 m,Central Midfield
+John Patrick,Sep 24 2003 (21),192 m,Central Midfield
+Reda Khadra,Jul 4 2001 (23),175 m,Attacking Midfield
+Keito Nakamura,Jul 28 2000 (24),180 m,Left Winger
+Mohamed Daramy,Jan 7 2002 (23),180 m,Left Winger
+Mamadou Diakhon,Sep 22 2005 (19),180 m,Left Winger
+Junya Ito,Mar 9 1993 (32),176 m,Right Winger
+Oumar Diakité,Dec 20 2003 (21),185 m,Centre-Forward
+Jordan,Apr 26 1996 (28),191 m,Centre-Forward
+Brice Samba,Apr 25 1994 (30),187 m,Goalkeeper
+Doğan Alemdar,Oct 29 2002 (22),192 m,Goalkeeper
+Gauthier Gallon,Apr 23 1993 (31),187 m,Goalkeeper
+Steve Mandanda,Mar 28 1985 (40),187 m,Goalkeeper
+Geoffrey Lembet,Sep 23 1988 (36),186 m,Goalkeeper
+Lilian Brassier,Nov 2 1999 (25),186 m,Centre-Back
+Anthony Rouault,May 29 2001 (23),186 m,Centre-Back
+Alidu Seidu,Jun 4 2000 (24),173 m,Centre-Back
+Mikayil Faye,Jul 14 2004 (20),183 m,Centre-Back
+Christopher Wooh,Sep 18 2001 (23),191 m,Centre-Back
+Jérémy Jacquet,Jul 13 2005 (19),190 m,Centre-Back
+Adrien Truffert,Nov 20 2001 (23),176 m,Left-Back
+Mahamadou Nagida,Jun 28 2005 (19),176 m,Left-Back
+Lorenz Assignon,Jun 22 2000 (24),181 m,Right-Back
+Hans Hateboer,Jan 9 1994 (31),187 m,Right-Back
+Azor Matusiwa,Apr 28 1998 (26),173 m,Defensive Midfield
+Seko Fofana,May 7 1995 (29),185 m,Central Midfield
+Ismaël Koné,Jun 16 2002 (22),188 m,Central Midfield
+Jordan James,Jul 2 2004 (20),182 m,Central Midfield
+Naouirou Ahamada,Mar 29 2002 (23),183 m,Central Midfield
+Djaoui Cissé,Jan 31 2004 (21),188 m,Central Midfield
+Ayanda Sishuba,Feb 2 2005 (20),169 m,Attacking Midfield
+Kazeem Olaigbe,Jan 2 2003 (22),178 m,Left Winger
+Ludovic Blas,Dec 31 1997 (27),180 m,Right Winger
+Mousa Tamari,Jun 10 1997 (27),178 m,Right Winger
+Carlos Andrés Gómez,Sep 12 2002 (22),171 m,Right Winger
+Arnaud Kalimuendo,Jan 20 2002 (23),175 m,Centre-Forward
+Kyogo Furuhashi,Jan 20 1995 (30),170 m,Centre-Forward
+Mohamed Kader Meïté,Oct 11 2007 (17),,Centre-Forward
+Wilson Samaké,Mar 30 2004 (21),182 m,Centre-Forward
+Guillaume Restes,Mar 11 2005 (20),188 m,Goalkeeper
+Kjetil Haug,Jun 12 1998 (26),187 m,Goalkeeper
+Justin Lacombe,Apr 9 2003 (21),192 m,Goalkeeper
+Charlie Cresswell,Aug 17 2002 (22),190 m,Centre-Back
+Mark McKenzie,Feb 25 1999 (26),184 m,Centre-Back
+Rasmus Nicolaisen,Mar 16 1997 (28),191 m,Centre-Back
+Jaydee Canvot,Jul 29 2006 (18),188 m,Centre-Back
+Ümit Akdağ,Oct 6 2003 (21),192 m,Centre-Back
+Gabriel Suazo,Aug 9 1997 (27),178 m,Left-Back
+Aradj,Jun 5 2005 (19),179 m,Left-Back
+Warren Kamanzi,Nov 11 2000 (24),177 m,Right-Back
+Djibril Sidibé,Jul 29 1992 (32),183 m,Right-Back
+Cristian Cásseres Jr.,Jan 20 2000 (25),176 m,Central Midfield
+Vincent Sierro,Oct 8 1995 (29),185 m,Central Midfield
+Niklas Schmidt,Mar 1 1998 (27),184 m,Central Midfield
+Miha Zajc,Jul 1 1994 (30),178 m,Central Midfield
+Rafik Messali,Apr 28 2003 (21),177 m,Right Midfield
+Aron Dønnum,Apr 20 1998 (26),178 m,Left Midfield
+Mathis Saka,Sep 20 2006 (18),172 m,Attacking Midfield
+Yann Gboho,Jan 14 2001 (24),178 m,Left Winger
+Zakaria Aboukhlal,Feb 18 2000 (25),179 m,Right Winger
+Shavy Babicka,Jun 1 2000 (24),179 m,Right Winger
+Noah Edjouma,Oct 4 2005 (19),182 m,Right Winger
+Frank Magri,Sep 4 1999 (25),178 m,Centre-Forward
+Joshua King,Jan 15 1992 (33),180 m,Centre-Forward
+Benjamin Lecomte,Apr 26 1991 (33),186 m,Goalkeeper
+Dimitry Bertaud,Jun 6 1998 (26),180 m,Goalkeeper
+Belmin Dizdarevic,Aug 9 2001 (23),189 m,Goalkeeper
+Bamo Meïté,Dec 3 2001 (23),184 m,Centre-Back
+Becir Omeragic,Jan 20 2002 (23),187 m,Centre-Back
+Kiki Kouyaté,Apr 15 1997 (27),192 m,Centre-Back
+Modibo Sagnan,Apr 14 1999 (25),187 m,Centre-Back
+Christopher Jullien,Mar 22 1993 (32),196 m,Centre-Back
+Nikola Maksimović,Nov 25 1991 (33),193 m,Centre-Back
+Issiaga Sylla,Jan 1 1994 (31),180 m,Left-Back
+Lucas Mincarelli,Jan 5 2004 (21),179 m,Left-Back
+Théo Sainte-Luce,Oct 20 1998 (26),176 m,Left-Back
+Enzo Tchato,Nov 23 2002 (22),182 m,Right-Back
+Falaye Sacko,May 1 1995 (29),180 m,Right-Back
+Joris Chotard,Sep 24 2001 (23),179 m,Defensive Midfield
+Rabby Nzingoula,Nov 25 2005 (19),183 m,Defensive Midfield
+Khalil Fayad,Jun 9 2004 (20),172 m,Central Midfield
+Jordan Ferri,Mar 12 1992 (33),173 m,Central Midfield
+Téji Savanier,Dec 22 1991 (33),172 m,Attacking Midfield
+Nicolas Pays,Jul 7 2003 (21),177 m,Attacking Midfield
+Wahbi Khazri,Feb 8 1991 (34),176 m,Left Winger
+Tanguy Coulibaly,Feb 18 2001 (24),179 m,Right Winger
+Othmane Maamma,Oct 6 2005 (19),182 m,Right Winger
+Andy Delort,Oct 9 1991 (33),181 m,Centre-Forward
+Glenn Ngosso,Jan 12 2004 (21),,Centre-Forward
+Djordje Petrovic,Oct 8 1999 (25),190 m,Goalkeeper
+Alaa Bellaarouch,Jan 1 2002 (23),189 m,Goalkeeper
+Karl-Johan Johnsson,Jan 28 1990 (35),188 m,Goalkeeper
+Mamadou Sarr,Aug 29 2005 (19),194 m,Centre-Back
+Ismaël Doukouré,Jul 24 2003 (21),183 m,Centre-Back
+Abakar Sylla,Dec 25 2002 (22),188 m,Centre-Back
+Andrew Omobamidele,Jun 23 2002 (22),188 m,Centre-Back
+Yoni Gomis,Sep 23 2005 (19),186 m,Centre-Back
+Valentín Barco,Jul 23 2004 (20),170 m,Left-Back
+Eduard Sobol,Apr 20 1995 (29),186 m,Left-Back
+Thomas Delaine,Mar 24 1992 (33),180 m,Left-Back
+Guéla Doué,Oct 17 2002 (22),187 m,Right-Back
+Pape Diong,Jun 15 2006 (18),193 m,Defensive Midfield
+Andrey Santos,May 3 2004 (20),180 m,Central Midfield
+Habib Diarra,Jan 3 2004 (21),178 m,Central Midfield
+Sebastian Nanasi,May 16 2002 (22),178 m,Left Midfield
+Félix Lemaréchal,Aug 7 2003 (21),180 m,Attacking Midfield
+Diallo,May 28 2006 (18),176 m,Attacking Midfield
+Diego Moreira,Aug 6 2004 (20),179 m,Left Winger
+Óscar Perea,Sep 27 2005 (19),174 m,Left Winger
+Dilane Bakwa,Aug 26 2002 (22),180 m,Right Winger
+Samuel Amo-Ameyaw,Jul 18 2006 (18),174 m,Right Winger
+Abdoul Ouattara,Oct 22 2005 (19),180 m,Right Winger
+Emanuel Emegha,Feb 3 2003 (22),196 m,Centre-Forward
+Sékou Mara,Jul 30 2002 (22),183 m,Centre-Forward
+Moïse Sahi Dion,Dec 20 2001 (23),175 m,Centre-Forward
+Alban Lafont,Jan 23 1999 (26),196 m,Goalkeeper
+Anthony Lopes,Oct 1 1990 (34),184 m,Goalkeeper
+Patrik Carlgren,Jan 8 1992 (33),189 m,Goalkeeper
+Hugo Barbet,Nov 22 2001 (23),189 m,Goalkeeper
+Nathan Zézé,Jun 18 2005 (19),190 m,Centre-Back
+Saïdou Sow,Jul 4 2002 (22),187 m,Centre-Back
+Jean-Charles Castelletto,Jan 26 1995 (30),186 m,Centre-Back
+Nicolas Pallois,Sep 19 1987 (37),189 m,Centre-Back
+Nicolas Cozza,Jan 8 1999 (26),178 m,Left-Back
+Kelvin Amian,Feb 8 1998 (27),180 m,Right-Back
+Fabien Centonze,Jan 16 1996 (29),182 m,Right-Back
+Marcus Coco,Jun 24 1996 (28),184 m,Right-Back
+Johann Lepenant,Oct 22 2002 (22),176 m,Defensive Midfield
+Pedro Chirivella,May 23 1997 (27),178 m,Defensive Midfield
+Francis Coquelin,May 13 1991 (33),177 m,Defensive Midfield
+Douglas Augusto,Jan 13 1997 (28),173 m,Central Midfield
+Dehmaine Tabibou,Apr 17 2005 (19),183 m,Central Midfield
+Louis Leroux,Jan 23 2006 (19),184 m,Attacking Midfield
+Florent Mollet,Nov 19 1991 (33),175 m,Attacking Midfield
+Moses Simon,Jul 12 1995 (29),168 m,Left Winger
+Herba Guirassy,Aug 29 2006 (18),186 m,Left Winger
+Sorba Thomas,Jan 25 1999 (26),185 m,Right Winger
+Matthis Abline,Mar 28 2003 (22),182 m,Centre-Forward
+Mostafa Mohamed,Nov 28 1997 (27),185 m,Centre-Forward
+Meschack Elia,Aug 6 1997 (27),173 m,Centre-Forward
+Tino Kadewere,Jan 5 1996 (29),183 m,Centre-Forward
+Arthur Desmas,Apr 7 1994 (30),196 m,Goalkeeper
+Mathieu Gorgelin,Aug 5 1990 (34),187 m,Goalkeeper
+Arouna Sangante,Apr 12 2002 (22),189 m,Centre-Back
+Étienne Youté Kinkoué,Jan 14 2002 (23),196 m,Centre-Back
+Gautier Lloris,Jul 18 1995 (29),191 m,Centre-Back
+Fodé Ballo-Touré,Jan 3 1997 (28),182 m,Left-Back
+Yanis Zouaoui,Apr 28 1998 (26),183 m,Left-Back
+Timothée Pembélé,Sep 9 2002 (22),183 m,Right-Back
+Loïc Nego,Jan 15 1991 (34),181 m,Right-Back
+Oualid El Hajjam,Feb 19 1991 (34),181 m,Right-Back
+Junior Mwanga,May 11 2003 (21),184 m,Defensive Midfield
+Abdoulaye Touré,Mar 3 1994 (31),188 m,Defensive Midfield
+Rassoul Ndiaye,Dec 11 2001 (23),179 m,Defensive Midfield
+Aloïs Confais,Sep 7 1996 (28),174 m,Defensive Midfield
+Yassine Kechta,Feb 25 2002 (23),174 m,Central Midfield
+Daler Kuzyaev,Jan 15 1993 (32),182 m,Central Midfield
+Mahamadou Diawara,Feb 17 2005 (20),187 m,Central Midfield
+Ismaïl Bouneb,Jun 7 2006 (18),182 m,Attacking Midfield
+Antoine Joujou,Mar 12 2003 (22),189 m,Left Winger
+Issa Soumaré,Oct 10 2000 (24),182 m,Left Winger
+Josué Casimir,Sep 24 2001 (23),178 m,Right Winger
+Ruben Londja,Jun 10 2006 (18),179 m,Right Winger
+Ilyes Housni,May 14 2005 (19),172 m,Centre-Forward
+Ahmed Hassan,Mar 5 1993 (32),191 m,Centre-Forward
+André Ayew,Dec 17 1989 (35),175 m,Centre-Forward
+Elysée Logbo,May 6 2004 (20),188 m,Centre-Forward
+Yann Kitala,Apr 9 1998 (26),186 m,Centre-Forward
+Donovan Léon,Nov 3 1992 (32),187 m,Goalkeeper
+Théo De Percin,Feb 2 2001 (24),185 m,Goalkeeper
+Raphaël Adiceam,Jul 3 1990 (34),179 m,Goalkeeper
+Tom Negrel,Apr 13 2003 (21),192 m,Goalkeeper
+Sinaly Diomandé,Apr 9 2001 (23),184 m,Centre-Back
+Gabriel Osho,Aug 14 1998 (26),185 m,Centre-Back
+Clément Akpa,Nov 24 2001 (23),181 m,Centre-Back
+Jubal,Aug 29 1993 (31),190 m,Centre-Back
+Gideon Mensah,Jul 18 1998 (26),178 m,Left-Back
+Fredrik Oppegård,Aug 7 2002 (22),175 m,Left-Back
+Ki-Jana Hoever,Jan 18 2002 (23),183 m,Right-Back
+Paul Joly,Jun 7 2000 (24),182 m,Right-Back
+Ange Loïc N'Gatta,Dec 11 2003 (21),175 m,Right-Back
+Elisha Owusu,Nov 7 1997 (27),182 m,Defensive Midfield
+Assane Dioussé,Sep 20 1997 (27),175 m,Defensive Midfield
+Nathan Buayi-Kiala,Feb 29 2004 (21),177 m,Defensive Midfield
+Han-Noah Massengo,Jul 7 2001 (23),178 m,Central Midfield
+Kévin Danois,Jun 28 2004 (20),183 m,Central Midfield
+Hamed Junior Traoré,Feb 16 2000 (25),177 m,Attacking Midfield
+Ben Viadere,Sep 2 2005 (19),176 m,Attacking Midfield
+Lassine Sinayoko,Dec 8 1999 (25),186 m,Left Winger
+Zossou,Jun 14 2005 (19),178 m,Left Winger
+Gaëtan Perrin,Jun 7 1996 (28),169 m,Right Winger
+Lasso Coulibaly,Oct 19 2002 (22),176 m,Right Winger
+Eros Maddy,Feb 5 2001 (24),177 m,Right Winger
+Theo Bair,Aug 27 1999 (25),191 m,Centre-Forward
+Ado Onaiwu,Nov 8 1995 (29),180 m,Centre-Forward
+Florian Ayé,Jan 19 1997 (28),184 m,Centre-Forward
+Yahia Fofana,Aug 21 2000 (24),194 m,Goalkeeper
+Melvin Zinga,Mar 16 2002 (23),187 m,Goalkeeper
+Oumar Pona,Jun 21 2006 (18),189 m,Goalkeeper
+Emmanuel Biumla,May 8 2005 (19),185 m,Centre-Back
+Cédric Hountondji,Jan 19 1994 (31),194 m,Centre-Back
+Jordan Lefort,Aug 9 1993 (31),184 m,Centre-Back
+Ousmane Camara,Mar 6 2003 (22),197 m,Centre-Back
+Abdoulaye Bamba,Apr 25 1990 (34),182 m,Centre-Back
+Jacques Ekomié,Aug 19 2003 (21),179 m,Left-Back
+Florent Hanin,Feb 4 1990 (35),177 m,Left-Back
+Carlens Arcus,Jun 28 1996 (28),176 m,Right-Back
+Lilian Raolisoa,Jun 16 2000 (24),178 m,Right-Back
+Sabanovic,Aug 22 1999 (25),182 m,Right-Back
+Jean-Eudes Aholou,Mar 20 1994 (31),186 m,Defensive Midfield
+Zinédine Ould Khaled,Jan 14 2000 (25),195 m,Defensive Midfield
+Haris Belkebla,Jan 28 1994 (31),177 m,Central Midfield
+Yassin Belkhdim,Feb 14 2002 (23),175 m,Central Midfield
+Pierrick Capelle,Apr 15 1987 (37),181 m,Central Midfield
+Himad Abdelli,Nov 17 1999 (25),185 m,Attacking Midfield
+Farid El Melali,Jul 13 1997 (27),168 m,Left Winger
+Jim Allevinah,Feb 27 1995 (30),172 m,Right Winger
+Zinedine Ferhat,Mar 1 1993 (32),180 m,Right Winger
+Justin Kalumba,Dec 25 2004 (20),171 m,Right Winger
+Estéban Lepaul,Apr 18 2000 (24),181 m,Centre-Forward
+Bamba Dieng,Mar 23 2000 (25),178 m,Centre-Forward
+Ibrahima Niane,Mar 11 1999 (26),187 m,Centre-Forward
+Sidiki Chérif,Dec 15 2006 (18),185 m,Centre-Forward
+Adrien Hunou,Jan 19 1994 (31),179 m,Centre-Forward
+Gautier Larsonneur,Feb 23 1997 (28),181 m,Goalkeeper
+Brice Maubleu,Dec 1 1989 (35),192 m,Goalkeeper
+Boubacar Fall,Feb 3 2001 (24),198 m,Goalkeeper
+Maxime Bernauer,Jul 1 1998 (26),185 m,Centre-Back
+Mickaël Nade,Mar 4 1999 (26),193 m,Centre-Back
+Dylan Batubinsika,Feb 15 1996 (29),185 m,Centre-Back
+Yunis Abdelhamid,Sep 28 1987 (37),190 m,Centre-Back
+Anthony Briançon,Nov 28 1994 (30),185 m,Centre-Back
+Pierre Cornud,Dec 12 1996 (28),177 m,Left-Back
+Léo Pétrot,Apr 15 1997 (27),188 m,Left-Back
+Yvann Maçon,Oct 1 1998 (26),176 m,Right-Back
+Dennis Appiah,Jun 9 1992 (32),179 m,Right-Back
+Pierre Ekwah,Jan 15 2002 (23),189 m,Defensive Midfield
+Louis Mouton,Jun 3 2002 (22),180 m,Defensive Midfield
+Lamine Fomba,Jan 26 1998 (27),188 m,Defensive Midfield
+Benjamin Bouchouari,Nov 13 2001 (23),165 m,Central Midfield
+Aïmen Moueffek,Apr 9 2001 (23),179 m,Central Midfield
+Florian Tardieu,Apr 22 1992 (32),181 m,Central Midfield
+Augustine Boakye,Nov 3 2000 (24),178 m,Attacking Midfield
+Igor Miladinovic,Jun 8 2003 (21),166 m,Attacking Midfield
+Ben Old,Aug 13 2002 (22),173 m,Left Winger
+Zuriko Davitashvili,Feb 15 2001 (24),175 m,Right Winger
+Lucas Stassin,Nov 29 2004 (20),183 m,Centre-Forward
+Irvin Cardona,Aug 8 1997 (27),185 m,Centre-Forward
+Ibrahim Sissoko,Nov 27 1995 (29),192 m,Centre-Forward
+Ibrahima Wadji,May 5 1995 (29),175 m,Centre-Forward
+Djylian N'Guessan,Aug 30 2008 (16),,Centre-Forward
